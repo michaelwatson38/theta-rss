@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only long put trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only long put trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 01 Mar 2024 23:53:59 +0000</lastBuildDate>
+    <item>
+      <title>🏁 danghai closed a long put on $GOOGL expiring 2024-02-16</title>
+      <link>https://thetagang.com/danghai/4901ea7e-144b-4002-8561-a5d9b6ea6504</link>
+      <description>For more details, &lt;a href='https://thetagang.com/danghai/4901ea7e-144b-4002-8561-a5d9b6ea6504'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4901ea7e-144b-4002-8561-a5d9b6ea6504-closing</guid>
+      <pubDate>Mon, 12 Feb 2024 19:26:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 tinnystrong closed a long put on $NVDA expiring 2024-02-16</title>
+      <link>https://thetagang.com/tinnystrong/28bbee08-fa1c-4fa9-a287-d8050422b65b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/28bbee08-fa1c-4fa9-a287-d8050422b65b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">28bbee08-fa1c-4fa9-a287-d8050422b65b-closing</guid>
+      <pubDate>Tue, 13 Feb 2024 04:51:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Thetagoon closed a long put on $FCEL expiring 2024-02-23</title>
+      <link>https://thetagang.com/Thetagoon/8cbe38bc-cc19-4832-aa16-ddb702903185</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Thetagoon/8cbe38bc-cc19-4832-aa16-ddb702903185'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8cbe38bc-cc19-4832-aa16-ddb702903185-closing</guid>
+      <pubDate>Tue, 13 Feb 2024 14:39:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 danghai opened a long put on $GOOGL expiring 2024-02-16</title>
+      <link>https://thetagang.com/danghai/702de760-556a-4152-bab7-390ac722e8bd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/danghai/702de760-556a-4152-bab7-390ac722e8bd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">702de760-556a-4152-bab7-390ac722e8bd-opening</guid>
+      <pubDate>Tue, 13 Feb 2024 14:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mehmehmeh opened a long put on $ARM expiring 2024-03-15</title>
+      <link>https://thetagang.com/mehmehmeh/7431cb65-f636-40a8-807e-709063c5f15e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/7431cb65-f636-40a8-807e-709063c5f15e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7431cb65-f636-40a8-807e-709063c5f15e-opening</guid>
+      <pubDate>Tue, 13 Feb 2024 15:32:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 alexhugo closed a long put on $QQQ expiring 2024-02-13</title>
+      <link>https://thetagang.com/alexhugo/0087a335-3208-44d6-b1d9-b0668e81c111</link>
+      <description>For more details, &lt;a href='https://thetagang.com/alexhugo/0087a335-3208-44d6-b1d9-b0668e81c111'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0087a335-3208-44d6-b1d9-b0668e81c111-closing</guid>
+      <pubDate>Tue, 13 Feb 2024 18:29:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 alexhugo closed a long put on $SPX expiring 2024-02-12</title>
+      <link>https://thetagang.com/alexhugo/da5e4812-fe72-40c7-bf11-eaef6c348fe9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/alexhugo/da5e4812-fe72-40c7-bf11-eaef6c348fe9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">da5e4812-fe72-40c7-bf11-eaef6c348fe9-closing</guid>
+      <pubDate>Tue, 13 Feb 2024 18:38:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Expresso_bean opened a long put on $SOXL expiring 2024-02-23</title>
+      <link>https://thetagang.com/Expresso_bean/5d5e2d9c-b1db-494f-8211-a8a45108b005</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Expresso_bean/5d5e2d9c-b1db-494f-8211-a8a45108b005'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5d5e2d9c-b1db-494f-8211-a8a45108b005-opening</guid>
+      <pubDate>Tue, 13 Feb 2024 19:16:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mehmehmeh opened a long put on $ARM expiring 2024-03-15</title>
+      <link>https://thetagang.com/mehmehmeh/b22e728b-ec2b-4496-80b0-0fa462d14473</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/b22e728b-ec2b-4496-80b0-0fa462d14473'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b22e728b-ec2b-4496-80b0-0fa462d14473-opening</guid>
+      <pubDate>Tue, 13 Feb 2024 21:12:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ninetoe closed a long put on $/NQ expiring 2024-02-14</title>
+      <link>https://thetagang.com/Ninetoe/de1383c7-4bf2-4e39-8587-9d932bec8c47</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/de1383c7-4bf2-4e39-8587-9d932bec8c47'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">de1383c7-4bf2-4e39-8587-9d932bec8c47-closing</guid>
+      <pubDate>Tue, 13 Feb 2024 23:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ninetoe closed a long put on $QQQ expiring 2024-02-13</title>
+      <link>https://thetagang.com/Ninetoe/3f017fe2-b4aa-4d94-a2a0-423c5405bd4a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/3f017fe2-b4aa-4d94-a2a0-423c5405bd4a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3f017fe2-b4aa-4d94-a2a0-423c5405bd4a-closing</guid>
+      <pubDate>Tue, 13 Feb 2024 23:49:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ninetoe closed a long put on $QQQ expiring 2024-02-13</title>
+      <link>https://thetagang.com/Ninetoe/1e021364-868d-4493-b67d-386e91f1b815</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/1e021364-868d-4493-b67d-386e91f1b815'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1e021364-868d-4493-b67d-386e91f1b815-closing</guid>
+      <pubDate>Tue, 13 Feb 2024 23:51:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 tinnystrong closed a long put on $NVDA expiring 2024-02-16</title>
+      <link>https://thetagang.com/tinnystrong/0579eb1a-34fb-4a2a-841d-dbaf688fc69b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/0579eb1a-34fb-4a2a-841d-dbaf688fc69b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0579eb1a-34fb-4a2a-841d-dbaf688fc69b-closing</guid>
+      <pubDate>Wed, 14 Feb 2024 03:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 tinnystrong opened a long put on $SHOP expiring 2024-03-15</title>
+      <link>https://thetagang.com/tinnystrong/0f21e0fb-255f-4898-b39b-b0aac7c31dbd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/0f21e0fb-255f-4898-b39b-b0aac7c31dbd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0f21e0fb-255f-4898-b39b-b0aac7c31dbd-opening</guid>
+      <pubDate>Wed, 14 Feb 2024 03:18:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Thetagoon opened a long put on $LUV expiring 2024-02-16</title>
+      <link>https://thetagang.com/Thetagoon/62499425-dca5-4f76-9c1a-c6d1cf2ed82c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Thetagoon/62499425-dca5-4f76-9c1a-c6d1cf2ed82c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">62499425-dca5-4f76-9c1a-c6d1cf2ed82c-opening</guid>
+      <pubDate>Wed, 14 Feb 2024 14:57:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aaronwang101 opened a long put on $SMH expiring 2024-04-19</title>
+      <link>https://thetagang.com/aaronwang101/48425243-be31-4ac7-9f37-2cae2eb2dce8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aaronwang101/48425243-be31-4ac7-9f37-2cae2eb2dce8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">48425243-be31-4ac7-9f37-2cae2eb2dce8-opening</guid>
+      <pubDate>Wed, 14 Feb 2024 15:15:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 sleepynate closed a long put on $SPX expiring 2024-02-14</title>
+      <link>https://thetagang.com/sleepynate/c2bd4ebd-fdfb-4fb6-87ea-42dc9af593d9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sleepynate/c2bd4ebd-fdfb-4fb6-87ea-42dc9af593d9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c2bd4ebd-fdfb-4fb6-87ea-42dc9af593d9-closing</guid>
+      <pubDate>Wed, 14 Feb 2024 15:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rik opened a long put on $MU expiring 2024-02-23</title>
+      <link>https://thetagang.com/rik/34da01b6-5100-4c97-8806-29ec91bfe379</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rik/34da01b6-5100-4c97-8806-29ec91bfe379'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">34da01b6-5100-4c97-8806-29ec91bfe379-opening</guid>
+      <pubDate>Wed, 14 Feb 2024 20:40:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mehmehmeh opened a long put on $SMCI expiring 2024-03-15</title>
+      <link>https://thetagang.com/mehmehmeh/f572d62e-2559-443a-a1af-2d0d402be05b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/f572d62e-2559-443a-a1af-2d0d402be05b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f572d62e-2559-443a-a1af-2d0d402be05b-opening</guid>
+      <pubDate>Wed, 14 Feb 2024 20:49:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ninetoe closed a long put on $QQQ expiring 2024-02-14</title>
+      <link>https://thetagang.com/Ninetoe/4449f8a0-df72-49db-bea5-8636817151f7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/4449f8a0-df72-49db-bea5-8636817151f7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4449f8a0-df72-49db-bea5-8636817151f7-closing</guid>
+      <pubDate>Wed, 14 Feb 2024 21:04:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ninetoe closed a long put on $/ES expiring 2024-02-14</title>
+      <link>https://thetagang.com/Ninetoe/defb2316-4314-44ef-9ff2-a42781cb4674</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/defb2316-4314-44ef-9ff2-a42781cb4674'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">defb2316-4314-44ef-9ff2-a42781cb4674-closing</guid>
+      <pubDate>Wed, 14 Feb 2024 21:04:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Ninetoe opened a long put on $/ES expiring 2024-02-15</title>
+      <link>https://thetagang.com/Ninetoe/9db532b4-4055-4f37-8b0f-1da5e3802752</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/9db532b4-4055-4f37-8b0f-1da5e3802752'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9db532b4-4055-4f37-8b0f-1da5e3802752-opening</guid>
+      <pubDate>Wed, 14 Feb 2024 21:09:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 tinnystrong opened a long put on $SHOP expiring 2024-03-15</title>
+      <link>https://thetagang.com/tinnystrong/c4a7d2a3-6dd3-47de-bdbd-236ea6570b83</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/c4a7d2a3-6dd3-47de-bdbd-236ea6570b83'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c4a7d2a3-6dd3-47de-bdbd-236ea6570b83-opening</guid>
+      <pubDate>Thu, 15 Feb 2024 04:24:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 tinnystrong opened a long put on $SHOP expiring 2024-03-15</title>
+      <link>https://thetagang.com/tinnystrong/e1f6809c-62a7-4f3b-8b76-98f1c3ab8749</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/e1f6809c-62a7-4f3b-8b76-98f1c3ab8749'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e1f6809c-62a7-4f3b-8b76-98f1c3ab8749-opening</guid>
+      <pubDate>Thu, 15 Feb 2024 04:32:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 tinnystrong opened a long put on $SHOP expiring 2024-03-15</title>
+      <link>https://thetagang.com/tinnystrong/46234d5d-f372-4fb5-a12e-8da22528aa81</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/46234d5d-f372-4fb5-a12e-8da22528aa81'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">46234d5d-f372-4fb5-a12e-8da22528aa81-opening</guid>
+      <pubDate>Thu, 15 Feb 2024 04:33:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 tinnystrong closed a long put on $SHOP expiring 2024-03-15</title>
+      <link>https://thetagang.com/tinnystrong/757af4d7-7cd9-492d-b45b-4531c8e1cbd0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/757af4d7-7cd9-492d-b45b-4531c8e1cbd0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">757af4d7-7cd9-492d-b45b-4531c8e1cbd0-closing</guid>
+      <pubDate>Thu, 15 Feb 2024 04:35:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 tinnystrong opened a long put on $SHOP expiring 2024-03-15</title>
+      <link>https://thetagang.com/tinnystrong/307879e7-47b8-4ea5-b665-5e6a319ed65e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/307879e7-47b8-4ea5-b665-5e6a319ed65e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">307879e7-47b8-4ea5-b665-5e6a319ed65e-opening</guid>
+      <pubDate>Thu, 15 Feb 2024 04:35:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Mr_integrity closed a long put on $NET expiring 2024-03-15</title>
+      <link>https://thetagang.com/Mr_integrity/cced284f-cfb5-4678-bb46-56a8c838fe4c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Mr_integrity/cced284f-cfb5-4678-bb46-56a8c838fe4c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cced284f-cfb5-4678-bb46-56a8c838fe4c-closing</guid>
+      <pubDate>Thu, 15 Feb 2024 15:24:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Thetagoon closed a long put on $SPY expiring 2024-02-15</title>
+      <link>https://thetagang.com/Thetagoon/af2627b3-00b9-42ae-94cb-30c89c20cdd2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Thetagoon/af2627b3-00b9-42ae-94cb-30c89c20cdd2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">af2627b3-00b9-42ae-94cb-30c89c20cdd2-closing</guid>
+      <pubDate>Thu, 15 Feb 2024 20:29:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 tinnystrong opened a long put on $SMCI expiring 2024-02-16</title>
+      <link>https://thetagang.com/tinnystrong/207b7717-e41e-418f-b660-c8c7f08b69ab</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/207b7717-e41e-418f-b660-c8c7f08b69ab'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">207b7717-e41e-418f-b660-c8c7f08b69ab-opening</guid>
+      <pubDate>Fri, 16 Feb 2024 03:24:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 tinnystrong opened a long put on $TSLA expiring 2024-02-23</title>
+      <link>https://thetagang.com/tinnystrong/03c3c70e-b92b-4876-8ddc-21c3b3f2cffb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/03c3c70e-b92b-4876-8ddc-21c3b3f2cffb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">03c3c70e-b92b-4876-8ddc-21c3b3f2cffb-opening</guid>
+      <pubDate>Fri, 16 Feb 2024 03:24:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 tinnystrong opened a long put on $SMCI expiring 2024-02-16</title>
+      <link>https://thetagang.com/tinnystrong/2efe1e0c-dc91-4f06-9349-a44722e18477</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/2efe1e0c-dc91-4f06-9349-a44722e18477'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2efe1e0c-dc91-4f06-9349-a44722e18477-opening</guid>
+      <pubDate>Fri, 16 Feb 2024 03:29:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 tinnystrong opened a long put on $SMCI expiring 2024-02-16</title>
+      <link>https://thetagang.com/tinnystrong/87a2bf88-5d59-4752-a166-50fe100cc969</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/87a2bf88-5d59-4752-a166-50fe100cc969'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">87a2bf88-5d59-4752-a166-50fe100cc969-opening</guid>
+      <pubDate>Fri, 16 Feb 2024 03:30:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aaronwang101 opened a long put on $/ES expiring 2024-04-19</title>
+      <link>https://thetagang.com/aaronwang101/eb296f61-426b-496e-9a0a-120d6feeac8c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aaronwang101/eb296f61-426b-496e-9a0a-120d6feeac8c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">eb296f61-426b-496e-9a0a-120d6feeac8c-opening</guid>
+      <pubDate>Fri, 16 Feb 2024 12:46:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 maltman1856 closed a long put on $SMCI expiring 2024-02-23</title>
+      <link>https://thetagang.com/maltman1856/ce4a7ad2-7c38-48d5-9d76-420b7d6e6d94</link>
+      <description>For more details, &lt;a href='https://thetagang.com/maltman1856/ce4a7ad2-7c38-48d5-9d76-420b7d6e6d94'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ce4a7ad2-7c38-48d5-9d76-420b7d6e6d94-closing</guid>
+      <pubDate>Fri, 16 Feb 2024 15:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Mr_integrity closed a long put on $SMCI expiring 2024-03-15</title>
+      <link>https://thetagang.com/Mr_integrity/175495a0-2a08-460c-8ed7-bdaa1d1bd75f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Mr_integrity/175495a0-2a08-460c-8ed7-bdaa1d1bd75f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">175495a0-2a08-460c-8ed7-bdaa1d1bd75f-closing</guid>
+      <pubDate>Fri, 16 Feb 2024 16:15:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 banadushi opened a long put on $SMCI expiring 2024-03-15</title>
+      <link>https://thetagang.com/banadushi/1b1a821a-3000-4d2f-b832-c65c53d29f99</link>
+      <description>For more details, &lt;a href='https://thetagang.com/banadushi/1b1a821a-3000-4d2f-b832-c65c53d29f99'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1b1a821a-3000-4d2f-b832-c65c53d29f99-opening</guid>
+      <pubDate>Fri, 16 Feb 2024 18:31:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 sleepynate closed a long put on $SPX expiring 2024-02-16</title>
+      <link>https://thetagang.com/sleepynate/d4f13ccc-5907-42f9-baed-940778f3715f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sleepynate/d4f13ccc-5907-42f9-baed-940778f3715f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d4f13ccc-5907-42f9-baed-940778f3715f-closing</guid>
+      <pubDate>Fri, 16 Feb 2024 21:37:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 sleepynate closed a long put on $SPX expiring 2024-02-16</title>
+      <link>https://thetagang.com/sleepynate/58891fab-1406-4b83-8382-c07a32cb0475</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sleepynate/58891fab-1406-4b83-8382-c07a32cb0475'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">58891fab-1406-4b83-8382-c07a32cb0475-closing</guid>
+      <pubDate>Fri, 16 Feb 2024 21:38:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 tinnystrong closed a long put on $SMCI expiring 2024-02-16</title>
+      <link>https://thetagang.com/tinnystrong/75503a6d-e0bf-425b-b5d3-d65b4cc2af31</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/75503a6d-e0bf-425b-b5d3-d65b4cc2af31'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">75503a6d-e0bf-425b-b5d3-d65b4cc2af31-closing</guid>
+      <pubDate>Sat, 17 Feb 2024 05:15:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Chamiel opened a long put on $NVDA expiring 2024-03-15</title>
+      <link>https://thetagang.com/Chamiel/0e0925d4-a0b7-4ebe-88b3-60e6159f63c2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Chamiel/0e0925d4-a0b7-4ebe-88b3-60e6159f63c2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0e0925d4-a0b7-4ebe-88b3-60e6159f63c2-opening</guid>
+      <pubDate>Tue, 20 Feb 2024 15:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Chamiel opened a long put on $SMCI expiring 2024-03-15</title>
+      <link>https://thetagang.com/Chamiel/350893a9-aaca-433d-b9fe-cd15b746aaa4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Chamiel/350893a9-aaca-433d-b9fe-cd15b746aaa4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">350893a9-aaca-433d-b9fe-cd15b746aaa4-opening</guid>
+      <pubDate>Tue, 20 Feb 2024 15:35:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 vp closed a long put on $IWM expiring 2024-03-15</title>
+      <link>https://thetagang.com/vp/17841f78-955e-4869-a51d-c2d3c7986d5e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/vp/17841f78-955e-4869-a51d-c2d3c7986d5e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">17841f78-955e-4869-a51d-c2d3c7986d5e-closing</guid>
+      <pubDate>Tue, 20 Feb 2024 17:04:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 vp closed a long put on $SMCI expiring 2024-02-23</title>
+      <link>https://thetagang.com/vp/8e0ab3f9-eb4d-4b1e-a78e-8740784c1c01</link>
+      <description>For more details, &lt;a href='https://thetagang.com/vp/8e0ab3f9-eb4d-4b1e-a78e-8740784c1c01'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8e0ab3f9-eb4d-4b1e-a78e-8740784c1c01-closing</guid>
+      <pubDate>Tue, 20 Feb 2024 17:09:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ordainedpuma closed a long put on $XIU.TO expiring 2024-03-28</title>
+      <link>https://thetagang.com/Ordainedpuma/90375a28-b5f8-4087-9865-a7ec84303bcb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ordainedpuma/90375a28-b5f8-4087-9865-a7ec84303bcb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">90375a28-b5f8-4087-9865-a7ec84303bcb-closing</guid>
+      <pubDate>Tue, 20 Feb 2024 20:02:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 simofin closed a long put on $SMCI expiring 2024-03-15</title>
+      <link>https://thetagang.com/simofin/7bf89fb3-9167-4939-9741-aad7da93ffe9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/simofin/7bf89fb3-9167-4939-9741-aad7da93ffe9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7bf89fb3-9167-4939-9741-aad7da93ffe9-closing</guid>
+      <pubDate>Tue, 20 Feb 2024 21:22:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 RedHerring opened a long put on $TQQQ expiring 2024-01-19</title>
+      <link>https://thetagang.com/RedHerring/92fbf0f0-c128-4f62-9720-ad45a5cae2c1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/RedHerring/92fbf0f0-c128-4f62-9720-ad45a5cae2c1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">92fbf0f0-c128-4f62-9720-ad45a5cae2c1-opening</guid>
+      <pubDate>Tue, 20 Feb 2024 22:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 RedHerring opened a long put on $TQQQ expiring 2024-02-02</title>
+      <link>https://thetagang.com/RedHerring/398d4449-9c4b-468b-bee4-e9736609f9e7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/RedHerring/398d4449-9c4b-468b-bee4-e9736609f9e7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">398d4449-9c4b-468b-bee4-e9736609f9e7-opening</guid>
+      <pubDate>Tue, 20 Feb 2024 22:21:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 tinnystrong opened a long put on $TSLA expiring 2024-02-23</title>
+      <link>https://thetagang.com/tinnystrong/d5c69e51-9f52-44b4-8fac-9a39252813c0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/d5c69e51-9f52-44b4-8fac-9a39252813c0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d5c69e51-9f52-44b4-8fac-9a39252813c0-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 02:50:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 tinnystrong opened a long put on $TSLA expiring 2024-02-23</title>
+      <link>https://thetagang.com/tinnystrong/e5bbdd78-d891-41a5-aa1a-49cdfae75ab2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/e5bbdd78-d891-41a5-aa1a-49cdfae75ab2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e5bbdd78-d891-41a5-aa1a-49cdfae75ab2-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 02:51:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 tinnystrong opened a long put on $SHOP expiring 2024-03-15</title>
+      <link>https://thetagang.com/tinnystrong/c17a8a69-6177-49a6-8524-f36d33b08771</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/c17a8a69-6177-49a6-8524-f36d33b08771'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c17a8a69-6177-49a6-8524-f36d33b08771-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 03:02:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Naruto opened a long put on $AMC expiring 2024-03-15</title>
+      <link>https://thetagang.com/Naruto/4dc1928c-a205-42ae-9374-e4f417169109</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Naruto/4dc1928c-a205-42ae-9374-e4f417169109'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4dc1928c-a205-42ae-9374-e4f417169109-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 11:55:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Thetagoon closed a long put on $SPY expiring 2024-02-21</title>
+      <link>https://thetagang.com/Thetagoon/88a313ef-7a1a-4387-879c-0dae09307935</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Thetagoon/88a313ef-7a1a-4387-879c-0dae09307935'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">88a313ef-7a1a-4387-879c-0dae09307935-closing</guid>
+      <pubDate>Wed, 21 Feb 2024 16:54:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 maltman1856 closed a long put on $SMCI expiring 2024-02-23</title>
+      <link>https://thetagang.com/maltman1856/800301b5-a1b3-42c1-b12a-9e1f620b56e4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/maltman1856/800301b5-a1b3-42c1-b12a-9e1f620b56e4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">800301b5-a1b3-42c1-b12a-9e1f620b56e4-closing</guid>
+      <pubDate>Wed, 21 Feb 2024 17:20:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 simofin opened a long put on $NVDA expiring 2024-03-15</title>
+      <link>https://thetagang.com/simofin/916bf947-31db-4fa8-a4a4-4f3231752796</link>
+      <description>For more details, &lt;a href='https://thetagang.com/simofin/916bf947-31db-4fa8-a4a4-4f3231752796'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">916bf947-31db-4fa8-a4a4-4f3231752796-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 17:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 carnation opened a long put on $CRWD expiring 2024-03-08</title>
+      <link>https://thetagang.com/carnation/6426e25f-b059-4234-8d65-06d7363f5c08</link>
+      <description>For more details, &lt;a href='https://thetagang.com/carnation/6426e25f-b059-4234-8d65-06d7363f5c08'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6426e25f-b059-4234-8d65-06d7363f5c08-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 17:48:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dom747 opened a long put on $NVDA expiring 2024-02-23</title>
+      <link>https://thetagang.com/dom747/6f13cccd-8f13-4e24-a286-39eb2e055cca</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/6f13cccd-8f13-4e24-a286-39eb2e055cca'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6f13cccd-8f13-4e24-a286-39eb2e055cca-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 20:38:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 N1ls opened a long put on $PCT expiring 2024-03-01</title>
+      <link>https://thetagang.com/N1ls/45c701b9-45f2-44ca-9870-69a96ef9fa44</link>
+      <description>For more details, &lt;a href='https://thetagang.com/N1ls/45c701b9-45f2-44ca-9870-69a96ef9fa44'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">45c701b9-45f2-44ca-9870-69a96ef9fa44-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 20:42:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dom747 opened a long put on $SNPS expiring 2024-03-15</title>
+      <link>https://thetagang.com/dom747/62f8609b-58ab-4726-967b-7946e0403249</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/62f8609b-58ab-4726-967b-7946e0403249'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">62f8609b-58ab-4726-967b-7946e0403249-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 20:50:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dom747 opened a long put on $RIVN expiring 2024-02-23</title>
+      <link>https://thetagang.com/dom747/b7e77577-3a6b-4b25-9e3d-c1a663df7d0f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/b7e77577-3a6b-4b25-9e3d-c1a663df7d0f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b7e77577-3a6b-4b25-9e3d-c1a663df7d0f-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 20:55:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 KeeNP opened a long put on $NVDA expiring 2024-02-23</title>
+      <link>https://thetagang.com/KeeNP/8ad02264-4441-42d8-8707-d7792592cb3c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/KeeNP/8ad02264-4441-42d8-8707-d7792592cb3c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8ad02264-4441-42d8-8707-d7792592cb3c-opening</guid>
+      <pubDate>Thu, 22 Feb 2024 05:09:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 KeeNP opened a long put on $AMD expiring 2024-02-23</title>
+      <link>https://thetagang.com/KeeNP/bee09d2a-7f66-489a-8b5c-871c6c9eb75f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/KeeNP/bee09d2a-7f66-489a-8b5c-871c6c9eb75f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bee09d2a-7f66-489a-8b5c-871c6c9eb75f-opening</guid>
+      <pubDate>Thu, 22 Feb 2024 09:28:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 KeeNP closed a long put on $FXI expiring 2024-02-09</title>
+      <link>https://thetagang.com/KeeNP/d0462713-84f1-4797-860a-a97a666ed1ff</link>
+      <description>For more details, &lt;a href='https://thetagang.com/KeeNP/d0462713-84f1-4797-860a-a97a666ed1ff'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d0462713-84f1-4797-860a-a97a666ed1ff-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 09:32:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 KeeNP closed a long put on $YINN expiring 2024-02-09</title>
+      <link>https://thetagang.com/KeeNP/8d2c4672-c9ec-4a36-bfd9-1b64ecb591fb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/KeeNP/8d2c4672-c9ec-4a36-bfd9-1b64ecb591fb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8d2c4672-c9ec-4a36-bfd9-1b64ecb591fb-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 09:34:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 KeeNP closed a long put on $KLIP expiring 2024-02-16</title>
+      <link>https://thetagang.com/KeeNP/30278cb4-76d2-4b43-8b6b-28f86ab96f7b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/KeeNP/30278cb4-76d2-4b43-8b6b-28f86ab96f7b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">30278cb4-76d2-4b43-8b6b-28f86ab96f7b-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 09:34:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Expresso_bean closed a long put on $SOXL expiring 2024-02-23</title>
+      <link>https://thetagang.com/Expresso_bean/39b9f0c5-b07d-41aa-8fab-54a494053f9e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Expresso_bean/39b9f0c5-b07d-41aa-8fab-54a494053f9e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">39b9f0c5-b07d-41aa-8fab-54a494053f9e-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 14:33:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Thetagoon opened a long put on $SPY expiring 2024-02-23</title>
+      <link>https://thetagang.com/Thetagoon/d0abc39f-4494-4279-b969-993b7497675c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Thetagoon/d0abc39f-4494-4279-b969-993b7497675c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d0abc39f-4494-4279-b969-993b7497675c-opening</guid>
+      <pubDate>Thu, 22 Feb 2024 15:34:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 simofin closed a long put on $NVDA expiring 2024-02-23</title>
+      <link>https://thetagang.com/simofin/42b9df44-00e2-4dba-ac07-61f017d507b4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/simofin/42b9df44-00e2-4dba-ac07-61f017d507b4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">42b9df44-00e2-4dba-ac07-61f017d507b4-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 15:53:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Baedrian closed a long put on $RIVN expiring 2024-03-01</title>
+      <link>https://thetagang.com/Baedrian/e38382a6-f0b8-4a03-98c3-fb1e4beae12b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Baedrian/e38382a6-f0b8-4a03-98c3-fb1e4beae12b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e38382a6-f0b8-4a03-98c3-fb1e4beae12b-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 16:01:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Baedrian closed a long put on $CVNA expiring 2024-03-15</title>
+      <link>https://thetagang.com/Baedrian/c610687f-26d3-4bb2-8ae7-ad4931c923d9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Baedrian/c610687f-26d3-4bb2-8ae7-ad4931c923d9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c610687f-26d3-4bb2-8ae7-ad4931c923d9-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 16:09:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Baedrian opened a long put on $CVNA expiring 2024-03-15</title>
+      <link>https://thetagang.com/Baedrian/bf484d41-29e8-47b0-b355-61c2e89d00a8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Baedrian/bf484d41-29e8-47b0-b355-61c2e89d00a8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bf484d41-29e8-47b0-b355-61c2e89d00a8-opening</guid>
+      <pubDate>Thu, 22 Feb 2024 16:10:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 KeeNP closed a long put on $RIVN expiring 2024-02-23</title>
+      <link>https://thetagang.com/KeeNP/a5ecf61b-9de1-4b6c-a23f-6da80ab41213</link>
+      <description>For more details, &lt;a href='https://thetagang.com/KeeNP/a5ecf61b-9de1-4b6c-a23f-6da80ab41213'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a5ecf61b-9de1-4b6c-a23f-6da80ab41213-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 18:13:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 KeeNP closed a long put on $RIVN expiring 2024-02-23</title>
+      <link>https://thetagang.com/KeeNP/f84cf98c-a97c-45fd-afe3-526f2eec3342</link>
+      <description>For more details, &lt;a href='https://thetagang.com/KeeNP/f84cf98c-a97c-45fd-afe3-526f2eec3342'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f84cf98c-a97c-45fd-afe3-526f2eec3342-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 18:13:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 KeeNP opened a long put on $TALK expiring 2024-03-15</title>
+      <link>https://thetagang.com/KeeNP/42281886-4b28-4923-8491-90d419eda9e7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/KeeNP/42281886-4b28-4923-8491-90d419eda9e7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">42281886-4b28-4923-8491-90d419eda9e7-opening</guid>
+      <pubDate>Thu, 22 Feb 2024 18:16:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 peachlicense opened a long put on $SPY expiring 2024-03-04</title>
+      <link>https://thetagang.com/peachlicense/b76d2c6e-315f-48e6-a174-df2dc72a3124</link>
+      <description>For more details, &lt;a href='https://thetagang.com/peachlicense/b76d2c6e-315f-48e6-a174-df2dc72a3124'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b76d2c6e-315f-48e6-a174-df2dc72a3124-opening</guid>
+      <pubDate>Thu, 22 Feb 2024 18:16:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Thetagoon opened a long put on $SPY expiring 2024-02-23</title>
+      <link>https://thetagang.com/Thetagoon/31a13888-3a1c-440f-941d-e1d63ff7eea9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Thetagoon/31a13888-3a1c-440f-941d-e1d63ff7eea9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">31a13888-3a1c-440f-941d-e1d63ff7eea9-opening</guid>
+      <pubDate>Thu, 22 Feb 2024 18:52:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 vp closed a long put on $MRNA expiring 2024-03-22</title>
+      <link>https://thetagang.com/vp/88b62968-5af8-42e5-97d6-3542a6ec33e4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/vp/88b62968-5af8-42e5-97d6-3542a6ec33e4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">88b62968-5af8-42e5-97d6-3542a6ec33e4-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 20:05:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 csurfer opened a long put on $SMCI expiring 2024-04-05</title>
+      <link>https://thetagang.com/csurfer/7cf205f8-2fc7-4037-9327-27ec97da060f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/csurfer/7cf205f8-2fc7-4037-9327-27ec97da060f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7cf205f8-2fc7-4037-9327-27ec97da060f-opening</guid>
+      <pubDate>Fri, 23 Feb 2024 00:35:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 waustin555 opened a long put on $U expiring 2024-03-28</title>
+      <link>https://thetagang.com/waustin555/7a3e547e-24c8-4136-afe2-0bfa02ccbf54</link>
+      <description>For more details, &lt;a href='https://thetagang.com/waustin555/7a3e547e-24c8-4136-afe2-0bfa02ccbf54'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7a3e547e-24c8-4136-afe2-0bfa02ccbf54-opening</guid>
+      <pubDate>Fri, 23 Feb 2024 13:43:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 maltman1856 closed a long put on $SMCI expiring 2024-03-01</title>
+      <link>https://thetagang.com/maltman1856/561abb1b-b195-4f65-8be5-f9128add7380</link>
+      <description>For more details, &lt;a href='https://thetagang.com/maltman1856/561abb1b-b195-4f65-8be5-f9128add7380'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">561abb1b-b195-4f65-8be5-f9128add7380-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 16:15:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 tgangkgang closed a long put on $SMCI expiring 2025-01-17</title>
+      <link>https://thetagang.com/tgangkgang/ecd7e1e3-ebe4-4e0e-9adb-07d78f6307b6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tgangkgang/ecd7e1e3-ebe4-4e0e-9adb-07d78f6307b6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ecd7e1e3-ebe4-4e0e-9adb-07d78f6307b6-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 19:56:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 sleepynate closed a long put on $SPX expiring 2024-02-23</title>
+      <link>https://thetagang.com/sleepynate/5c47a147-af49-4af7-8959-6506e677f092</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sleepynate/5c47a147-af49-4af7-8959-6506e677f092'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5c47a147-af49-4af7-8959-6506e677f092-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 21:36:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 I_Am_Him opened a long put on $U expiring 2024-03-01</title>
+      <link>https://thetagang.com/I_Am_Him/b10ce762-331d-4724-8ea3-7101340380cc</link>
+      <description>For more details, &lt;a href='https://thetagang.com/I_Am_Him/b10ce762-331d-4724-8ea3-7101340380cc'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b10ce762-331d-4724-8ea3-7101340380cc-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 16:37:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dom747 opened a long put on $TREX expiring 2024-03-15</title>
+      <link>https://thetagang.com/dom747/c61771b8-e2e7-4c90-8cdf-1fcb761031ce</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/c61771b8-e2e7-4c90-8cdf-1fcb761031ce'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c61771b8-e2e7-4c90-8cdf-1fcb761031ce-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 19:15:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a long put on $U expiring 2024-03-15</title>
+      <link>https://thetagang.com/Akane/32679949-92df-4dfc-9eab-ac0806a115cd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/32679949-92df-4dfc-9eab-ac0806a115cd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">32679949-92df-4dfc-9eab-ac0806a115cd-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 19:44:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 danghai opened a long put on $ZM expiring 2024-03-01</title>
+      <link>https://thetagang.com/danghai/1353c041-bb1d-4505-973d-513e09ffff4a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/danghai/1353c041-bb1d-4505-973d-513e09ffff4a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1353c041-bb1d-4505-973d-513e09ffff4a-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 20:41:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 danghai opened a long put on $U expiring 2024-03-01</title>
+      <link>https://thetagang.com/danghai/f2d4c7a8-5fdf-440e-8635-19585d66a356</link>
+      <description>For more details, &lt;a href='https://thetagang.com/danghai/f2d4c7a8-5fdf-440e-8635-19585d66a356'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f2d4c7a8-5fdf-440e-8635-19585d66a356-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 20:51:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 zlyzee closed a long put on $DIA expiring 2024-02-23</title>
+      <link>https://thetagang.com/zlyzee/dc11dc52-993b-4347-8cc4-b169899a8038</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zlyzee/dc11dc52-993b-4347-8cc4-b169899a8038'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dc11dc52-993b-4347-8cc4-b169899a8038-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 23:19:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 RaspyTheta opened a long put on $BMBL expiring 2024-03-22</title>
+      <link>https://thetagang.com/RaspyTheta/d62650f7-87fb-4a1c-b02e-bfd7787f8d8c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/RaspyTheta/d62650f7-87fb-4a1c-b02e-bfd7787f8d8c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d62650f7-87fb-4a1c-b02e-bfd7787f8d8c-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 15:04:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Baedrian opened a long put on $BMBL expiring 2024-03-15</title>
+      <link>https://thetagang.com/Baedrian/84f41760-6f87-430d-8b8b-c535ec58205c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Baedrian/84f41760-6f87-430d-8b8b-c535ec58205c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">84f41760-6f87-430d-8b8b-c535ec58205c-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 15:49:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 zlyzee opened a long put on $T expiring 2024-03-15</title>
+      <link>https://thetagang.com/zlyzee/5579e6aa-073d-4f0f-b105-5c54162f4723</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zlyzee/5579e6aa-073d-4f0f-b105-5c54162f4723'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5579e6aa-073d-4f0f-b105-5c54162f4723-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 20:35:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 pwt opened a long put on $NVDA expiring 2024-03-15</title>
+      <link>https://thetagang.com/pwt/76aabdd4-f128-435a-bf22-5bfa8ff5adb8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/pwt/76aabdd4-f128-435a-bf22-5bfa8ff5adb8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">76aabdd4-f128-435a-bf22-5bfa8ff5adb8-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 23:45:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 danghai closed a long put on $BYND expiring 2024-03-01</title>
+      <link>https://thetagang.com/danghai/8af51150-8f4e-4223-985a-f6dea41f9c34</link>
+      <description>For more details, &lt;a href='https://thetagang.com/danghai/8af51150-8f4e-4223-985a-f6dea41f9c34'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8af51150-8f4e-4223-985a-f6dea41f9c34-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 15:40:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Baedrian opened a long put on $LCID expiring 2024-05-17</title>
+      <link>https://thetagang.com/Baedrian/2ee0c388-9f55-4fbd-a968-3c98a0e39b26</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Baedrian/2ee0c388-9f55-4fbd-a968-3c98a0e39b26'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2ee0c388-9f55-4fbd-a968-3c98a0e39b26-opening</guid>
+      <pubDate>Wed, 28 Feb 2024 17:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dicuixuan opened a long put on $MDRX expiring 2024-03-15</title>
+      <link>https://thetagang.com/dicuixuan/e72675b3-f37f-45eb-9269-5920961f6f5b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dicuixuan/e72675b3-f37f-45eb-9269-5920961f6f5b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e72675b3-f37f-45eb-9269-5920961f6f5b-opening</guid>
+      <pubDate>Wed, 28 Feb 2024 20:49:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Miyamoto opened a long put on $XBI expiring 2024-03-01</title>
+      <link>https://thetagang.com/Miyamoto/30543e39-c377-45fb-a5ac-1a3eb9765bc6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Miyamoto/30543e39-c377-45fb-a5ac-1a3eb9765bc6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">30543e39-c377-45fb-a5ac-1a3eb9765bc6-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 16:57:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dom747 opened a long put on $ZS expiring 2024-03-01</title>
+      <link>https://thetagang.com/dom747/6cdd5432-0d0a-47c8-8974-099bed6e36b6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/6cdd5432-0d0a-47c8-8974-099bed6e36b6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6cdd5432-0d0a-47c8-8974-099bed6e36b6-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 20:40:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 danghai opened a long put on $ADSK expiring 2024-03-01</title>
+      <link>https://thetagang.com/danghai/4cbc5feb-4376-419b-b978-7e4c6688d53e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/danghai/4cbc5feb-4376-419b-b978-7e4c6688d53e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4cbc5feb-4376-419b-b978-7e4c6688d53e-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 20:59:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Baedrian opened a long put on $NCLH expiring 2024-04-19</title>
+      <link>https://thetagang.com/Baedrian/7d2b53e1-ac8d-4cf0-9cfc-b6f517694079</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Baedrian/7d2b53e1-ac8d-4cf0-9cfc-b6f517694079'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7d2b53e1-ac8d-4cf0-9cfc-b6f517694079-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 15:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 dicuixuan closed a long put on $SNOW expiring 2024-03-15</title>
+      <link>https://thetagang.com/dicuixuan/1a1003fc-52fc-4ec3-b213-d4c6bf299cd2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dicuixuan/1a1003fc-52fc-4ec3-b213-d4c6bf299cd2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1a1003fc-52fc-4ec3-b213-d4c6bf299cd2-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 15:35:09 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

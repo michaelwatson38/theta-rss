@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only buy common stock trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only buy common stock trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 01 Mar 2024 23:53:59 +0000</lastBuildDate>
+    <item>
+      <title>🏁 KeeNP closed a buy common stock on $GOEV </title>
+      <link>https://thetagang.com/KeeNP/df51e1af-82e1-4919-81cd-8d48b8993345</link>
+      <description>For more details, &lt;a href='https://thetagang.com/KeeNP/df51e1af-82e1-4919-81cd-8d48b8993345'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">df51e1af-82e1-4919-81cd-8d48b8993345-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 09:38:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 LukeIRA closed a buy common stock on $GOOGL </title>
+      <link>https://thetagang.com/LukeIRA/9984e596-c8a2-4f64-8ec9-60b50fab8bc4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/LukeIRA/9984e596-c8a2-4f64-8ec9-60b50fab8bc4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9984e596-c8a2-4f64-8ec9-60b50fab8bc4-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 14:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Expresso_bean closed a buy common stock on $SOXL </title>
+      <link>https://thetagang.com/Expresso_bean/650f8135-4e70-4911-8edd-5af8c63f4f69</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Expresso_bean/650f8135-4e70-4911-8edd-5af8c63f4f69'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">650f8135-4e70-4911-8edd-5af8c63f4f69-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 14:37:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Slomotion closed a buy common stock on $AMD </title>
+      <link>https://thetagang.com/Slomotion/ef79454b-2564-46d1-b16f-be422e0bfa4e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Slomotion/ef79454b-2564-46d1-b16f-be422e0bfa4e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ef79454b-2564-46d1-b16f-be422e0bfa4e-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 14:40:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Slomotion closed a buy common stock on $AMD </title>
+      <link>https://thetagang.com/Slomotion/fcc810bc-5446-4605-92d3-969306d5b5f7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Slomotion/fcc810bc-5446-4605-92d3-969306d5b5f7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fcc810bc-5446-4605-92d3-969306d5b5f7-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 14:43:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Naruto closed a buy common stock on $ETSY </title>
+      <link>https://thetagang.com/Naruto/b1b7cd9a-4330-4e94-b531-878a352b5636</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Naruto/b1b7cd9a-4330-4e94-b531-878a352b5636'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b1b7cd9a-4330-4e94-b531-878a352b5636-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 14:46:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Blizzard closed a buy common stock on $VWRD </title>
+      <link>https://thetagang.com/Blizzard/1228168c-884d-43f6-bd29-916de0a5cb06</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Blizzard/1228168c-884d-43f6-bd29-916de0a5cb06'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1228168c-884d-43f6-bd29-916de0a5cb06-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 14:49:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Roostard closed a buy common stock on $ARM </title>
+      <link>https://thetagang.com/Roostard/41e429fd-bb8a-47a2-9e07-354eb56d25fa</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Roostard/41e429fd-bb8a-47a2-9e07-354eb56d25fa'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">41e429fd-bb8a-47a2-9e07-354eb56d25fa-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 14:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Blizzard closed a buy common stock on $KO </title>
+      <link>https://thetagang.com/Blizzard/312e9ff7-9d76-4fc6-b4eb-fbc94172a6c2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Blizzard/312e9ff7-9d76-4fc6-b4eb-fbc94172a6c2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">312e9ff7-9d76-4fc6-b4eb-fbc94172a6c2-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 14:50:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Roostard closed a buy common stock on $AMD </title>
+      <link>https://thetagang.com/Roostard/2d92b7e0-9882-450d-9b11-c82554639227</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Roostard/2d92b7e0-9882-450d-9b11-c82554639227'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2d92b7e0-9882-450d-9b11-c82554639227-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 14:51:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Blizzard closed a buy common stock on $PFE </title>
+      <link>https://thetagang.com/Blizzard/8a83efe9-24d7-44c0-85c1-b6fbdcb681f0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Blizzard/8a83efe9-24d7-44c0-85c1-b6fbdcb681f0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8a83efe9-24d7-44c0-85c1-b6fbdcb681f0-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 14:54:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Blizzard closed a buy common stock on $IBTU </title>
+      <link>https://thetagang.com/Blizzard/1c3d153f-3144-4e8d-9f1c-e8c116c37561</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Blizzard/1c3d153f-3144-4e8d-9f1c-e8c116c37561'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1c3d153f-3144-4e8d-9f1c-e8c116c37561-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 14:55:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 sunshine_bunny closed a buy common stock on $EOSE </title>
+      <link>https://thetagang.com/sunshine_bunny/457f3d38-143d-485b-a982-7b116cf2785f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sunshine_bunny/457f3d38-143d-485b-a982-7b116cf2785f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">457f3d38-143d-485b-a982-7b116cf2785f-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 15:31:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 GigglestheTapeworm closed a buy common stock on $RIVN </title>
+      <link>https://thetagang.com/GigglestheTapeworm/bf266e33-c85e-4579-84fc-7edd60c5d173</link>
+      <description>For more details, &lt;a href='https://thetagang.com/GigglestheTapeworm/bf266e33-c85e-4579-84fc-7edd60c5d173'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bf266e33-c85e-4579-84fc-7edd60c5d173-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 16:42:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 bb closed a buy common stock on $INTC </title>
+      <link>https://thetagang.com/bb/7103d2b0-dc29-45f0-b2ae-7aeaf834c899</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bb/7103d2b0-dc29-45f0-b2ae-7aeaf834c899'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7103d2b0-dc29-45f0-b2ae-7aeaf834c899-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 17:02:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 BxrgnBxndt closed a buy common stock on $SOFI </title>
+      <link>https://thetagang.com/BxrgnBxndt/86a66348-cdee-41d5-b530-3157e5673c43</link>
+      <description>For more details, &lt;a href='https://thetagang.com/BxrgnBxndt/86a66348-cdee-41d5-b530-3157e5673c43'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">86a66348-cdee-41d5-b530-3157e5673c43-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 18:43:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jondin closed a buy common stock on $MARA </title>
+      <link>https://thetagang.com/jondin/a40229e8-0a30-4840-a97f-8287e5c676a5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jondin/a40229e8-0a30-4840-a97f-8287e5c676a5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a40229e8-0a30-4840-a97f-8287e5c676a5-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 19:22:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Expresso_bean closed a buy common stock on $SOXL </title>
+      <link>https://thetagang.com/Expresso_bean/6dfcaeab-feb9-4fde-b14f-3c068abb0d67</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Expresso_bean/6dfcaeab-feb9-4fde-b14f-3c068abb0d67'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6dfcaeab-feb9-4fde-b14f-3c068abb0d67-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 19:31:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ubermensch closed a buy common stock on $DOGECOIN </title>
+      <link>https://thetagang.com/ubermensch/ea31a0b0-49ea-454b-8fa6-0dbe43e080ce</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ubermensch/ea31a0b0-49ea-454b-8fa6-0dbe43e080ce'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ea31a0b0-49ea-454b-8fa6-0dbe43e080ce-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 20:18:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ct17 closed a buy common stock on $PINS </title>
+      <link>https://thetagang.com/Ct17/4758b9ab-2163-41c2-a4d6-b5eeff262464</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ct17/4758b9ab-2163-41c2-a4d6-b5eeff262464'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4758b9ab-2163-41c2-a4d6-b5eeff262464-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 01:39:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 MaestroXC closed a buy common stock on $HAL </title>
+      <link>https://thetagang.com/MaestroXC/8821b933-99c2-4aba-bea4-29789a3c8b66</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MaestroXC/8821b933-99c2-4aba-bea4-29789a3c8b66'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8821b933-99c2-4aba-bea4-29789a3c8b66-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 14:54:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 BaldGuy54 closed a buy common stock on $F </title>
+      <link>https://thetagang.com/BaldGuy54/8e6ee715-8a84-446c-ad24-1459b46faf82</link>
+      <description>For more details, &lt;a href='https://thetagang.com/BaldGuy54/8e6ee715-8a84-446c-ad24-1459b46faf82'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8e6ee715-8a84-446c-ad24-1459b46faf82-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 15:16:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 DaltonBryer closed a buy common stock on $WEN </title>
+      <link>https://thetagang.com/DaltonBryer/be2683c4-e057-4846-9deb-80757eae67d7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/DaltonBryer/be2683c4-e057-4846-9deb-80757eae67d7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">be2683c4-e057-4846-9deb-80757eae67d7-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 15:19:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 knorko closed a buy common stock on $SQ </title>
+      <link>https://thetagang.com/knorko/7d200dea-0cbf-49cd-b47c-fe4bb0a3d3c6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/knorko/7d200dea-0cbf-49cd-b47c-fe4bb0a3d3c6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7d200dea-0cbf-49cd-b47c-fe4bb0a3d3c6-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 15:20:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Slomotion closed a buy common stock on $/MES </title>
+      <link>https://thetagang.com/Slomotion/479b2418-cf59-428a-a365-144e0e88bf31</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Slomotion/479b2418-cf59-428a-a365-144e0e88bf31'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">479b2418-cf59-428a-a365-144e0e88bf31-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 16:31:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Slomotion closed a buy common stock on $/MES </title>
+      <link>https://thetagang.com/Slomotion/1974b0b8-afaa-47c6-b77c-aca48b897611</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Slomotion/1974b0b8-afaa-47c6-b77c-aca48b897611'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1974b0b8-afaa-47c6-b77c-aca48b897611-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 16:34:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Slomotion closed a buy common stock on $/MES </title>
+      <link>https://thetagang.com/Slomotion/9c100c2e-09d5-4912-80d8-e9c0dd0be950</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Slomotion/9c100c2e-09d5-4912-80d8-e9c0dd0be950'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9c100c2e-09d5-4912-80d8-e9c0dd0be950-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 16:40:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Slomotion closed a buy common stock on $/MES </title>
+      <link>https://thetagang.com/Slomotion/db4477dc-840d-4faa-a7f6-978f7ae7fda3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Slomotion/db4477dc-840d-4faa-a7f6-978f7ae7fda3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">db4477dc-840d-4faa-a7f6-978f7ae7fda3-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 17:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Roostard closed a buy common stock on $AMD </title>
+      <link>https://thetagang.com/Roostard/92bd9e0f-8c20-4778-902e-558af426aa49</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Roostard/92bd9e0f-8c20-4778-902e-558af426aa49'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">92bd9e0f-8c20-4778-902e-558af426aa49-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 17:29:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 reposaur closed a buy common stock on $SOFI </title>
+      <link>https://thetagang.com/reposaur/09e6b5c5-47b5-43c7-b530-66fb91f85b9c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/reposaur/09e6b5c5-47b5-43c7-b530-66fb91f85b9c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">09e6b5c5-47b5-43c7-b530-66fb91f85b9c-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 18:15:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Slomotion closed a buy common stock on $/MES </title>
+      <link>https://thetagang.com/Slomotion/eb3170e0-844a-4b6f-870b-a8a6326d34af</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Slomotion/eb3170e0-844a-4b6f-870b-a8a6326d34af'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">eb3170e0-844a-4b6f-870b-a8a6326d34af-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 18:52:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Slomotion closed a buy common stock on $/MES </title>
+      <link>https://thetagang.com/Slomotion/7c187209-e534-433d-bf5f-274ebc245dd6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Slomotion/7c187209-e534-433d-bf5f-274ebc245dd6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7c187209-e534-433d-bf5f-274ebc245dd6-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 18:55:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a buy common stock on $ALT </title>
+      <link>https://thetagang.com/mehmehmeh/9724a7bf-79e0-42f6-9f66-10a2544c7103</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/9724a7bf-79e0-42f6-9f66-10a2544c7103'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9724a7bf-79e0-42f6-9f66-10a2544c7103-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 20:17:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 thizzle closed a buy common stock on $AMD </title>
+      <link>https://thetagang.com/thizzle/09ecf46f-4429-4d4f-ab04-75fddcf50bb4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/thizzle/09ecf46f-4429-4d4f-ab04-75fddcf50bb4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">09ecf46f-4429-4d4f-ab04-75fddcf50bb4-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 20:55:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Thetagoon closed a buy common stock on $JBLU </title>
+      <link>https://thetagang.com/Thetagoon/5eecb67d-6a50-4748-878c-29f08609368c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Thetagoon/5eecb67d-6a50-4748-878c-29f08609368c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5eecb67d-6a50-4748-878c-29f08609368c-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 23:54:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Thetagoon closed a buy common stock on $JBLU </title>
+      <link>https://thetagang.com/Thetagoon/e4fc038d-9522-48e4-b3c7-4b27a75d2e7f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Thetagoon/e4fc038d-9522-48e4-b3c7-4b27a75d2e7f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e4fc038d-9522-48e4-b3c7-4b27a75d2e7f-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 23:55:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a buy common stock on $ALT </title>
+      <link>https://thetagang.com/mehmehmeh/43de23c6-3391-4afa-9824-acacaf6c6093</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/43de23c6-3391-4afa-9824-acacaf6c6093'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">43de23c6-3391-4afa-9824-acacaf6c6093-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 14:56:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Nala closed a buy common stock on $INTC </title>
+      <link>https://thetagang.com/Nala/006d7485-20fe-4978-bf71-25bf2f2e151d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Nala/006d7485-20fe-4978-bf71-25bf2f2e151d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">006d7485-20fe-4978-bf71-25bf2f2e151d-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 15:12:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a buy common stock on $CRWD </title>
+      <link>https://thetagang.com/Stizzle/9b32c842-5f2c-4acb-8287-d21218ccee29</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/9b32c842-5f2c-4acb-8287-d21218ccee29'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9b32c842-5f2c-4acb-8287-d21218ccee29-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 15:17:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 MonkeyFarmer closed a buy common stock on $CHWY expiring 2024-03-28</title>
+      <link>https://thetagang.com/MonkeyFarmer/76ee271d-ac12-4561-bd5a-abfbd184a1e8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MonkeyFarmer/76ee271d-ac12-4561-bd5a-abfbd184a1e8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">76ee271d-ac12-4561-bd5a-abfbd184a1e8-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 16:11:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 stonky closed a buy common stock on $ZM </title>
+      <link>https://thetagang.com/stonky/ecc61a98-a769-48c0-9a84-8895fb8c6f2c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/stonky/ecc61a98-a769-48c0-9a84-8895fb8c6f2c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ecc61a98-a769-48c0-9a84-8895fb8c6f2c-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 17:56:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Loido closed a buy common stock on $MU </title>
+      <link>https://thetagang.com/Loido/3810acea-86bc-4767-b27d-eea5011ee3a9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Loido/3810acea-86bc-4767-b27d-eea5011ee3a9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3810acea-86bc-4767-b27d-eea5011ee3a9-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 19:39:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 zerocool_69 closed a buy common stock on $WMT </title>
+      <link>https://thetagang.com/zerocool_69/ac5b1f1b-8225-4f03-b9ad-8c9d74f1835f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zerocool_69/ac5b1f1b-8225-4f03-b9ad-8c9d74f1835f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ac5b1f1b-8225-4f03-b9ad-8c9d74f1835f-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 21:10:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 zlyzee closed a buy common stock on $IMAX </title>
+      <link>https://thetagang.com/zlyzee/4c0335a8-cc6a-432b-81d9-091f4b2e793e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zlyzee/4c0335a8-cc6a-432b-81d9-091f4b2e793e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4c0335a8-cc6a-432b-81d9-091f4b2e793e-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 23:31:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Takodachi closed a buy common stock on $HOOD </title>
+      <link>https://thetagang.com/Takodachi/86ac7a24-11aa-4d8e-ab22-a157d772fafd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Takodachi/86ac7a24-11aa-4d8e-ab22-a157d772fafd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">86ac7a24-11aa-4d8e-ab22-a157d772fafd-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 05:28:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Takodachi closed a buy common stock on $RIVN </title>
+      <link>https://thetagang.com/Takodachi/2f1f47c8-c495-4ad6-bdeb-b7a14d258ae4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Takodachi/2f1f47c8-c495-4ad6-bdeb-b7a14d258ae4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2f1f47c8-c495-4ad6-bdeb-b7a14d258ae4-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 05:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 zlyzee closed a buy common stock on $SHOP </title>
+      <link>https://thetagang.com/zlyzee/ff0b4116-0130-4ab1-b16b-b49771c2f551</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zlyzee/ff0b4116-0130-4ab1-b16b-b49771c2f551'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ff0b4116-0130-4ab1-b16b-b49771c2f551-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 05:54:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 zlyzee closed a buy common stock on $COST </title>
+      <link>https://thetagang.com/zlyzee/8b4c0579-f160-4073-a5ae-be356ccc4e0b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zlyzee/8b4c0579-f160-4073-a5ae-be356ccc4e0b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8b4c0579-f160-4073-a5ae-be356ccc4e0b-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a buy common stock on $SHOP </title>
+      <link>https://thetagang.com/koffee/f239559b-010c-42be-b488-07e2bacc7792</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/f239559b-010c-42be-b488-07e2bacc7792'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f239559b-010c-42be-b488-07e2bacc7792-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a buy common stock on $SHOP </title>
+      <link>https://thetagang.com/koffee/43e8e239-3687-4c60-8918-dea8e6ec1afc</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/43e8e239-3687-4c60-8918-dea8e6ec1afc'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">43e8e239-3687-4c60-8918-dea8e6ec1afc-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:55:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a buy common stock on $SHOP </title>
+      <link>https://thetagang.com/koffee/e6b1e352-3819-4609-a240-262bcddc8b06</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/e6b1e352-3819-4609-a240-262bcddc8b06'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e6b1e352-3819-4609-a240-262bcddc8b06-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:55:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a buy common stock on $SHOP </title>
+      <link>https://thetagang.com/koffee/009d092f-27a7-4796-9eb5-a5453d951245</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/009d092f-27a7-4796-9eb5-a5453d951245'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">009d092f-27a7-4796-9eb5-a5453d951245-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:56:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a buy common stock on $SHOP </title>
+      <link>https://thetagang.com/koffee/310a732f-6ec1-456b-b3f1-0535b11f3aaf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/310a732f-6ec1-456b-b3f1-0535b11f3aaf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">310a732f-6ec1-456b-b3f1-0535b11f3aaf-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:56:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a buy common stock on $SHOP </title>
+      <link>https://thetagang.com/koffee/d62e31d0-2904-42cb-91f8-6d7e374416c2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/d62e31d0-2904-42cb-91f8-6d7e374416c2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d62e31d0-2904-42cb-91f8-6d7e374416c2-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:57:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a buy common stock on $TSLA </title>
+      <link>https://thetagang.com/koffee/9d197b0d-0442-4179-a528-26c3087a243f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/9d197b0d-0442-4179-a528-26c3087a243f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9d197b0d-0442-4179-a528-26c3087a243f-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 07:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 computerb0y closed a buy common stock on $M </title>
+      <link>https://thetagang.com/computerb0y/c7a96f35-91d9-48ba-8eca-fa581ffd08a9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/computerb0y/c7a96f35-91d9-48ba-8eca-fa581ffd08a9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c7a96f35-91d9-48ba-8eca-fa581ffd08a9-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 15:20:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 stonky closed a buy common stock on $COIN </title>
+      <link>https://thetagang.com/stonky/dd0cd50a-d36e-439f-87d3-24e464749762</link>
+      <description>For more details, &lt;a href='https://thetagang.com/stonky/dd0cd50a-d36e-439f-87d3-24e464749762'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dd0cd50a-d36e-439f-87d3-24e464749762-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 16:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 danghai closed a buy common stock on $ARRY </title>
+      <link>https://thetagang.com/danghai/7b5bc937-a267-4f9c-bd67-34983d79f3d7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/danghai/7b5bc937-a267-4f9c-bd67-34983d79f3d7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7b5bc937-a267-4f9c-bd67-34983d79f3d7-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 20:23:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 waustin555 closed a buy common stock on $CELH </title>
+      <link>https://thetagang.com/waustin555/d11b8222-6f0a-495d-9fc5-1dbbf7c25a07</link>
+      <description>For more details, &lt;a href='https://thetagang.com/waustin555/d11b8222-6f0a-495d-9fc5-1dbbf7c25a07'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d11b8222-6f0a-495d-9fc5-1dbbf7c25a07-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 14:44:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 waustin555 closed a buy common stock on $GTLB </title>
+      <link>https://thetagang.com/waustin555/7934d2b2-aa32-4265-b56a-487b79b7d6e1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/waustin555/7934d2b2-aa32-4265-b56a-487b79b7d6e1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7934d2b2-aa32-4265-b56a-487b79b7d6e1-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 14:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a buy common stock on $CONL </title>
+      <link>https://thetagang.com/mehmehmeh/26dd0ffb-df90-4505-9941-14d4b50897f9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/26dd0ffb-df90-4505-9941-14d4b50897f9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">26dd0ffb-df90-4505-9941-14d4b50897f9-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 14:59:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 nicholas closed a buy common stock on $M </title>
+      <link>https://thetagang.com/nicholas/01064cc7-0800-499c-9711-0e0f70a00637</link>
+      <description>For more details, &lt;a href='https://thetagang.com/nicholas/01064cc7-0800-499c-9711-0e0f70a00637'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">01064cc7-0800-499c-9711-0e0f70a00637-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 16:11:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Nala closed a buy common stock on $INTC </title>
+      <link>https://thetagang.com/Nala/a56f95e7-5ed1-495b-a239-a731ed53679b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Nala/a56f95e7-5ed1-495b-a239-a731ed53679b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a56f95e7-5ed1-495b-a239-a731ed53679b-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 17:22:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 zerocool_69 closed a buy common stock on $SCHD </title>
+      <link>https://thetagang.com/zerocool_69/cfd90b84-0ade-48d7-8672-acb1f6b4df0c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zerocool_69/cfd90b84-0ade-48d7-8672-acb1f6b4df0c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cfd90b84-0ade-48d7-8672-acb1f6b4df0c-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 18:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 WagonWheel91 closed a buy common stock on $MARA </title>
+      <link>https://thetagang.com/WagonWheel91/c1ad7871-9ab9-4836-a450-7a6ca309aaa1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WagonWheel91/c1ad7871-9ab9-4836-a450-7a6ca309aaa1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c1ad7871-9ab9-4836-a450-7a6ca309aaa1-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 20:03:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a buy common stock on $ALT </title>
+      <link>https://thetagang.com/mehmehmeh/88858c85-c307-4a57-b850-e3af6bcf3bec</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/88858c85-c307-4a57-b850-e3af6bcf3bec'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">88858c85-c307-4a57-b850-e3af6bcf3bec-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 20:21:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 danghai closed a buy common stock on $HPQ </title>
+      <link>https://thetagang.com/danghai/faf4c967-1921-44f4-9768-c4481ec651a8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/danghai/faf4c967-1921-44f4-9768-c4481ec651a8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">faf4c967-1921-44f4-9768-c4481ec651a8-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 20:36:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 WagonWheel91 closed a buy common stock on $INTC </title>
+      <link>https://thetagang.com/WagonWheel91/e6ca156e-b6bf-49f2-9280-9b812d821f2e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WagonWheel91/e6ca156e-b6bf-49f2-9280-9b812d821f2e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e6ca156e-b6bf-49f2-9280-9b812d821f2e-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 21:07:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 WagonWheel91 closed a buy common stock on $INTC </title>
+      <link>https://thetagang.com/WagonWheel91/00bba277-a569-4e13-9c6f-857ad0d0fcef</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WagonWheel91/00bba277-a569-4e13-9c6f-857ad0d0fcef'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">00bba277-a569-4e13-9c6f-857ad0d0fcef-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 21:07:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 WagonWheel91 closed a buy common stock on $INTC </title>
+      <link>https://thetagang.com/WagonWheel91/88253204-7f2d-493e-9b08-624df2c0b9c7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WagonWheel91/88253204-7f2d-493e-9b08-624df2c0b9c7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">88253204-7f2d-493e-9b08-624df2c0b9c7-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 21:08:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 VentiCafeMocha closed a buy common stock on $UPRO </title>
+      <link>https://thetagang.com/VentiCafeMocha/4b844309-1e5a-4cfe-a7e2-86ab08a4f4b9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/VentiCafeMocha/4b844309-1e5a-4cfe-a7e2-86ab08a4f4b9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4b844309-1e5a-4cfe-a7e2-86ab08a4f4b9-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 16:35:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 WagonWheel91 closed a buy common stock on $VOO </title>
+      <link>https://thetagang.com/WagonWheel91/6b1d557d-e38c-4714-8399-4a17fa12c2b9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WagonWheel91/6b1d557d-e38c-4714-8399-4a17fa12c2b9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6b1d557d-e38c-4714-8399-4a17fa12c2b9-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 16:38:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Troop947 closed a buy common stock on $AAL </title>
+      <link>https://thetagang.com/Troop947/c47b3edc-c929-4bb3-ab2e-bbefbc47ac8b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Troop947/c47b3edc-c929-4bb3-ab2e-bbefbc47ac8b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c47b3edc-c929-4bb3-ab2e-bbefbc47ac8b-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 17:05:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 seandunaway closed a buy common stock on $SPY </title>
+      <link>https://thetagang.com/seandunaway/f1c7964b-5606-4d43-9c80-c67de6645d05</link>
+      <description>For more details, &lt;a href='https://thetagang.com/seandunaway/f1c7964b-5606-4d43-9c80-c67de6645d05'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f1c7964b-5606-4d43-9c80-c67de6645d05-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 17:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 computerb0y closed a buy common stock on $M </title>
+      <link>https://thetagang.com/computerb0y/0940f7b7-6ed1-469c-9bf8-31f03bdb7bce</link>
+      <description>For more details, &lt;a href='https://thetagang.com/computerb0y/0940f7b7-6ed1-469c-9bf8-31f03bdb7bce'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0940f7b7-6ed1-469c-9bf8-31f03bdb7bce-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 17:47:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 skot closed a buy common stock on $GPS </title>
+      <link>https://thetagang.com/skot/06d1c163-84ac-4cf4-b602-826631d0ce05</link>
+      <description>For more details, &lt;a href='https://thetagang.com/skot/06d1c163-84ac-4cf4-b602-826631d0ce05'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">06d1c163-84ac-4cf4-b602-826631d0ce05-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 17:50:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Expresso_bean closed a buy common stock on $SOXL </title>
+      <link>https://thetagang.com/Expresso_bean/125b2cee-a950-4779-9106-3164ba7b604c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Expresso_bean/125b2cee-a950-4779-9106-3164ba7b604c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">125b2cee-a950-4779-9106-3164ba7b604c-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 18:21:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 joonie5k closed a buy common stock on $INTC </title>
+      <link>https://thetagang.com/joonie5k/c85b42e3-5a14-4106-b314-99113dbd27bf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/joonie5k/c85b42e3-5a14-4106-b314-99113dbd27bf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c85b42e3-5a14-4106-b314-99113dbd27bf-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 18:31:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Mr_integrity closed a buy common stock on $AMD </title>
+      <link>https://thetagang.com/Mr_integrity/a1dece76-3e41-4fa9-8aed-e3da610d08a7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Mr_integrity/a1dece76-3e41-4fa9-8aed-e3da610d08a7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a1dece76-3e41-4fa9-8aed-e3da610d08a7-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 19:15:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 SilentLemon closed a buy common stock on $AMD </title>
+      <link>https://thetagang.com/SilentLemon/b83831a3-fb68-4b37-b97c-61928cb303a1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/SilentLemon/b83831a3-fb68-4b37-b97c-61928cb303a1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b83831a3-fb68-4b37-b97c-61928cb303a1-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 19:54:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a buy common stock on $VKTX </title>
+      <link>https://thetagang.com/mehmehmeh/2ba0edf4-85e4-4d68-8bb3-ca2b0332e83e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/2ba0edf4-85e4-4d68-8bb3-ca2b0332e83e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2ba0edf4-85e4-4d68-8bb3-ca2b0332e83e-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 20:35:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 milionis closed a buy common stock on $KO </title>
+      <link>https://thetagang.com/milionis/e6e97e99-670e-4519-9254-1f05de72e36b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/milionis/e6e97e99-670e-4519-9254-1f05de72e36b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e6e97e99-670e-4519-9254-1f05de72e36b-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 01:03:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a buy common stock on $NYCB </title>
+      <link>https://thetagang.com/mehmehmeh/9bd0423a-72b6-4392-97cf-e14224a5385c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/9bd0423a-72b6-4392-97cf-e14224a5385c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9bd0423a-72b6-4392-97cf-e14224a5385c-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 01:09:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a buy common stock on $DELL </title>
+      <link>https://thetagang.com/mehmehmeh/d034325c-6b85-4764-8300-ff072f8caa09</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/d034325c-6b85-4764-8300-ff072f8caa09'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d034325c-6b85-4764-8300-ff072f8caa09-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 01:11:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 zlyzee closed a buy common stock on $PYPL </title>
+      <link>https://thetagang.com/zlyzee/5722ce9b-5c83-4de1-ae3d-19e625932232</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zlyzee/5722ce9b-5c83-4de1-ae3d-19e625932232'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5722ce9b-5c83-4de1-ae3d-19e625932232-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 01:38:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 zlyzee closed a buy common stock on $LOGI </title>
+      <link>https://thetagang.com/zlyzee/96dea002-e44f-457d-be7f-bd4418d76b39</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zlyzee/96dea002-e44f-457d-be7f-bd4418d76b39'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">96dea002-e44f-457d-be7f-bd4418d76b39-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 01:38:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 milionis closed a buy common stock on $15 </title>
+      <link>https://thetagang.com/milionis/8532ed27-e47d-4ab7-aa86-bd97d3390ef3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/milionis/8532ed27-e47d-4ab7-aa86-bd97d3390ef3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8532ed27-e47d-4ab7-aa86-bd97d3390ef3-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 02:15:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 milionis closed a buy common stock on $V </title>
+      <link>https://thetagang.com/milionis/172e182c-f421-4f1e-98d3-b8ab2d56502f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/milionis/172e182c-f421-4f1e-98d3-b8ab2d56502f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">172e182c-f421-4f1e-98d3-b8ab2d56502f-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 02:27:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 milionis closed a buy common stock on $V </title>
+      <link>https://thetagang.com/milionis/bb6eda29-b57c-4f83-b9b7-944eb4f13f0d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/milionis/bb6eda29-b57c-4f83-b9b7-944eb4f13f0d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bb6eda29-b57c-4f83-b9b7-944eb4f13f0d-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 02:28:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 zerocool_69 closed a buy common stock on $ASO </title>
+      <link>https://thetagang.com/zerocool_69/c48f7db8-5d8a-4e72-bf69-6ccb886c5688</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zerocool_69/c48f7db8-5d8a-4e72-bf69-6ccb886c5688'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c48f7db8-5d8a-4e72-bf69-6ccb886c5688-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 11:09:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 TinyTheta closed a buy common stock on $XXXX </title>
+      <link>https://thetagang.com/TinyTheta/12b0a44c-500b-4500-8b91-eb1752beee13</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TinyTheta/12b0a44c-500b-4500-8b91-eb1752beee13'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">12b0a44c-500b-4500-8b91-eb1752beee13-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 12:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 TinyTheta closed a buy common stock on $PSNY </title>
+      <link>https://thetagang.com/TinyTheta/432c35f2-29f1-4703-9041-c58f351ab0ac</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TinyTheta/432c35f2-29f1-4703-9041-c58f351ab0ac'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">432c35f2-29f1-4703-9041-c58f351ab0ac-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 12:25:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 TinyTheta closed a buy common stock on $XXXX </title>
+      <link>https://thetagang.com/TinyTheta/cc13037e-23fb-441c-959c-a975a1a0c6b8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TinyTheta/cc13037e-23fb-441c-959c-a975a1a0c6b8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cc13037e-23fb-441c-959c-a975a1a0c6b8-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 12:26:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 TinyTheta closed a buy common stock on $LAZ4 </title>
+      <link>https://thetagang.com/TinyTheta/eb3458de-7dfb-4e18-81ce-36b329e343bd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TinyTheta/eb3458de-7dfb-4e18-81ce-36b329e343bd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">eb3458de-7dfb-4e18-81ce-36b329e343bd-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 12:27:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 TinyTheta closed a buy common stock on $LAZR </title>
+      <link>https://thetagang.com/TinyTheta/8d3d5a15-bebd-4561-b980-90dcf6cf2127</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TinyTheta/8d3d5a15-bebd-4561-b980-90dcf6cf2127'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8d3d5a15-bebd-4561-b980-90dcf6cf2127-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 12:28:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a buy common stock on $NYCB </title>
+      <link>https://thetagang.com/mehmehmeh/8b136c17-e346-4c77-aa9b-450d696ef0f1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/8b136c17-e346-4c77-aa9b-450d696ef0f1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8b136c17-e346-4c77-aa9b-450d696ef0f1-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 14:41:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 dariothebarber closed a buy common stock on $ALGM </title>
+      <link>https://thetagang.com/dariothebarber/ccf38148-132f-41ef-bb3a-98605446551d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dariothebarber/ccf38148-132f-41ef-bb3a-98605446551d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ccf38148-132f-41ef-bb3a-98605446551d-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 15:26:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jondin closed a buy common stock on $HOOD </title>
+      <link>https://thetagang.com/jondin/42bd30bd-28c3-47a3-b449-be63b317cf4c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jondin/42bd30bd-28c3-47a3-b449-be63b317cf4c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">42bd30bd-28c3-47a3-b449-be63b317cf4c-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 16:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a buy common stock on $ALT </title>
+      <link>https://thetagang.com/mehmehmeh/fb502433-8d59-4252-94c8-a58891d9c16c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/fb502433-8d59-4252-94c8-a58891d9c16c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fb502433-8d59-4252-94c8-a58891d9c16c-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 17:26:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 luisbg closed a buy common stock on $AAPL </title>
+      <link>https://thetagang.com/luisbg/0eb2dfa0-72c8-4b8a-8542-0c8fc9e56814</link>
+      <description>For more details, &lt;a href='https://thetagang.com/luisbg/0eb2dfa0-72c8-4b8a-8542-0c8fc9e56814'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0eb2dfa0-72c8-4b8a-8542-0c8fc9e56814-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 21:22:20 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

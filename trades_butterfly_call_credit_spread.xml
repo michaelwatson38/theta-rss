@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only butterfly call credit spread trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only butterfly call credit spread trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 01 Mar 2024 23:53:58 +0000</lastBuildDate>
+    <item>
+      <title>🌅 ARFFman opened a butterfly call credit spread on $SPX expiring 2023-03-21</title>
+      <link>https://thetagang.com/ARFFman/0fbfdde7-7811-4087-b1e3-64d6492c5b89</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/0fbfdde7-7811-4087-b1e3-64d6492c5b89'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0fbfdde7-7811-4087-b1e3-64d6492c5b89-opening</guid>
+      <pubDate>Mon, 20 Mar 2023 16:52:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 MaestroXC closed a butterfly call credit spread on $SPX expiring 2023-03-31</title>
+      <link>https://thetagang.com/MaestroXC/13db0e5e-ebab-466c-9821-90706071acf4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MaestroXC/13db0e5e-ebab-466c-9821-90706071acf4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">13db0e5e-ebab-466c-9821-90706071acf4-closing</guid>
+      <pubDate>Tue, 21 Mar 2023 18:53:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 MaestroXC closed a butterfly call credit spread on $SPX expiring 2023-03-31</title>
+      <link>https://thetagang.com/MaestroXC/5a8156a3-70da-48ea-86a7-d1bf52715596</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MaestroXC/5a8156a3-70da-48ea-86a7-d1bf52715596'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5a8156a3-70da-48ea-86a7-d1bf52715596-closing</guid>
+      <pubDate>Tue, 21 Mar 2023 19:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 MaestroXC closed a butterfly call credit spread on $XSP expiring 2023-03-23</title>
+      <link>https://thetagang.com/MaestroXC/742432f8-26d6-47c8-a294-60a3d375b583</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MaestroXC/742432f8-26d6-47c8-a294-60a3d375b583'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">742432f8-26d6-47c8-a294-60a3d375b583-closing</guid>
+      <pubDate>Fri, 24 Mar 2023 03:45:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Rustyerr closed a butterfly call credit spread on $SPX expiring 2023-04-06</title>
+      <link>https://thetagang.com/Rustyerr/84ebce6a-e44f-4d0b-8cc0-a7ed9eaa637b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Rustyerr/84ebce6a-e44f-4d0b-8cc0-a7ed9eaa637b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">84ebce6a-e44f-4d0b-8cc0-a7ed9eaa637b-closing</guid>
+      <pubDate>Fri, 07 Apr 2023 02:55:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Rustyerr closed a butterfly call credit spread on $SPX expiring 2023-04-11</title>
+      <link>https://thetagang.com/Rustyerr/9d0919fe-776f-4e0c-ab79-3719d92f2b10</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Rustyerr/9d0919fe-776f-4e0c-ab79-3719d92f2b10'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9d0919fe-776f-4e0c-ab79-3719d92f2b10-closing</guid>
+      <pubDate>Tue, 11 Apr 2023 19:14:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Rustyerr closed a butterfly call credit spread on $SPX expiring 2023-04-21</title>
+      <link>https://thetagang.com/Rustyerr/ebb6bf43-07cf-4149-8463-f7ee8db50f34</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Rustyerr/ebb6bf43-07cf-4149-8463-f7ee8db50f34'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ebb6bf43-07cf-4149-8463-f7ee8db50f34-closing</guid>
+      <pubDate>Fri, 21 Apr 2023 17:15:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Rustyerr opened a butterfly call credit spread on $MSFT expiring 2023-04-28</title>
+      <link>https://thetagang.com/Rustyerr/89fa3432-d2b0-4fd8-b1bf-fb6acf8bec0d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Rustyerr/89fa3432-d2b0-4fd8-b1bf-fb6acf8bec0d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">89fa3432-d2b0-4fd8-b1bf-fb6acf8bec0d-opening</guid>
+      <pubDate>Tue, 25 Apr 2023 18:41:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 MaestroXC closed a butterfly call credit spread on $SPY expiring 2023-04-28</title>
+      <link>https://thetagang.com/MaestroXC/8d2a690d-2b69-40c5-9093-a02eff4200d9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MaestroXC/8d2a690d-2b69-40c5-9093-a02eff4200d9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8d2a690d-2b69-40c5-9093-a02eff4200d9-closing</guid>
+      <pubDate>Wed, 26 Apr 2023 14:27:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Drum_Smith opened a butterfly call credit spread on $NFLX expiring 2023-07-21</title>
+      <link>https://thetagang.com/Drum_Smith/df7b28a4-0be3-468e-88c1-699cac7e330c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Drum_Smith/df7b28a4-0be3-468e-88c1-699cac7e330c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">df7b28a4-0be3-468e-88c1-699cac7e330c-opening</guid>
+      <pubDate>Thu, 18 May 2023 19:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 thetahtc closed a butterfly call credit spread on $SPY expiring 2023-07-14</title>
+      <link>https://thetagang.com/thetahtc/165a216f-c7f5-4457-a494-4e3c94bc0469</link>
+      <description>For more details, &lt;a href='https://thetagang.com/thetahtc/165a216f-c7f5-4457-a494-4e3c94bc0469'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">165a216f-c7f5-4457-a494-4e3c94bc0469-closing</guid>
+      <pubDate>Wed, 12 Jul 2023 02:39:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 thetahtc closed a butterfly call credit spread on $SPY expiring 2023-07-14</title>
+      <link>https://thetagang.com/thetahtc/de1f8956-3e4c-42d3-b7dc-43330291de9d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/thetahtc/de1f8956-3e4c-42d3-b7dc-43330291de9d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">de1f8956-3e4c-42d3-b7dc-43330291de9d-closing</guid>
+      <pubDate>Wed, 12 Jul 2023 20:14:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 thetahtc opened a butterfly call credit spread on $SPY expiring 2023-09-29</title>
+      <link>https://thetagang.com/thetahtc/ae98d33e-295f-470e-8843-2ab04bb3c3db</link>
+      <description>For more details, &lt;a href='https://thetagang.com/thetahtc/ae98d33e-295f-470e-8843-2ab04bb3c3db'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ae98d33e-295f-470e-8843-2ab04bb3c3db-opening</guid>
+      <pubDate>Wed, 12 Jul 2023 20:23:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Rustyerr opened a butterfly call credit spread on $NVDA expiring 2023-08-18</title>
+      <link>https://thetagang.com/Rustyerr/e588b006-e9c1-4703-9233-a7c64dc63fc1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Rustyerr/e588b006-e9c1-4703-9233-a7c64dc63fc1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e588b006-e9c1-4703-9233-a7c64dc63fc1-opening</guid>
+      <pubDate>Fri, 21 Jul 2023 20:12:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a butterfly call credit spread on $QQQ expiring 2023-10-20</title>
+      <link>https://thetagang.com/jrue/bcb61e2c-3220-4c56-8c64-89c096dbb51f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/bcb61e2c-3220-4c56-8c64-89c096dbb51f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bcb61e2c-3220-4c56-8c64-89c096dbb51f-opening</guid>
+      <pubDate>Tue, 22 Aug 2023 18:33:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dafris_Capital closed a butterfly call credit spread on $VIX expiring 2023-02-15</title>
+      <link>https://thetagang.com/Dafris_Capital/946f2031-91aa-4263-99a8-c96e14b4292d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/946f2031-91aa-4263-99a8-c96e14b4292d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">946f2031-91aa-4263-99a8-c96e14b4292d-closing</guid>
+      <pubDate>Tue, 29 Aug 2023 00:54:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dafris_Capital opened a butterfly call credit spread on $XLC expiring 2023-04-21</title>
+      <link>https://thetagang.com/Dafris_Capital/f1534c05-f0f3-4f18-ab96-fb590a845e9a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/f1534c05-f0f3-4f18-ab96-fb590a845e9a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f1534c05-f0f3-4f18-ab96-fb590a845e9a-opening</guid>
+      <pubDate>Tue, 29 Aug 2023 12:10:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dafris_Capital opened a butterfly call credit spread on $VIX expiring 2023-03-22</title>
+      <link>https://thetagang.com/Dafris_Capital/37601063-39ac-4c70-a5d6-9e497189b728</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/37601063-39ac-4c70-a5d6-9e497189b728'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">37601063-39ac-4c70-a5d6-9e497189b728-opening</guid>
+      <pubDate>Tue, 29 Aug 2023 12:16:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Rustyerr opened a butterfly call credit spread on $NVDA expiring 2023-10-20</title>
+      <link>https://thetagang.com/Rustyerr/73448ad4-7045-4e7b-8c05-228627a580a6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Rustyerr/73448ad4-7045-4e7b-8c05-228627a580a6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">73448ad4-7045-4e7b-8c05-228627a580a6-opening</guid>
+      <pubDate>Wed, 30 Aug 2023 17:31:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dafris_Capital opened a butterfly call credit spread on $IEF expiring 2023-05-19</title>
+      <link>https://thetagang.com/Dafris_Capital/f26b1376-8d74-402d-9a11-da9e9fe8746d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/f26b1376-8d74-402d-9a11-da9e9fe8746d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f26b1376-8d74-402d-9a11-da9e9fe8746d-opening</guid>
+      <pubDate>Thu, 31 Aug 2023 20:41:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dafris_Capital closed a butterfly call credit spread on $XLC expiring 2023-04-21</title>
+      <link>https://thetagang.com/Dafris_Capital/87fb17df-218c-4e69-abdf-8be4e8d9d754</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/87fb17df-218c-4e69-abdf-8be4e8d9d754'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">87fb17df-218c-4e69-abdf-8be4e8d9d754-closing</guid>
+      <pubDate>Sat, 02 Sep 2023 16:43:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dafris_Capital opened a butterfly call credit spread on $XLC expiring 2023-05-19</title>
+      <link>https://thetagang.com/Dafris_Capital/ac3c782d-85e9-4f44-b9b9-6438cf61f731</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/ac3c782d-85e9-4f44-b9b9-6438cf61f731'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ac3c782d-85e9-4f44-b9b9-6438cf61f731-opening</guid>
+      <pubDate>Sat, 02 Sep 2023 21:26:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dafris_Capital opened a butterfly call credit spread on $SLV expiring 2023-05-19</title>
+      <link>https://thetagang.com/Dafris_Capital/dd39d5b9-dabb-4b9e-a3b1-c1451936a602</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/dd39d5b9-dabb-4b9e-a3b1-c1451936a602'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dd39d5b9-dabb-4b9e-a3b1-c1451936a602-opening</guid>
+      <pubDate>Sun, 10 Sep 2023 09:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dafris_Capital opened a butterfly call credit spread on $TLT expiring 2023-05-05</title>
+      <link>https://thetagang.com/Dafris_Capital/f74265f5-2012-4bc6-a258-420e53a79023</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/f74265f5-2012-4bc6-a258-420e53a79023'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f74265f5-2012-4bc6-a258-420e53a79023-opening</guid>
+      <pubDate>Sun, 10 Sep 2023 09:34:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dafris_Capital closed a butterfly call credit spread on $USO expiring 2023-05-05</title>
+      <link>https://thetagang.com/Dafris_Capital/c28d1f49-31c7-4353-99fc-57ce8b282d85</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/c28d1f49-31c7-4353-99fc-57ce8b282d85'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c28d1f49-31c7-4353-99fc-57ce8b282d85-closing</guid>
+      <pubDate>Sun, 10 Sep 2023 09:41:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dafris_Capital opened a butterfly call credit spread on $USO expiring 2023-05-19</title>
+      <link>https://thetagang.com/Dafris_Capital/3b1c4aad-486c-475f-92f6-71600a5894e8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/3b1c4aad-486c-475f-92f6-71600a5894e8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3b1c4aad-486c-475f-92f6-71600a5894e8-opening</guid>
+      <pubDate>Sun, 10 Sep 2023 22:31:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dafris_Capital opened a butterfly call credit spread on $XSP expiring 2023-05-18</title>
+      <link>https://thetagang.com/Dafris_Capital/16dbaa63-e6a7-4ebb-bff1-f451647a6050</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/16dbaa63-e6a7-4ebb-bff1-f451647a6050'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">16dbaa63-e6a7-4ebb-bff1-f451647a6050-opening</guid>
+      <pubDate>Sun, 10 Sep 2023 22:33:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dafris_Capital opened a butterfly call credit spread on $GLD expiring 2023-05-19</title>
+      <link>https://thetagang.com/Dafris_Capital/b1ef60d5-f458-41c3-a8ea-c236418da183</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/b1ef60d5-f458-41c3-a8ea-c236418da183'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b1ef60d5-f458-41c3-a8ea-c236418da183-opening</guid>
+      <pubDate>Wed, 13 Sep 2023 07:41:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dafris_Capital opened a butterfly call credit spread on $TLT expiring 2023-05-19</title>
+      <link>https://thetagang.com/Dafris_Capital/ffe7e017-5084-4b22-96d7-715bf205300d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/ffe7e017-5084-4b22-96d7-715bf205300d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ffe7e017-5084-4b22-96d7-715bf205300d-opening</guid>
+      <pubDate>Wed, 13 Sep 2023 08:40:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dafris_Capital opened a butterfly call credit spread on $/E6 expiring 2023-06-06</title>
+      <link>https://thetagang.com/Dafris_Capital/159da4ce-5add-46e0-ac8f-1229c1482940</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/159da4ce-5add-46e0-ac8f-1229c1482940'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">159da4ce-5add-46e0-ac8f-1229c1482940-opening</guid>
+      <pubDate>Wed, 13 Sep 2023 18:41:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ritziter opened a butterfly call credit spread on $SMCI expiring 2023-11-17</title>
+      <link>https://thetagang.com/ritziter/5f3a14aa-5df9-4c6f-b429-d3b1d3fdd1a9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ritziter/5f3a14aa-5df9-4c6f-b429-d3b1d3fdd1a9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5f3a14aa-5df9-4c6f-b429-d3b1d3fdd1a9-opening</guid>
+      <pubDate>Fri, 15 Sep 2023 18:46:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ritziter opened a butterfly call credit spread on $MSFT expiring 2023-10-27</title>
+      <link>https://thetagang.com/ritziter/d959749a-706f-4028-9cae-7b735322785b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ritziter/d959749a-706f-4028-9cae-7b735322785b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d959749a-706f-4028-9cae-7b735322785b-opening</guid>
+      <pubDate>Tue, 24 Oct 2023 17:22:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ritziter opened a butterfly call credit spread on $MSFT expiring 2023-10-27</title>
+      <link>https://thetagang.com/ritziter/5c3687a7-6ab0-46b5-85bf-a6cf4b669a3c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ritziter/5c3687a7-6ab0-46b5-85bf-a6cf4b669a3c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5c3687a7-6ab0-46b5-85bf-a6cf4b669a3c-opening</guid>
+      <pubDate>Wed, 25 Oct 2023 14:29:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ritziter opened a butterfly call credit spread on $AMZN expiring 2023-12-15</title>
+      <link>https://thetagang.com/ritziter/5f421e9f-26e7-4e37-af71-e68c39afb7cc</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ritziter/5f421e9f-26e7-4e37-af71-e68c39afb7cc'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5f421e9f-26e7-4e37-af71-e68c39afb7cc-opening</guid>
+      <pubDate>Thu, 26 Oct 2023 18:18:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ARFFman opened a butterfly call credit spread on $SPX expiring 2023-12-15</title>
+      <link>https://thetagang.com/ARFFman/1036273a-1b34-4f70-9b57-73e511ee61c5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/1036273a-1b34-4f70-9b57-73e511ee61c5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1036273a-1b34-4f70-9b57-73e511ee61c5-opening</guid>
+      <pubDate>Thu, 02 Nov 2023 16:24:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ritziter opened a butterfly call credit spread on $AMD expiring 2023-12-15</title>
+      <link>https://thetagang.com/ritziter/ad4ec22d-4162-4564-bd79-3d683fef58de</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ritziter/ad4ec22d-4162-4564-bd79-3d683fef58de'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ad4ec22d-4162-4564-bd79-3d683fef58de-opening</guid>
+      <pubDate>Fri, 03 Nov 2023 18:58:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ritziter opened a butterfly call credit spread on $NVDA expiring 2023-11-17</title>
+      <link>https://thetagang.com/ritziter/e9b865cd-a6cb-4077-b9b0-c9638bb3028d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ritziter/e9b865cd-a6cb-4077-b9b0-c9638bb3028d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e9b865cd-a6cb-4077-b9b0-c9638bb3028d-opening</guid>
+      <pubDate>Fri, 03 Nov 2023 19:29:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ritziter opened a butterfly call credit spread on $NVDA expiring 2023-12-15</title>
+      <link>https://thetagang.com/ritziter/6ab11a1e-cf8b-4e17-889b-e7b3108e8145</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ritziter/6ab11a1e-cf8b-4e17-889b-e7b3108e8145'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6ab11a1e-cf8b-4e17-889b-e7b3108e8145-opening</guid>
+      <pubDate>Tue, 21 Nov 2023 15:27:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ritziter closed a butterfly call credit spread on $PDD expiring 2023-12-01</title>
+      <link>https://thetagang.com/ritziter/40ce1c7a-e941-4ddc-b2c0-a8b5d7a2c3f2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ritziter/40ce1c7a-e941-4ddc-b2c0-a8b5d7a2c3f2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">40ce1c7a-e941-4ddc-b2c0-a8b5d7a2c3f2-closing</guid>
+      <pubDate>Tue, 28 Nov 2023 14:42:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ritziter opened a butterfly call credit spread on $COIN expiring 2024-01-19</title>
+      <link>https://thetagang.com/ritziter/75f9485e-e539-48ac-a412-98a00d92a3e1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ritziter/75f9485e-e539-48ac-a412-98a00d92a3e1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">75f9485e-e539-48ac-a412-98a00d92a3e1-opening</guid>
+      <pubDate>Tue, 28 Nov 2023 20:28:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mtltrader opened a butterfly call credit spread on $META expiring 2024-01-19</title>
+      <link>https://thetagang.com/mtltrader/51f65863-9367-42e2-821d-f50c4b858379</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mtltrader/51f65863-9367-42e2-821d-f50c4b858379'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">51f65863-9367-42e2-821d-f50c4b858379-opening</guid>
+      <pubDate>Fri, 08 Dec 2023 15:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mtltrader opened a butterfly call credit spread on $MSFT expiring 2024-01-19</title>
+      <link>https://thetagang.com/mtltrader/ef1d6db0-3d2f-4586-862e-0a06ad6700b9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mtltrader/ef1d6db0-3d2f-4586-862e-0a06ad6700b9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ef1d6db0-3d2f-4586-862e-0a06ad6700b9-opening</guid>
+      <pubDate>Tue, 12 Dec 2023 18:37:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ritziter opened a butterfly call credit spread on $TSLA expiring 2024-01-19</title>
+      <link>https://thetagang.com/ritziter/09224e32-dd16-4720-a58f-d86847171728</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ritziter/09224e32-dd16-4720-a58f-d86847171728'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">09224e32-dd16-4720-a58f-d86847171728-opening</guid>
+      <pubDate>Wed, 13 Dec 2023 16:47:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a butterfly call credit spread on $SPX expiring 2023-12-28</title>
+      <link>https://thetagang.com/eve/72ff2064-4148-43de-aa83-ecb49103c77a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/72ff2064-4148-43de-aa83-ecb49103c77a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">72ff2064-4148-43de-aa83-ecb49103c77a-closing</guid>
+      <pubDate>Thu, 28 Dec 2023 14:53:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 RaspyTheta closed a butterfly call credit spread on $QQQ expiring 2023-12-28</title>
+      <link>https://thetagang.com/RaspyTheta/c2970545-f2fd-41f6-b085-12b823b7986e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/RaspyTheta/c2970545-f2fd-41f6-b085-12b823b7986e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c2970545-f2fd-41f6-b085-12b823b7986e-closing</guid>
+      <pubDate>Mon, 01 Jan 2024 18:54:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 RaspyTheta closed a butterfly call credit spread on $QQQ expiring 2023-12-28</title>
+      <link>https://thetagang.com/RaspyTheta/4d06ae0b-fb29-43df-be4d-3f714369eb68</link>
+      <description>For more details, &lt;a href='https://thetagang.com/RaspyTheta/4d06ae0b-fb29-43df-be4d-3f714369eb68'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4d06ae0b-fb29-43df-be4d-3f714369eb68-closing</guid>
+      <pubDate>Mon, 01 Jan 2024 18:56:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a butterfly call credit spread on $SPX expiring 2024-01-09</title>
+      <link>https://thetagang.com/eve/83c5bd07-1734-4dd4-9251-bbd7407881cb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/83c5bd07-1734-4dd4-9251-bbd7407881cb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">83c5bd07-1734-4dd4-9251-bbd7407881cb-opening</guid>
+      <pubDate>Mon, 08 Jan 2024 22:45:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a butterfly call credit spread on $SPX expiring 2024-01-09</title>
+      <link>https://thetagang.com/eve/001d4258-5d83-4299-b3e8-5397c91679f0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/001d4258-5d83-4299-b3e8-5397c91679f0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">001d4258-5d83-4299-b3e8-5397c91679f0-opening</guid>
+      <pubDate>Mon, 08 Jan 2024 22:45:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ARFFman opened a butterfly call credit spread on $NVDA expiring 2024-02-16</title>
+      <link>https://thetagang.com/ARFFman/5ffac8cc-e002-41db-82f8-1b5a690460a1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/5ffac8cc-e002-41db-82f8-1b5a690460a1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5ffac8cc-e002-41db-82f8-1b5a690460a1-opening</guid>
+      <pubDate>Tue, 09 Jan 2024 19:37:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a butterfly call credit spread on $SPX expiring 2024-01-10</title>
+      <link>https://thetagang.com/eve/67b8e51a-dbb0-4469-92ec-31c3db5fbf56</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/67b8e51a-dbb0-4469-92ec-31c3db5fbf56'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">67b8e51a-dbb0-4469-92ec-31c3db5fbf56-opening</guid>
+      <pubDate>Wed, 10 Jan 2024 00:19:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 RaspyTheta closed a butterfly call credit spread on $SPX expiring 2024-01-12</title>
+      <link>https://thetagang.com/RaspyTheta/99f78d1e-6d33-4790-893f-b6b5fe78eeeb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/RaspyTheta/99f78d1e-6d33-4790-893f-b6b5fe78eeeb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">99f78d1e-6d33-4790-893f-b6b5fe78eeeb-closing</guid>
+      <pubDate>Fri, 12 Jan 2024 19:57:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a butterfly call credit spread on $SPX expiring 2024-01-19</title>
+      <link>https://thetagang.com/eve/35ff78f4-55de-465c-8e52-117b061f89b4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/35ff78f4-55de-465c-8e52-117b061f89b4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">35ff78f4-55de-465c-8e52-117b061f89b4-opening</guid>
+      <pubDate>Thu, 18 Jan 2024 21:31:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a butterfly call credit spread on $SPX expiring 2024-01-19</title>
+      <link>https://thetagang.com/eve/679167ae-0b6c-4276-ad77-8b5e8cf3a37b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/679167ae-0b6c-4276-ad77-8b5e8cf3a37b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">679167ae-0b6c-4276-ad77-8b5e8cf3a37b-opening</guid>
+      <pubDate>Thu, 18 Jan 2024 21:31:44 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

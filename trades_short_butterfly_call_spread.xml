@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only short butterfly call spread trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only short butterfly call spread trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 01 Mar 2024 23:53:59 +0000</lastBuildDate>
+    <item>
+      <title>🏁 antithetathetagang closed a short butterfly call spread on $AAPL expiring 2023-03-03</title>
+      <link>https://thetagang.com/antithetathetagang/a834acea-29d9-4cd5-8afd-0190dcc508d4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antithetathetagang/a834acea-29d9-4cd5-8afd-0190dcc508d4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a834acea-29d9-4cd5-8afd-0190dcc508d4-closing</guid>
+      <pubDate>Mon, 06 Mar 2023 08:53:59 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

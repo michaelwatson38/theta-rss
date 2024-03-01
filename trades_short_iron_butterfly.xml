@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only short iron butterfly trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only short iron butterfly trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 01 Mar 2024 23:53:59 +0000</lastBuildDate>
+    <item>
+      <title>🌅 antithetathetagang opened a short iron butterfly on $AMD expiring 2023-04-07</title>
+      <link>https://thetagang.com/antithetathetagang/7d13f4d4-64d7-45ee-af60-d3ddfcd692da</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antithetathetagang/7d13f4d4-64d7-45ee-af60-d3ddfcd692da'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7d13f4d4-64d7-45ee-af60-d3ddfcd692da-opening</guid>
+      <pubDate>Sat, 15 Apr 2023 04:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ahsanzkhan opened a short iron butterfly on $NFLX expiring 2023-05-19</title>
+      <link>https://thetagang.com/ahsanzkhan/d1409fdf-72b0-4629-a281-f79c3cb78ed6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ahsanzkhan/d1409fdf-72b0-4629-a281-f79c3cb78ed6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d1409fdf-72b0-4629-a281-f79c3cb78ed6-opening</guid>
+      <pubDate>Mon, 17 Apr 2023 19:44:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rostsunshine opened a short iron butterfly on $SBLK expiring 2023-05-12</title>
+      <link>https://thetagang.com/rostsunshine/87f4c4e0-ac7c-4de5-a626-7002e85706d4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rostsunshine/87f4c4e0-ac7c-4de5-a626-7002e85706d4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">87f4c4e0-ac7c-4de5-a626-7002e85706d4-opening</guid>
+      <pubDate>Thu, 20 Apr 2023 15:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rostsunshine opened a short iron butterfly on $FRC expiring 2023-04-28</title>
+      <link>https://thetagang.com/rostsunshine/0124179a-af77-4732-8a1b-a0df03d3ad8f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rostsunshine/0124179a-af77-4732-8a1b-a0df03d3ad8f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0124179a-af77-4732-8a1b-a0df03d3ad8f-opening</guid>
+      <pubDate>Thu, 20 Apr 2023 15:11:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron butterfly on $SPX expiring 2023-05-19</title>
+      <link>https://thetagang.com/jrue/14d5cf2a-d4da-4679-8082-a357630f8740</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/14d5cf2a-d4da-4679-8082-a357630f8740'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">14d5cf2a-d4da-4679-8082-a357630f8740-closing</guid>
+      <pubDate>Fri, 19 May 2023 15:28:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron butterfly on $APPS expiring 2023-06-16</title>
+      <link>https://thetagang.com/jrue/b3242d21-97ee-410c-bfd5-205e7c2966b7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/b3242d21-97ee-410c-bfd5-205e7c2966b7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b3242d21-97ee-410c-bfd5-205e7c2966b7-opening</guid>
+      <pubDate>Wed, 24 May 2023 19:57:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ahsanzkhan opened a short iron butterfly on $NFLX expiring 2023-08-18</title>
+      <link>https://thetagang.com/ahsanzkhan/0ff1773e-cd25-4221-b356-16a02a029edf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ahsanzkhan/0ff1773e-cd25-4221-b356-16a02a029edf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0ff1773e-cd25-4221-b356-16a02a029edf-opening</guid>
+      <pubDate>Wed, 19 Jul 2023 19:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron butterfly on $UAL expiring 2023-07-21</title>
+      <link>https://thetagang.com/jrue/f9c97b06-83a5-491f-a53f-bfef9125efa6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/f9c97b06-83a5-491f-a53f-bfef9125efa6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f9c97b06-83a5-491f-a53f-bfef9125efa6-opening</guid>
+      <pubDate>Wed, 19 Jul 2023 20:01:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ARFFman closed a short iron butterfly on $TSLA expiring 2023-07-21</title>
+      <link>https://thetagang.com/ARFFman/61e99129-34d0-46e1-aa8b-42f05e980a84</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/61e99129-34d0-46e1-aa8b-42f05e980a84'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">61e99129-34d0-46e1-aa8b-42f05e980a84-closing</guid>
+      <pubDate>Thu, 20 Jul 2023 13:33:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ARFFman closed a short iron butterfly on $NFLX expiring 2023-07-21</title>
+      <link>https://thetagang.com/ARFFman/51784ceb-9f9c-4a5c-8be5-0f601efee5de</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/51784ceb-9f9c-4a5c-8be5-0f601efee5de'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">51784ceb-9f9c-4a5c-8be5-0f601efee5de-closing</guid>
+      <pubDate>Thu, 20 Jul 2023 13:37:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron butterfly on $EBAY expiring 2023-07-28</title>
+      <link>https://thetagang.com/jrue/88812360-ed56-447f-aa57-103696e80ac3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/88812360-ed56-447f-aa57-103696e80ac3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">88812360-ed56-447f-aa57-103696e80ac3-opening</guid>
+      <pubDate>Wed, 26 Jul 2023 15:21:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron butterfly on $NCLH expiring 2023-08-18</title>
+      <link>https://thetagang.com/jrue/902c225d-8505-4d6e-9c9a-966c8c0d2507</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/902c225d-8505-4d6e-9c9a-966c8c0d2507'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">902c225d-8505-4d6e-9c9a-966c8c0d2507-opening</guid>
+      <pubDate>Mon, 31 Jul 2023 19:54:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron butterfly on $PINS expiring 2023-08-18</title>
+      <link>https://thetagang.com/jrue/43fe344a-0f37-4a52-a17f-3dfc98b4f162</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/43fe344a-0f37-4a52-a17f-3dfc98b4f162'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">43fe344a-0f37-4a52-a17f-3dfc98b4f162-opening</guid>
+      <pubDate>Tue, 01 Aug 2023 19:37:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron butterfly on $CVS expiring 2023-08-18</title>
+      <link>https://thetagang.com/jrue/a9fb06f0-9ec0-479c-918d-24cb8cf71c4e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/a9fb06f0-9ec0-479c-918d-24cb8cf71c4e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a9fb06f0-9ec0-479c-918d-24cb8cf71c4e-closing</guid>
+      <pubDate>Wed, 02 Aug 2023 13:43:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron butterfly on $PLTR expiring 2023-08-18</title>
+      <link>https://thetagang.com/jrue/7c82ae2b-9169-4631-8850-05673e1fd8d0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/7c82ae2b-9169-4631-8850-05673e1fd8d0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7c82ae2b-9169-4631-8850-05673e1fd8d0-closing</guid>
+      <pubDate>Tue, 08 Aug 2023 13:33:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron butterfly on $GPS expiring 2023-09-15</title>
+      <link>https://thetagang.com/jrue/65adac70-7c48-43d3-90de-3674e0410fa7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/65adac70-7c48-43d3-90de-3674e0410fa7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">65adac70-7c48-43d3-90de-3674e0410fa7-closing</guid>
+      <pubDate>Fri, 25 Aug 2023 13:38:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 platypus567 opened a short iron butterfly on $GDXJ expiring 2023-10-20</title>
+      <link>https://thetagang.com/platypus567/b4997758-b9a2-40f6-888f-eafd599bce24</link>
+      <description>For more details, &lt;a href='https://thetagang.com/platypus567/b4997758-b9a2-40f6-888f-eafd599bce24'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b4997758-b9a2-40f6-888f-eafd599bce24-opening</guid>
+      <pubDate>Fri, 08 Sep 2023 14:35:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron butterfly on $AAPL expiring 2023-09-15</title>
+      <link>https://thetagang.com/jrue/03d5021d-089c-44d2-a5cd-e85c874366f1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/03d5021d-089c-44d2-a5cd-e85c874366f1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">03d5021d-089c-44d2-a5cd-e85c874366f1-closing</guid>
+      <pubDate>Tue, 12 Sep 2023 19:56:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron butterfly on $SPX expiring 2023-09-27</title>
+      <link>https://thetagang.com/jrue/ca7c587e-31f5-4d18-82d3-89919832515d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/ca7c587e-31f5-4d18-82d3-89919832515d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ca7c587e-31f5-4d18-82d3-89919832515d-closing</guid>
+      <pubDate>Thu, 28 Sep 2023 16:15:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron butterfly on $QQQ expiring 2023-10-05</title>
+      <link>https://thetagang.com/jrue/ae0d8958-a1ce-45b1-aedc-09164944af38</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/ae0d8958-a1ce-45b1-aedc-09164944af38'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ae0d8958-a1ce-45b1-aedc-09164944af38-closing</guid>
+      <pubDate>Thu, 05 Oct 2023 17:45:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron butterfly on $SPX expiring 2023-10-05</title>
+      <link>https://thetagang.com/jrue/0e1315ea-62d9-40ca-8790-f5021a833527</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/0e1315ea-62d9-40ca-8790-f5021a833527'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0e1315ea-62d9-40ca-8790-f5021a833527-closing</guid>
+      <pubDate>Thu, 05 Oct 2023 19:15:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 abc123usd opened a short iron butterfly on $AAPL expiring 2023-10-19</title>
+      <link>https://thetagang.com/abc123usd/e973f15d-d9b6-4f8d-925a-18a71a8346bf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/abc123usd/e973f15d-d9b6-4f8d-925a-18a71a8346bf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e973f15d-d9b6-4f8d-925a-18a71a8346bf-opening</guid>
+      <pubDate>Wed, 11 Oct 2023 00:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron butterfly on $JPM expiring 2023-10-13</title>
+      <link>https://thetagang.com/jrue/e154ce6b-99c8-4f2b-a9ad-0ab67a51bedb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/e154ce6b-99c8-4f2b-a9ad-0ab67a51bedb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e154ce6b-99c8-4f2b-a9ad-0ab67a51bedb-closing</guid>
+      <pubDate>Fri, 13 Oct 2023 17:50:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron butterfly on $SPX expiring 2023-10-19</title>
+      <link>https://thetagang.com/jrue/723ef521-47e2-4b58-b228-1ef242e5012b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/723ef521-47e2-4b58-b228-1ef242e5012b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">723ef521-47e2-4b58-b228-1ef242e5012b-closing</guid>
+      <pubDate>Fri, 20 Oct 2023 00:10:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron butterfly on $RTX expiring 2023-10-27</title>
+      <link>https://thetagang.com/jrue/9e983fbd-7b31-46ee-8a67-21da6db4f84c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/9e983fbd-7b31-46ee-8a67-21da6db4f84c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9e983fbd-7b31-46ee-8a67-21da6db4f84c-opening</guid>
+      <pubDate>Mon, 23 Oct 2023 19:50:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron butterfly on $VZ expiring 2023-11-17</title>
+      <link>https://thetagang.com/jrue/ff591e5e-f238-4e9f-9a94-598bc9f5596f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/ff591e5e-f238-4e9f-9a94-598bc9f5596f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ff591e5e-f238-4e9f-9a94-598bc9f5596f-opening</guid>
+      <pubDate>Mon, 23 Oct 2023 19:51:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 darnster opened a short iron butterfly on $GM expiring 2024-01-12</title>
+      <link>https://thetagang.com/darnster/6f2df114-d9eb-41d9-8a3e-823f67ee6369</link>
+      <description>For more details, &lt;a href='https://thetagang.com/darnster/6f2df114-d9eb-41d9-8a3e-823f67ee6369'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6f2df114-d9eb-41d9-8a3e-823f67ee6369-opening</guid>
+      <pubDate>Tue, 12 Dec 2023 02:18:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aaronwang101 opened a short iron butterfly on $EWZ expiring 2023-12-22</title>
+      <link>https://thetagang.com/aaronwang101/bf096f49-938d-4b00-8bb1-f4ca3da30676</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aaronwang101/bf096f49-938d-4b00-8bb1-f4ca3da30676'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bf096f49-938d-4b00-8bb1-f4ca3da30676-opening</guid>
+      <pubDate>Wed, 13 Dec 2023 21:06:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 darnster opened a short iron butterfly on $RIVN expiring 2024-01-12</title>
+      <link>https://thetagang.com/darnster/fcdfd780-a264-4777-9d96-40a100246181</link>
+      <description>For more details, &lt;a href='https://thetagang.com/darnster/fcdfd780-a264-4777-9d96-40a100246181'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fcdfd780-a264-4777-9d96-40a100246181-opening</guid>
+      <pubDate>Thu, 14 Dec 2023 18:32:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 iamacapitalist opened a short iron butterfly on $AAPL expiring 2024-02-26</title>
+      <link>https://thetagang.com/iamacapitalist/db644d17-3160-4549-bc6d-b6a627b448df</link>
+      <description>For more details, &lt;a href='https://thetagang.com/iamacapitalist/db644d17-3160-4549-bc6d-b6a627b448df'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">db644d17-3160-4549-bc6d-b6a627b448df-opening</guid>
+      <pubDate>Fri, 22 Dec 2023 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2023-12-26</title>
+      <link>https://thetagang.com/eve/db4572e2-0c35-4cd7-a030-9e5b38fcb3a7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/db4572e2-0c35-4cd7-a030-9e5b38fcb3a7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">db4572e2-0c35-4cd7-a030-9e5b38fcb3a7-closing</guid>
+      <pubDate>Wed, 27 Dec 2023 01:49:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2023-12-27</title>
+      <link>https://thetagang.com/eve/5831f158-3d78-4214-bfd4-67e624c90f57</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/5831f158-3d78-4214-bfd4-67e624c90f57'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5831f158-3d78-4214-bfd4-67e624c90f57-closing</guid>
+      <pubDate>Wed, 27 Dec 2023 17:01:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short iron butterfly on $TSLA expiring 2023-12-29</title>
+      <link>https://thetagang.com/eve/7b82a331-8904-4de9-b4b4-5f97d538f0fc</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/7b82a331-8904-4de9-b4b4-5f97d538f0fc'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7b82a331-8904-4de9-b4b4-5f97d538f0fc-opening</guid>
+      <pubDate>Thu, 28 Dec 2023 15:16:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short iron butterfly on $SPXU expiring 2023-12-28</title>
+      <link>https://thetagang.com/eve/7d666b00-0177-4b70-a8b2-bdbcd5cc8c3d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/7d666b00-0177-4b70-a8b2-bdbcd5cc8c3d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7d666b00-0177-4b70-a8b2-bdbcd5cc8c3d-opening</guid>
+      <pubDate>Thu, 28 Dec 2023 15:32:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2023-12-28</title>
+      <link>https://thetagang.com/eve/9dd04da9-309c-4aad-bde7-745ba71c4084</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/9dd04da9-309c-4aad-bde7-745ba71c4084'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9dd04da9-309c-4aad-bde7-745ba71c4084-closing</guid>
+      <pubDate>Thu, 28 Dec 2023 16:08:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2023-12-28</title>
+      <link>https://thetagang.com/eve/8ec7b1b8-d1a3-49d4-88b0-e021abd60557</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/8ec7b1b8-d1a3-49d4-88b0-e021abd60557'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8ec7b1b8-d1a3-49d4-88b0-e021abd60557-closing</guid>
+      <pubDate>Thu, 28 Dec 2023 17:33:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2023-12-29</title>
+      <link>https://thetagang.com/eve/3289324e-100c-4916-b099-c0efa0c1ac83</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/3289324e-100c-4916-b099-c0efa0c1ac83'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3289324e-100c-4916-b099-c0efa0c1ac83-closing</guid>
+      <pubDate>Fri, 29 Dec 2023 20:04:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 reposaur closed a short iron butterfly on $SPY expiring 2024-01-02</title>
+      <link>https://thetagang.com/reposaur/0759b53f-e68f-404f-bae3-0c771054e669</link>
+      <description>For more details, &lt;a href='https://thetagang.com/reposaur/0759b53f-e68f-404f-bae3-0c771054e669'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0759b53f-e68f-404f-bae3-0c771054e669-closing</guid>
+      <pubDate>Tue, 02 Jan 2024 14:33:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-02</title>
+      <link>https://thetagang.com/eve/557acf2c-917e-4c54-8e2a-312f2b5b64af</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/557acf2c-917e-4c54-8e2a-312f2b5b64af'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">557acf2c-917e-4c54-8e2a-312f2b5b64af-closing</guid>
+      <pubDate>Tue, 02 Jan 2024 20:17:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-02</title>
+      <link>https://thetagang.com/eve/e5974887-ff44-4407-91bf-427125c86ba2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/e5974887-ff44-4407-91bf-427125c86ba2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e5974887-ff44-4407-91bf-427125c86ba2-closing</guid>
+      <pubDate>Tue, 02 Jan 2024 20:47:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-03</title>
+      <link>https://thetagang.com/eve/09dc297c-7df8-4b87-980f-c11c5b27e0ec</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/09dc297c-7df8-4b87-980f-c11c5b27e0ec'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">09dc297c-7df8-4b87-980f-c11c5b27e0ec-closing</guid>
+      <pubDate>Wed, 03 Jan 2024 18:12:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 iamacapitalist opened a short iron butterfly on $WFC expiring 2024-01-12</title>
+      <link>https://thetagang.com/iamacapitalist/e9a59445-d39e-443b-abfc-0ef81c94726b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/iamacapitalist/e9a59445-d39e-443b-abfc-0ef81c94726b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e9a59445-d39e-443b-abfc-0ef81c94726b-opening</guid>
+      <pubDate>Thu, 04 Jan 2024 05:31:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 iamacapitalist opened a short iron butterfly on $WFC expiring 2024-01-19</title>
+      <link>https://thetagang.com/iamacapitalist/1e39fea5-2fc7-45a1-900f-9eb0acfb27f9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/iamacapitalist/1e39fea5-2fc7-45a1-900f-9eb0acfb27f9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1e39fea5-2fc7-45a1-900f-9eb0acfb27f9-opening</guid>
+      <pubDate>Thu, 04 Jan 2024 05:38:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-04</title>
+      <link>https://thetagang.com/eve/f1ced7c6-142c-416c-ac74-66bd34df418d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/f1ced7c6-142c-416c-ac74-66bd34df418d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f1ced7c6-142c-416c-ac74-66bd34df418d-closing</guid>
+      <pubDate>Thu, 04 Jan 2024 17:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-04</title>
+      <link>https://thetagang.com/eve/915049d4-a437-4a60-abc9-cb95698000e2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/915049d4-a437-4a60-abc9-cb95698000e2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">915049d4-a437-4a60-abc9-cb95698000e2-closing</guid>
+      <pubDate>Thu, 04 Jan 2024 17:46:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-05</title>
+      <link>https://thetagang.com/eve/70f6b170-966a-49f1-b79f-2370976fa8ab</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/70f6b170-966a-49f1-b79f-2370976fa8ab'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">70f6b170-966a-49f1-b79f-2370976fa8ab-closing</guid>
+      <pubDate>Fri, 05 Jan 2024 23:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-08</title>
+      <link>https://thetagang.com/eve/048120d9-eb2a-4707-acbf-b0c092d895b5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/048120d9-eb2a-4707-acbf-b0c092d895b5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">048120d9-eb2a-4707-acbf-b0c092d895b5-closing</guid>
+      <pubDate>Mon, 08 Jan 2024 22:38:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short iron butterfly on $SPX expiring 2024-01-08</title>
+      <link>https://thetagang.com/eve/b9049768-fbfb-4f6a-ade0-6c037fd4cdf7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/b9049768-fbfb-4f6a-ade0-6c037fd4cdf7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b9049768-fbfb-4f6a-ade0-6c037fd4cdf7-opening</guid>
+      <pubDate>Tue, 09 Jan 2024 02:08:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 iamacapitalist opened a short iron butterfly on $AAPL expiring 2024-03-15</title>
+      <link>https://thetagang.com/iamacapitalist/ce0e70e9-dc96-4fec-83fd-a84346131673</link>
+      <description>For more details, &lt;a href='https://thetagang.com/iamacapitalist/ce0e70e9-dc96-4fec-83fd-a84346131673'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ce0e70e9-dc96-4fec-83fd-a84346131673-opening</guid>
+      <pubDate>Tue, 09 Jan 2024 18:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 iamacapitalist opened a short iron butterfly on $DFS expiring 2024-02-16</title>
+      <link>https://thetagang.com/iamacapitalist/f8a94037-a804-4e5c-87b7-96eeff6bdbed</link>
+      <description>For more details, &lt;a href='https://thetagang.com/iamacapitalist/f8a94037-a804-4e5c-87b7-96eeff6bdbed'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f8a94037-a804-4e5c-87b7-96eeff6bdbed-opening</guid>
+      <pubDate>Tue, 09 Jan 2024 20:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-10</title>
+      <link>https://thetagang.com/eve/92f74c91-9f87-4ea9-91ed-be2177b6f8ce</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/92f74c91-9f87-4ea9-91ed-be2177b6f8ce'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">92f74c91-9f87-4ea9-91ed-be2177b6f8ce-closing</guid>
+      <pubDate>Wed, 10 Jan 2024 00:17:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-10</title>
+      <link>https://thetagang.com/eve/434d0eac-5c69-4f7c-ace3-9ca00e9f3451</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/434d0eac-5c69-4f7c-ace3-9ca00e9f3451'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">434d0eac-5c69-4f7c-ace3-9ca00e9f3451-closing</guid>
+      <pubDate>Thu, 11 Jan 2024 02:21:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-11</title>
+      <link>https://thetagang.com/eve/bf1c965e-3cbe-4feb-8756-d133ececd857</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/bf1c965e-3cbe-4feb-8756-d133ececd857'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bf1c965e-3cbe-4feb-8756-d133ececd857-closing</guid>
+      <pubDate>Thu, 11 Jan 2024 19:29:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-12</title>
+      <link>https://thetagang.com/eve/cbc5a440-5833-4a6f-86cf-2ba204194e5a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/cbc5a440-5833-4a6f-86cf-2ba204194e5a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cbc5a440-5833-4a6f-86cf-2ba204194e5a-closing</guid>
+      <pubDate>Fri, 12 Jan 2024 21:05:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-16</title>
+      <link>https://thetagang.com/eve/a6269263-c015-4039-a72c-98d9b1fc4369</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/a6269263-c015-4039-a72c-98d9b1fc4369'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a6269263-c015-4039-a72c-98d9b1fc4369-closing</guid>
+      <pubDate>Tue, 16 Jan 2024 18:30:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 RaspyTheta opened a short iron butterfly on $QQQ expiring 2024-02-16</title>
+      <link>https://thetagang.com/RaspyTheta/009d800b-1367-497d-af7c-b3206c108fe6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/RaspyTheta/009d800b-1367-497d-af7c-b3206c108fe6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">009d800b-1367-497d-af7c-b3206c108fe6-opening</guid>
+      <pubDate>Tue, 16 Jan 2024 19:42:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-16</title>
+      <link>https://thetagang.com/eve/13c8e263-c4f7-4253-9b51-151dfbfe1d05</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/13c8e263-c4f7-4253-9b51-151dfbfe1d05'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">13c8e263-c4f7-4253-9b51-151dfbfe1d05-closing</guid>
+      <pubDate>Tue, 16 Jan 2024 23:50:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-18</title>
+      <link>https://thetagang.com/eve/af8a7574-411c-492f-80b1-6ae976c58da5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/af8a7574-411c-492f-80b1-6ae976c58da5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">af8a7574-411c-492f-80b1-6ae976c58da5-closing</guid>
+      <pubDate>Thu, 18 Jan 2024 19:06:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron butterfly on $SPX expiring 2024-01-19</title>
+      <link>https://thetagang.com/jrue/837e2f9d-28a9-425f-9c3c-97335019c848</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/837e2f9d-28a9-425f-9c3c-97335019c848'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">837e2f9d-28a9-425f-9c3c-97335019c848-closing</guid>
+      <pubDate>Fri, 19 Jan 2024 21:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-19</title>
+      <link>https://thetagang.com/eve/67310a02-dd67-4cf7-8d9f-b3aa981e075e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/67310a02-dd67-4cf7-8d9f-b3aa981e075e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">67310a02-dd67-4cf7-8d9f-b3aa981e075e-closing</guid>
+      <pubDate>Fri, 19 Jan 2024 21:48:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-19</title>
+      <link>https://thetagang.com/eve/41586e3f-00fe-43b0-a72d-f465c34dbd47</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/41586e3f-00fe-43b0-a72d-f465c34dbd47'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">41586e3f-00fe-43b0-a72d-f465c34dbd47-closing</guid>
+      <pubDate>Fri, 19 Jan 2024 21:48:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short iron butterfly on $SPX expiring 2024-01-29</title>
+      <link>https://thetagang.com/eve/74ceec00-66b4-459d-a1d6-af675c45633b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/74ceec00-66b4-459d-a1d6-af675c45633b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">74ceec00-66b4-459d-a1d6-af675c45633b-closing</guid>
+      <pubDate>Tue, 30 Jan 2024 03:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron butterfly on $DIS expiring 2024-02-16</title>
+      <link>https://thetagang.com/jrue/a08929e3-7b66-494f-852d-e588cc84be0f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/a08929e3-7b66-494f-852d-e588cc84be0f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a08929e3-7b66-494f-852d-e588cc84be0f-opening</guid>
+      <pubDate>Wed, 07 Feb 2024 20:46:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron butterfly on $PYPL expiring 2024-02-16</title>
+      <link>https://thetagang.com/jrue/42f4ed82-cf2c-44be-89c7-e08a9db99935</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/42f4ed82-cf2c-44be-89c7-e08a9db99935'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">42f4ed82-cf2c-44be-89c7-e08a9db99935-opening</guid>
+      <pubDate>Wed, 07 Feb 2024 20:52:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 bzun closed a short iron butterfly on $SPX expiring 2024-02-23</title>
+      <link>https://thetagang.com/bzun/a26833d0-eda6-4e2f-a293-137e95aaa78f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bzun/a26833d0-eda6-4e2f-a293-137e95aaa78f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a26833d0-eda6-4e2f-a293-137e95aaa78f-closing</guid>
+      <pubDate>Sun, 25 Feb 2024 17:43:51 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

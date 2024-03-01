@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only short strangle trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only short strangle trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 01 Mar 2024 23:53:59 +0000</lastBuildDate>
+    <item>
+      <title>🌅 ARFFman opened a short strangle on $MSFT expiring 2024-02-16</title>
+      <link>https://thetagang.com/ARFFman/c8205d15-c288-4b7b-a080-ef0888102d79</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/c8205d15-c288-4b7b-a080-ef0888102d79'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c8205d15-c288-4b7b-a080-ef0888102d79-opening</guid>
+      <pubDate>Thu, 04 Jan 2024 16:39:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ARFFman opened a short strangle on $ROKU expiring 2024-02-16</title>
+      <link>https://thetagang.com/ARFFman/2214f28e-9ece-4bd0-9868-89eddcb4cc8a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/2214f28e-9ece-4bd0-9868-89eddcb4cc8a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2214f28e-9ece-4bd0-9868-89eddcb4cc8a-opening</guid>
+      <pubDate>Thu, 04 Jan 2024 18:30:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short strangle on $/MES expiring 2024-02-29</title>
+      <link>https://thetagang.com/jrue/2a786a38-96ff-4e97-917f-265db44315ce</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/2a786a38-96ff-4e97-917f-265db44315ce'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2a786a38-96ff-4e97-917f-265db44315ce-opening</guid>
+      <pubDate>Thu, 04 Jan 2024 19:42:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Drum_Smith opened a short strangle on $ROKU expiring 2024-02-16</title>
+      <link>https://thetagang.com/Drum_Smith/bcaa7411-5899-4c51-a3e3-7a20d39b066b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Drum_Smith/bcaa7411-5899-4c51-a3e3-7a20d39b066b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bcaa7411-5899-4c51-a3e3-7a20d39b066b-opening</guid>
+      <pubDate>Thu, 04 Jan 2024 20:44:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 BuzzSaw opened a short strangle on $/ES expiring 2024-01-05</title>
+      <link>https://thetagang.com/BuzzSaw/20dca31b-52be-4812-8620-e69dd2f31683</link>
+      <description>For more details, &lt;a href='https://thetagang.com/BuzzSaw/20dca31b-52be-4812-8620-e69dd2f31683'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">20dca31b-52be-4812-8620-e69dd2f31683-opening</guid>
+      <pubDate>Thu, 04 Jan 2024 21:57:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 lzyabc597 opened a short strangle on $NEM expiring 2024-02-16</title>
+      <link>https://thetagang.com/lzyabc597/02c84152-7eb7-471b-a9e7-bc2c82b32cfb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/lzyabc597/02c84152-7eb7-471b-a9e7-bc2c82b32cfb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">02c84152-7eb7-471b-a9e7-bc2c82b32cfb-opening</guid>
+      <pubDate>Fri, 05 Jan 2024 15:05:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 lzyabc597 opened a short strangle on $AMZN expiring 2024-02-16</title>
+      <link>https://thetagang.com/lzyabc597/0571f0e7-75fa-42ed-ad55-81cf79e77f60</link>
+      <description>For more details, &lt;a href='https://thetagang.com/lzyabc597/0571f0e7-75fa-42ed-ad55-81cf79e77f60'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0571f0e7-75fa-42ed-ad55-81cf79e77f60-opening</guid>
+      <pubDate>Fri, 05 Jan 2024 15:08:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 lzyabc597 opened a short strangle on $ENPH expiring 2024-02-16</title>
+      <link>https://thetagang.com/lzyabc597/025c3eb8-3c43-40c7-b4b3-e761a8b4e637</link>
+      <description>For more details, &lt;a href='https://thetagang.com/lzyabc597/025c3eb8-3c43-40c7-b4b3-e761a8b4e637'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">025c3eb8-3c43-40c7-b4b3-e761a8b4e637-opening</guid>
+      <pubDate>Fri, 05 Jan 2024 15:14:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ARFFman opened a short strangle on $AMD expiring 2024-02-16</title>
+      <link>https://thetagang.com/ARFFman/47d7170e-07b0-4632-9358-84e56d856fc9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/47d7170e-07b0-4632-9358-84e56d856fc9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">47d7170e-07b0-4632-9358-84e56d856fc9-opening</guid>
+      <pubDate>Fri, 05 Jan 2024 16:32:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 RaspyTheta opened a short strangle on $EWZ expiring 2024-02-16</title>
+      <link>https://thetagang.com/RaspyTheta/80f47cd9-8d57-4a6d-ade2-eaa626ada309</link>
+      <description>For more details, &lt;a href='https://thetagang.com/RaspyTheta/80f47cd9-8d57-4a6d-ade2-eaa626ada309'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">80f47cd9-8d57-4a6d-ade2-eaa626ada309-opening</guid>
+      <pubDate>Fri, 05 Jan 2024 16:51:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ARFFman opened a short strangle on $GOOGL expiring 2024-02-16</title>
+      <link>https://thetagang.com/ARFFman/1df0fa6c-6e1c-4ff2-b914-efe225fa92cc</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/1df0fa6c-6e1c-4ff2-b914-efe225fa92cc'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1df0fa6c-6e1c-4ff2-b914-efe225fa92cc-opening</guid>
+      <pubDate>Fri, 05 Jan 2024 17:19:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 major opened a short strangle on $TLT expiring 2024-02-16</title>
+      <link>https://thetagang.com/major/40fa021c-d34a-4614-98e1-94619fb85dc8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/major/40fa021c-d34a-4614-98e1-94619fb85dc8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">40fa021c-d34a-4614-98e1-94619fb85dc8-opening</guid>
+      <pubDate>Fri, 05 Jan 2024 18:28:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aaronwang101 opened a short strangle on $IWM expiring 2024-02-16</title>
+      <link>https://thetagang.com/aaronwang101/c2060675-4a98-443c-b57a-4d0a1687c6fd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aaronwang101/c2060675-4a98-443c-b57a-4d0a1687c6fd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c2060675-4a98-443c-b57a-4d0a1687c6fd-opening</guid>
+      <pubDate>Fri, 05 Jan 2024 19:13:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aaronwang101 opened a short strangle on $TLT expiring 2024-02-16</title>
+      <link>https://thetagang.com/aaronwang101/c6984bad-a3fb-46ce-8ba1-243657d38ea9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aaronwang101/c6984bad-a3fb-46ce-8ba1-243657d38ea9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c6984bad-a3fb-46ce-8ba1-243657d38ea9-opening</guid>
+      <pubDate>Fri, 05 Jan 2024 19:36:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ARFFman opened a short strangle on $TLT expiring 2024-02-16</title>
+      <link>https://thetagang.com/ARFFman/1f0deef4-7b16-49a1-9e50-6ace7dfe6443</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/1f0deef4-7b16-49a1-9e50-6ace7dfe6443'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1f0deef4-7b16-49a1-9e50-6ace7dfe6443-opening</guid>
+      <pubDate>Mon, 08 Jan 2024 15:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aaronwang101 opened a short strangle on $XOP expiring 2024-02-16</title>
+      <link>https://thetagang.com/aaronwang101/5d8af5a8-7cf2-4535-9877-0faab60a3f0e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aaronwang101/5d8af5a8-7cf2-4535-9877-0faab60a3f0e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5d8af5a8-7cf2-4535-9877-0faab60a3f0e-opening</guid>
+      <pubDate>Mon, 08 Jan 2024 15:35:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jfs1179 opened a short strangle on $SPX expiring 2024-02-23</title>
+      <link>https://thetagang.com/jfs1179/b8d76da3-b174-471f-9165-ba659874ca42</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jfs1179/b8d76da3-b174-471f-9165-ba659874ca42'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b8d76da3-b174-471f-9165-ba659874ca42-opening</guid>
+      <pubDate>Tue, 09 Jan 2024 18:59:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aaronwang101 opened a short strangle on $XLE expiring 2024-02-16</title>
+      <link>https://thetagang.com/aaronwang101/b00d367a-e798-43fe-b48b-74f218f43393</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aaronwang101/b00d367a-e798-43fe-b48b-74f218f43393'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b00d367a-e798-43fe-b48b-74f218f43393-opening</guid>
+      <pubDate>Tue, 09 Jan 2024 20:31:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $GLD expiring 2024-02-23</title>
+      <link>https://thetagang.com/eve/64a88315-0a24-4061-a225-f575d40074dd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/64a88315-0a24-4061-a225-f575d40074dd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">64a88315-0a24-4061-a225-f575d40074dd-opening</guid>
+      <pubDate>Wed, 10 Jan 2024 00:20:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $USO expiring 2024-02-23</title>
+      <link>https://thetagang.com/eve/ddc1de90-fd9f-492c-9a73-f9036fa3f834</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/ddc1de90-fd9f-492c-9a73-f9036fa3f834'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ddc1de90-fd9f-492c-9a73-f9036fa3f834-opening</guid>
+      <pubDate>Thu, 11 Jan 2024 02:20:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $EWZ expiring 2024-02-23</title>
+      <link>https://thetagang.com/eve/ea746855-4e11-4213-94cc-8bf7a54688f2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/ea746855-4e11-4213-94cc-8bf7a54688f2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ea746855-4e11-4213-94cc-8bf7a54688f2-opening</guid>
+      <pubDate>Thu, 11 Jan 2024 02:22:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aaronwang101 opened a short strangle on $IWM expiring 2024-03-15</title>
+      <link>https://thetagang.com/aaronwang101/7750cf23-3521-4a71-9f28-e8da7c3f5db5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aaronwang101/7750cf23-3521-4a71-9f28-e8da7c3f5db5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7750cf23-3521-4a71-9f28-e8da7c3f5db5-opening</guid>
+      <pubDate>Thu, 11 Jan 2024 16:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 RaspyTheta opened a short strangle on $EWZ expiring 2024-03-15</title>
+      <link>https://thetagang.com/RaspyTheta/a790adcf-3fdc-4f60-b272-bdec5f0baed7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/RaspyTheta/a790adcf-3fdc-4f60-b272-bdec5f0baed7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a790adcf-3fdc-4f60-b272-bdec5f0baed7-opening</guid>
+      <pubDate>Thu, 11 Jan 2024 17:04:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short strangle on $/MNQ expiring 2024-03-15</title>
+      <link>https://thetagang.com/jrue/39e230a1-154b-4a19-afb2-7d791c2d1019</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/39e230a1-154b-4a19-afb2-7d791c2d1019'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">39e230a1-154b-4a19-afb2-7d791c2d1019-opening</guid>
+      <pubDate>Thu, 11 Jan 2024 18:22:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ARFFman opened a short strangle on $MSFT expiring 2024-02-16</title>
+      <link>https://thetagang.com/ARFFman/4d863543-4aa5-4273-956f-dfa3b853f8eb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/4d863543-4aa5-4273-956f-dfa3b853f8eb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4d863543-4aa5-4273-956f-dfa3b853f8eb-opening</guid>
+      <pubDate>Thu, 11 Jan 2024 19:51:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 BinT opened a short strangle on $ABNB expiring 2024-02-16</title>
+      <link>https://thetagang.com/BinT/19ec31af-7399-4525-aede-e10f8f6b27fa</link>
+      <description>For more details, &lt;a href='https://thetagang.com/BinT/19ec31af-7399-4525-aede-e10f8f6b27fa'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">19ec31af-7399-4525-aede-e10f8f6b27fa-opening</guid>
+      <pubDate>Fri, 12 Jan 2024 15:54:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aaronwang101 opened a short strangle on $AMD expiring 2024-03-15</title>
+      <link>https://thetagang.com/aaronwang101/6b37ee1c-edc4-4781-a32e-501a7ca0270d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aaronwang101/6b37ee1c-edc4-4781-a32e-501a7ca0270d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6b37ee1c-edc4-4781-a32e-501a7ca0270d-opening</guid>
+      <pubDate>Fri, 12 Jan 2024 21:59:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $/MBT expiring 2024-02-23</title>
+      <link>https://thetagang.com/eve/d0f5c8e1-1b6c-42fc-b936-ed73347de04c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/d0f5c8e1-1b6c-42fc-b936-ed73347de04c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d0f5c8e1-1b6c-42fc-b936-ed73347de04c-opening</guid>
+      <pubDate>Fri, 12 Jan 2024 21:59:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $UNG expiring 2024-02-23</title>
+      <link>https://thetagang.com/eve/ec726722-3946-4ffa-aa3d-fed1fccf3cbd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/ec726722-3946-4ffa-aa3d-fed1fccf3cbd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ec726722-3946-4ffa-aa3d-fed1fccf3cbd-opening</guid>
+      <pubDate>Fri, 12 Jan 2024 22:04:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $UPRO expiring 2024-02-23</title>
+      <link>https://thetagang.com/eve/af420831-69ab-49c0-8705-7c3a8b64798a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/af420831-69ab-49c0-8705-7c3a8b64798a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">af420831-69ab-49c0-8705-7c3a8b64798a-opening</guid>
+      <pubDate>Fri, 12 Jan 2024 22:06:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $CART expiring 2024-03-01</title>
+      <link>https://thetagang.com/eve/ea9c6950-7c90-4d26-9bf9-3ac2e1d1dad4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/ea9c6950-7c90-4d26-9bf9-3ac2e1d1dad4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ea9c6950-7c90-4d26-9bf9-3ac2e1d1dad4-opening</guid>
+      <pubDate>Tue, 16 Jan 2024 15:19:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 iamacapitalist opened a short strangle on $WFC expiring 2024-02-23</title>
+      <link>https://thetagang.com/iamacapitalist/1912038c-80af-49f1-965d-22c1e4960f21</link>
+      <description>For more details, &lt;a href='https://thetagang.com/iamacapitalist/1912038c-80af-49f1-965d-22c1e4960f21'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1912038c-80af-49f1-965d-22c1e4960f21-opening</guid>
+      <pubDate>Tue, 16 Jan 2024 16:01:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aaronwang101 opened a short strangle on $XLE expiring 2024-03-15</title>
+      <link>https://thetagang.com/aaronwang101/08bdca2e-9e9b-4d4f-9093-a4894c36978c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aaronwang101/08bdca2e-9e9b-4d4f-9093-a4894c36978c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">08bdca2e-9e9b-4d4f-9093-a4894c36978c-opening</guid>
+      <pubDate>Tue, 16 Jan 2024 19:53:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short strangle on $/MES expiring 2024-03-15</title>
+      <link>https://thetagang.com/jrue/a9b088a9-684d-4ddb-be9b-b8661ad334ac</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/a9b088a9-684d-4ddb-be9b-b8661ad334ac'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a9b088a9-684d-4ddb-be9b-b8661ad334ac-opening</guid>
+      <pubDate>Tue, 16 Jan 2024 19:56:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 tailrisk opened a short strangle on $WYNN expiring 2024-03-01</title>
+      <link>https://thetagang.com/tailrisk/1343a415-b288-454a-87b5-cf8c00d590dd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tailrisk/1343a415-b288-454a-87b5-cf8c00d590dd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1343a415-b288-454a-87b5-cf8c00d590dd-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 23:39:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 tailrisk opened a short strangle on $IWM expiring 2024-03-01</title>
+      <link>https://thetagang.com/tailrisk/9a38186e-0a64-4753-9171-09db2d31a92d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tailrisk/9a38186e-0a64-4753-9171-09db2d31a92d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9a38186e-0a64-4753-9171-09db2d31a92d-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 23:40:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jtrain184 opened a short strangle on $ALB expiring 2024-01-19</title>
+      <link>https://thetagang.com/jtrain184/0e8b75a7-7d65-4ff5-90a4-7419fbdb4656</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jtrain184/0e8b75a7-7d65-4ff5-90a4-7419fbdb4656'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0e8b75a7-7d65-4ff5-90a4-7419fbdb4656-opening</guid>
+      <pubDate>Thu, 18 Jan 2024 16:29:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 sprocket888 opened a short strangle on $AMD expiring 2024-02-02</title>
+      <link>https://thetagang.com/sprocket888/1d88a2f8-575c-46a9-9557-e2a9d89abe56</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sprocket888/1d88a2f8-575c-46a9-9557-e2a9d89abe56'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1d88a2f8-575c-46a9-9557-e2a9d89abe56-opening</guid>
+      <pubDate>Thu, 18 Jan 2024 23:03:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aaronwang101 opened a short strangle on $TLT expiring 2024-02-16</title>
+      <link>https://thetagang.com/aaronwang101/0a66f339-1598-4717-9254-b6e02032b911</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aaronwang101/0a66f339-1598-4717-9254-b6e02032b911'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0a66f339-1598-4717-9254-b6e02032b911-opening</guid>
+      <pubDate>Mon, 22 Jan 2024 14:43:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $SLV expiring 2024-03-01</title>
+      <link>https://thetagang.com/eve/5f57f176-19f6-4a44-bd65-981b1ccf0a2c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/5f57f176-19f6-4a44-bd65-981b1ccf0a2c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5f57f176-19f6-4a44-bd65-981b1ccf0a2c-opening</guid>
+      <pubDate>Tue, 23 Jan 2024 01:56:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $IWM expiring 2024-03-01</title>
+      <link>https://thetagang.com/eve/2e6f8631-80bc-4d1d-a8f7-90d60bd398ae</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/2e6f8631-80bc-4d1d-a8f7-90d60bd398ae'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2e6f8631-80bc-4d1d-a8f7-90d60bd398ae-opening</guid>
+      <pubDate>Tue, 23 Jan 2024 01:57:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $GLD expiring 2024-03-15</title>
+      <link>https://thetagang.com/eve/eaa93614-64d3-4d40-857e-85b0c13168fc</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/eaa93614-64d3-4d40-857e-85b0c13168fc'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">eaa93614-64d3-4d40-857e-85b0c13168fc-opening</guid>
+      <pubDate>Wed, 24 Jan 2024 22:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jv2022 opened a short strangle on $PARA expiring 2024-02-16</title>
+      <link>https://thetagang.com/jv2022/bec364ed-64a1-47fd-b932-9117c91d3136</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jv2022/bec364ed-64a1-47fd-b932-9117c91d3136'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bec364ed-64a1-47fd-b932-9117c91d3136-opening</guid>
+      <pubDate>Thu, 25 Jan 2024 21:47:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jv2022 opened a short strangle on $HOOD expiring 2024-02-16</title>
+      <link>https://thetagang.com/jv2022/7238d03f-98bb-42df-9e2d-069be5f4d1c5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jv2022/7238d03f-98bb-42df-9e2d-069be5f4d1c5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7238d03f-98bb-42df-9e2d-069be5f4d1c5-opening</guid>
+      <pubDate>Thu, 25 Jan 2024 21:51:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jv2022 closed a short strangle on $SLV expiring 2024-02-15</title>
+      <link>https://thetagang.com/jv2022/61a78aa5-198f-4ebe-9ec6-a29d270f8374</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jv2022/61a78aa5-198f-4ebe-9ec6-a29d270f8374'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">61a78aa5-198f-4ebe-9ec6-a29d270f8374-closing</guid>
+      <pubDate>Fri, 26 Jan 2024 19:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $INTC expiring 2024-03-08</title>
+      <link>https://thetagang.com/eve/e15912c9-57ba-4b67-a411-2ccd4cf04c51</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/e15912c9-57ba-4b67-a411-2ccd4cf04c51'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e15912c9-57ba-4b67-a411-2ccd4cf04c51-opening</guid>
+      <pubDate>Sat, 27 Jan 2024 00:39:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jv2022 opened a short strangle on $EWZ expiring 2024-03-15</title>
+      <link>https://thetagang.com/jv2022/a0fa5e10-5ed1-43dc-ad53-85f300a0fb0e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jv2022/a0fa5e10-5ed1-43dc-ad53-85f300a0fb0e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a0fa5e10-5ed1-43dc-ad53-85f300a0fb0e-opening</guid>
+      <pubDate>Tue, 30 Jan 2024 00:04:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 sprocket888 opened a short strangle on $WOLF expiring 2024-02-02</title>
+      <link>https://thetagang.com/sprocket888/5ea94837-eef2-4341-bcf9-e17a9fa94e13</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sprocket888/5ea94837-eef2-4341-bcf9-e17a9fa94e13'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5ea94837-eef2-4341-bcf9-e17a9fa94e13-opening</guid>
+      <pubDate>Tue, 30 Jan 2024 00:35:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 sprocket888 opened a short strangle on $AMD expiring 2024-02-02</title>
+      <link>https://thetagang.com/sprocket888/fd5b739f-9c5d-48e3-b19b-173c81c426a7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sprocket888/fd5b739f-9c5d-48e3-b19b-173c81c426a7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fd5b739f-9c5d-48e3-b19b-173c81c426a7-opening</guid>
+      <pubDate>Tue, 30 Jan 2024 00:36:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $/6C expiring 2024-03-08</title>
+      <link>https://thetagang.com/eve/339bd44e-c014-4b31-8dee-a0a8692f9778</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/339bd44e-c014-4b31-8dee-a0a8692f9778'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">339bd44e-c014-4b31-8dee-a0a8692f9778-opening</guid>
+      <pubDate>Tue, 30 Jan 2024 02:58:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $IWM expiring 2024-03-08</title>
+      <link>https://thetagang.com/eve/bdbb4051-b017-47f8-ad75-11d501736be7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/bdbb4051-b017-47f8-ad75-11d501736be7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bdbb4051-b017-47f8-ad75-11d501736be7-opening</guid>
+      <pubDate>Tue, 30 Jan 2024 02:59:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short strangle on $/MES expiring 2024-03-15</title>
+      <link>https://thetagang.com/jrue/95ea96bd-282c-4dfa-8eab-0315dcb595f9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/95ea96bd-282c-4dfa-8eab-0315dcb595f9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">95ea96bd-282c-4dfa-8eab-0315dcb595f9-opening</guid>
+      <pubDate>Tue, 30 Jan 2024 20:28:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 sprocket888 opened a short strangle on $SBUX expiring 2024-02-02</title>
+      <link>https://thetagang.com/sprocket888/00b6dea8-d609-4e2a-9f9c-d8cbb0a35aba</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sprocket888/00b6dea8-d609-4e2a-9f9c-d8cbb0a35aba'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">00b6dea8-d609-4e2a-9f9c-d8cbb0a35aba-opening</guid>
+      <pubDate>Tue, 30 Jan 2024 23:05:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $/MES expiring 2024-03-15</title>
+      <link>https://thetagang.com/eve/b9563200-b5d7-40a5-8ad2-269e0e4f408c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/b9563200-b5d7-40a5-8ad2-269e0e4f408c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b9563200-b5d7-40a5-8ad2-269e0e4f408c-opening</guid>
+      <pubDate>Wed, 31 Jan 2024 03:31:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short strangle on $AMD expiring 2024-03-15</title>
+      <link>https://thetagang.com/jrue/fb4ad682-6b84-4ba1-8326-fc02e4069bcf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/fb4ad682-6b84-4ba1-8326-fc02e4069bcf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fb4ad682-6b84-4ba1-8326-fc02e4069bcf-opening</guid>
+      <pubDate>Wed, 31 Jan 2024 15:16:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $TLT expiring 2024-03-15</title>
+      <link>https://thetagang.com/eve/d9ab49be-0bdf-4cb2-a13c-e3c525b54485</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/d9ab49be-0bdf-4cb2-a13c-e3c525b54485'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d9ab49be-0bdf-4cb2-a13c-e3c525b54485-opening</guid>
+      <pubDate>Thu, 01 Feb 2024 14:49:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $SLV expiring 2024-03-15</title>
+      <link>https://thetagang.com/eve/060abeb5-689c-4da2-8596-ff3f58a1975c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/060abeb5-689c-4da2-8596-ff3f58a1975c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">060abeb5-689c-4da2-8596-ff3f58a1975c-opening</guid>
+      <pubDate>Thu, 01 Feb 2024 14:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $EWZ expiring 2024-03-15</title>
+      <link>https://thetagang.com/eve/a842db64-5738-48bc-b6eb-6455c6e4477a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/a842db64-5738-48bc-b6eb-6455c6e4477a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a842db64-5738-48bc-b6eb-6455c6e4477a-opening</guid>
+      <pubDate>Thu, 01 Feb 2024 16:02:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ARFFman opened a short strangle on $IWM expiring 2024-03-15</title>
+      <link>https://thetagang.com/ARFFman/3bad9cab-f732-4ac3-8a7f-022c58e9ce83</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/3bad9cab-f732-4ac3-8a7f-022c58e9ce83'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3bad9cab-f732-4ac3-8a7f-022c58e9ce83-opening</guid>
+      <pubDate>Thu, 01 Feb 2024 17:41:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $USO expiring 2024-03-15</title>
+      <link>https://thetagang.com/eve/adde2a0e-041e-42df-a500-771c26cb24d1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/adde2a0e-041e-42df-a500-771c26cb24d1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">adde2a0e-041e-42df-a500-771c26cb24d1-opening</guid>
+      <pubDate>Thu, 01 Feb 2024 18:22:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short strangle on $/MNQ expiring 2024-03-15</title>
+      <link>https://thetagang.com/jrue/a2b4ea1b-ce7b-47bf-b4d1-b55371ce0008</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/a2b4ea1b-ce7b-47bf-b4d1-b55371ce0008'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a2b4ea1b-ce7b-47bf-b4d1-b55371ce0008-opening</guid>
+      <pubDate>Thu, 01 Feb 2024 20:26:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Tino opened a short strangle on $SPX expiring 2024-03-15</title>
+      <link>https://thetagang.com/Tino/3e630762-f179-402f-b5db-c7ee2bbcbcd1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Tino/3e630762-f179-402f-b5db-c7ee2bbcbcd1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3e630762-f179-402f-b5db-c7ee2bbcbcd1-opening</guid>
+      <pubDate>Mon, 05 Feb 2024 14:27:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 blobbingaway opened a short strangle on $/MCLJ4 expiring 2024-03-15</title>
+      <link>https://thetagang.com/blobbingaway/57639e65-ca5d-4003-b952-41fd9a56ae78</link>
+      <description>For more details, &lt;a href='https://thetagang.com/blobbingaway/57639e65-ca5d-4003-b952-41fd9a56ae78'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">57639e65-ca5d-4003-b952-41fd9a56ae78-opening</guid>
+      <pubDate>Mon, 05 Feb 2024 19:29:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jtrain184 opened a short strangle on $ALB expiring 2024-02-09</title>
+      <link>https://thetagang.com/jtrain184/1d377b88-683e-42e7-b35c-ca8f0d44fd70</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jtrain184/1d377b88-683e-42e7-b35c-ca8f0d44fd70'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1d377b88-683e-42e7-b35c-ca8f0d44fd70-opening</guid>
+      <pubDate>Mon, 05 Feb 2024 19:53:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Hevol closed a short strangle on $PLTR expiring 2024-02-09</title>
+      <link>https://thetagang.com/Hevol/544c57eb-dc0c-4611-a685-ac021e5fd224</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Hevol/544c57eb-dc0c-4611-a685-ac021e5fd224'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">544c57eb-dc0c-4611-a685-ac021e5fd224-closing</guid>
+      <pubDate>Tue, 06 Feb 2024 14:34:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Rustyerr opened a short strangle on $GDX expiring 2024-03-15</title>
+      <link>https://thetagang.com/Rustyerr/8c2dd7d8-0834-44b5-9642-0c941e3d3bdd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Rustyerr/8c2dd7d8-0834-44b5-9642-0c941e3d3bdd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8c2dd7d8-0834-44b5-9642-0c941e3d3bdd-opening</guid>
+      <pubDate>Tue, 06 Feb 2024 19:03:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jtrain184 opened a short strangle on $ALB expiring 2024-02-16</title>
+      <link>https://thetagang.com/jtrain184/8b7a20c4-6309-4bfa-8a5b-b07915fc1b13</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jtrain184/8b7a20c4-6309-4bfa-8a5b-b07915fc1b13'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8b7a20c4-6309-4bfa-8a5b-b07915fc1b13-opening</guid>
+      <pubDate>Tue, 06 Feb 2024 19:31:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $/MES expiring 2024-03-28</title>
+      <link>https://thetagang.com/eve/8c2fd730-dca6-4d80-90f5-656266563627</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/8c2fd730-dca6-4d80-90f5-656266563627'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8c2fd730-dca6-4d80-90f5-656266563627-opening</guid>
+      <pubDate>Wed, 07 Feb 2024 14:32:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short strangle on $/MNQ expiring 2024-03-15</title>
+      <link>https://thetagang.com/jrue/0318b077-ebc8-4b1e-8614-8a5bdf47d42a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/0318b077-ebc8-4b1e-8614-8a5bdf47d42a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0318b077-ebc8-4b1e-8614-8a5bdf47d42a-opening</guid>
+      <pubDate>Thu, 08 Feb 2024 18:45:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 skint opened a short strangle on $QQQ expiring 2024-03-15</title>
+      <link>https://thetagang.com/skint/d34e3bf5-029a-4754-9e8f-3370f235f869</link>
+      <description>For more details, &lt;a href='https://thetagang.com/skint/d34e3bf5-029a-4754-9e8f-3370f235f869'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d34e3bf5-029a-4754-9e8f-3370f235f869-opening</guid>
+      <pubDate>Thu, 08 Feb 2024 19:49:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 skint opened a short strangle on $QQQ expiring 2024-03-28</title>
+      <link>https://thetagang.com/skint/51465d94-9501-4ac0-aff6-9e2684ef98c2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/skint/51465d94-9501-4ac0-aff6-9e2684ef98c2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">51465d94-9501-4ac0-aff6-9e2684ef98c2-opening</guid>
+      <pubDate>Thu, 08 Feb 2024 19:53:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 skint opened a short strangle on $AAPL expiring 2024-03-28</title>
+      <link>https://thetagang.com/skint/5b45a8fe-0ae7-4769-b35b-185f2f14160b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/skint/5b45a8fe-0ae7-4769-b35b-185f2f14160b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5b45a8fe-0ae7-4769-b35b-185f2f14160b-opening</guid>
+      <pubDate>Thu, 08 Feb 2024 20:25:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $SLV expiring 2024-03-22</title>
+      <link>https://thetagang.com/eve/6b6cf136-984e-4fcd-85ad-4bf57288a7a6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/6b6cf136-984e-4fcd-85ad-4bf57288a7a6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6b6cf136-984e-4fcd-85ad-4bf57288a7a6-opening</guid>
+      <pubDate>Fri, 09 Feb 2024 03:26:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a short strangle on $WM expiring 2024-03-15</title>
+      <link>https://thetagang.com/Akane/deda64f0-b750-4384-9cec-824b0f94fc91</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/deda64f0-b750-4384-9cec-824b0f94fc91'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">deda64f0-b750-4384-9cec-824b0f94fc91-opening</guid>
+      <pubDate>Mon, 12 Feb 2024 20:30:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ykikobut opened a short strangle on $SHOP expiring 2024-02-23</title>
+      <link>https://thetagang.com/ykikobut/56c69ed0-2219-4e3f-a391-8beedb08b42f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ykikobut/56c69ed0-2219-4e3f-a391-8beedb08b42f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">56c69ed0-2219-4e3f-a391-8beedb08b42f-opening</guid>
+      <pubDate>Tue, 13 Feb 2024 19:04:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a short strangle on $BYND expiring 2024-03-01</title>
+      <link>https://thetagang.com/eve/620a616f-a6a3-4cfd-9b9f-cccc560b7f8b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/620a616f-a6a3-4cfd-9b9f-cccc560b7f8b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">620a616f-a6a3-4cfd-9b9f-cccc560b7f8b-closing</guid>
+      <pubDate>Wed, 14 Feb 2024 16:38:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $SLV expiring 2024-03-28</title>
+      <link>https://thetagang.com/eve/684c4385-bbbd-42a7-a346-36723688701f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/684c4385-bbbd-42a7-a346-36723688701f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">684c4385-bbbd-42a7-a346-36723688701f-opening</guid>
+      <pubDate>Wed, 14 Feb 2024 16:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Akane closed a short strangle on $WM expiring 2024-03-15</title>
+      <link>https://thetagang.com/Akane/093e7c3f-5980-4d7e-aa81-d96d7279d1a6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/093e7c3f-5980-4d7e-aa81-d96d7279d1a6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">093e7c3f-5980-4d7e-aa81-d96d7279d1a6-closing</guid>
+      <pubDate>Wed, 14 Feb 2024 19:05:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 skint opened a short strangle on $TSLA expiring 2024-03-28</title>
+      <link>https://thetagang.com/skint/ab5ad8da-1bd2-4cad-94e9-1f03cd3b60d9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/skint/ab5ad8da-1bd2-4cad-94e9-1f03cd3b60d9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ab5ad8da-1bd2-4cad-94e9-1f03cd3b60d9-opening</guid>
+      <pubDate>Thu, 15 Feb 2024 02:13:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a short strangle on $COIN expiring 2024-02-23</title>
+      <link>https://thetagang.com/Akane/ad8d7399-2191-4c58-bd07-1976ca8a5fa3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/ad8d7399-2191-4c58-bd07-1976ca8a5fa3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ad8d7399-2191-4c58-bd07-1976ca8a5fa3-opening</guid>
+      <pubDate>Thu, 15 Feb 2024 19:16:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short strangle on $ROKU expiring 2024-03-15</title>
+      <link>https://thetagang.com/jrue/97d33411-3098-4cdd-9b62-5e1ed105fbf1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/97d33411-3098-4cdd-9b62-5e1ed105fbf1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">97d33411-3098-4cdd-9b62-5e1ed105fbf1-opening</guid>
+      <pubDate>Fri, 16 Feb 2024 18:25:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $GLD expiring 2024-03-28</title>
+      <link>https://thetagang.com/eve/9b010b61-f4bf-45d5-9871-9a534e0131ab</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/9b010b61-f4bf-45d5-9871-9a534e0131ab'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9b010b61-f4bf-45d5-9871-9a534e0131ab-opening</guid>
+      <pubDate>Fri, 16 Feb 2024 20:33:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $BYND expiring 2024-04-19</title>
+      <link>https://thetagang.com/eve/f9379c2b-a268-48f4-a521-304a92e685aa</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/f9379c2b-a268-48f4-a521-304a92e685aa'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f9379c2b-a268-48f4-a521-304a92e685aa-opening</guid>
+      <pubDate>Fri, 16 Feb 2024 20:44:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rh057 opened a short strangle on $SDF expiring 2024-03-15</title>
+      <link>https://thetagang.com/rh057/46695445-5a56-4b86-afd9-8f9487173de6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rh057/46695445-5a56-4b86-afd9-8f9487173de6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">46695445-5a56-4b86-afd9-8f9487173de6-opening</guid>
+      <pubDate>Mon, 19 Feb 2024 09:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a short strangle on $WM expiring 2024-03-22</title>
+      <link>https://thetagang.com/Akane/4f264d71-c51e-49b0-86c4-468e8af9f904</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/4f264d71-c51e-49b0-86c4-468e8af9f904'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4f264d71-c51e-49b0-86c4-468e8af9f904-opening</guid>
+      <pubDate>Tue, 20 Feb 2024 20:30:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $EWZ expiring 2024-04-19</title>
+      <link>https://thetagang.com/eve/9d3200a0-2319-41f3-beef-5a515e3691f2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/9d3200a0-2319-41f3-beef-5a515e3691f2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9d3200a0-2319-41f3-beef-5a515e3691f2-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 16:58:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 sprocket888 opened a short strangle on $NVDA expiring 2024-02-23</title>
+      <link>https://thetagang.com/sprocket888/2ff8d374-513e-4208-93f0-e618e6614230</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sprocket888/2ff8d374-513e-4208-93f0-e618e6614230'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2ff8d374-513e-4208-93f0-e618e6614230-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 23:29:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 sprocket888 closed a short strangle on $VRT expiring 2024-02-23</title>
+      <link>https://thetagang.com/sprocket888/d5d21bb1-9303-48f5-8cb1-b771bbd0b643</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sprocket888/d5d21bb1-9303-48f5-8cb1-b771bbd0b643'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d5d21bb1-9303-48f5-8cb1-b771bbd0b643-closing</guid>
+      <pubDate>Wed, 21 Feb 2024 23:30:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $EWZ expiring 2024-04-05</title>
+      <link>https://thetagang.com/eve/38fad8ca-e45d-4e0c-b3e0-18eb8efd3217</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/38fad8ca-e45d-4e0c-b3e0-18eb8efd3217'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">38fad8ca-e45d-4e0c-b3e0-18eb8efd3217-opening</guid>
+      <pubDate>Fri, 23 Feb 2024 23:03:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $/6A expiring 2024-04-05</title>
+      <link>https://thetagang.com/eve/dd3e1377-7651-4d96-b07e-d5ddace9035b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/dd3e1377-7651-4d96-b07e-d5ddace9035b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dd3e1377-7651-4d96-b07e-d5ddace9035b-opening</guid>
+      <pubDate>Fri, 23 Feb 2024 23:05:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $/MES expiring 2024-04-19</title>
+      <link>https://thetagang.com/eve/8309cb3d-ce08-4a92-80af-9f40b6585ad0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/8309cb3d-ce08-4a92-80af-9f40b6585ad0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8309cb3d-ce08-4a92-80af-9f40b6585ad0-opening</guid>
+      <pubDate>Fri, 23 Feb 2024 23:07:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $SLV expiring 2024-04-05</title>
+      <link>https://thetagang.com/eve/c5a272a7-b0a6-4135-bd48-d35898ed7935</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/c5a272a7-b0a6-4135-bd48-d35898ed7935'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c5a272a7-b0a6-4135-bd48-d35898ed7935-opening</guid>
+      <pubDate>Fri, 23 Feb 2024 23:09:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mariodonald opened a short strangle on $SPY expiring 2024-04-05</title>
+      <link>https://thetagang.com/mariodonald/ab8fa738-d1a7-48b2-a6fe-5a4331183849</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mariodonald/ab8fa738-d1a7-48b2-a6fe-5a4331183849'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ab8fa738-d1a7-48b2-a6fe-5a4331183849-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 19:07:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $/ZW expiring 2024-04-26</title>
+      <link>https://thetagang.com/eve/2cb04cbf-aa5e-4d7b-8351-a6ba9688ec87</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/2cb04cbf-aa5e-4d7b-8351-a6ba9688ec87'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2cb04cbf-aa5e-4d7b-8351-a6ba9688ec87-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 19:29:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a short strangle on $ZM expiring 2024-03-15</title>
+      <link>https://thetagang.com/Akane/14329f6f-3f57-4c46-8941-84d2af2c20a7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/14329f6f-3f57-4c46-8941-84d2af2c20a7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">14329f6f-3f57-4c46-8941-84d2af2c20a7-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 19:50:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short strangle on $USO expiring 2024-04-05</title>
+      <link>https://thetagang.com/eve/76ea18dc-382e-4cc7-8ef7-0b470d7650d0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/76ea18dc-382e-4cc7-8ef7-0b470d7650d0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">76ea18dc-382e-4cc7-8ef7-0b470d7650d0-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 20:25:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 pspung opened a short strangle on $USO expiring 2024-03-15</title>
+      <link>https://thetagang.com/pspung/5e892cda-4184-406c-b60e-24df4e9fe5db</link>
+      <description>For more details, &lt;a href='https://thetagang.com/pspung/5e892cda-4184-406c-b60e-24df4e9fe5db'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5e892cda-4184-406c-b60e-24df4e9fe5db-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 21:13:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 sprocket888 opened a short strangle on $AAP expiring 2024-03-01</title>
+      <link>https://thetagang.com/sprocket888/6a9b10c6-814e-4f72-80a9-23606116275b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sprocket888/6a9b10c6-814e-4f72-80a9-23606116275b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6a9b10c6-814e-4f72-80a9-23606116275b-opening</guid>
+      <pubDate>Wed, 28 Feb 2024 00:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 pspung opened a short strangle on $USO expiring 2024-03-15</title>
+      <link>https://thetagang.com/pspung/7e00a88d-6a25-4ef2-9dee-17d37598d055</link>
+      <description>For more details, &lt;a href='https://thetagang.com/pspung/7e00a88d-6a25-4ef2-9dee-17d37598d055'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7e00a88d-6a25-4ef2-9dee-17d37598d055-opening</guid>
+      <pubDate>Wed, 28 Feb 2024 15:45:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short strangle on $/MNQ expiring 2024-03-15</title>
+      <link>https://thetagang.com/jrue/6540e834-a350-47c0-9cf9-b08c2036ec5a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/6540e834-a350-47c0-9cf9-b08c2036ec5a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6540e834-a350-47c0-9cf9-b08c2036ec5a-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 20:46:07 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

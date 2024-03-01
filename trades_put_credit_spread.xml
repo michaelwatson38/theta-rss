@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only put credit spread trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only put credit spread trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 01 Mar 2024 23:53:59 +0000</lastBuildDate>
+    <item>
+      <title>🌅 Nala opened a put credit spread on $SMCI expiring 2024-03-01</title>
+      <link>https://thetagang.com/Nala/f0f4ba8b-5105-4de2-afe6-16194a0123da</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Nala/f0f4ba8b-5105-4de2-afe6-16194a0123da'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f0f4ba8b-5105-4de2-afe6-16194a0123da-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 16:51:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Alexanderkerm opened a put credit spread on $NVDA expiring 2024-03-15</title>
+      <link>https://thetagang.com/Alexanderkerm/4941be5e-0009-484c-932a-1139507a7396</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Alexanderkerm/4941be5e-0009-484c-932a-1139507a7396'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4941be5e-0009-484c-932a-1139507a7396-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 17:14:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Alexanderkerm opened a put credit spread on $PANW expiring 2024-03-08</title>
+      <link>https://thetagang.com/Alexanderkerm/a8cf23a2-5c89-449e-9b1d-7c00608f6edd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Alexanderkerm/a8cf23a2-5c89-449e-9b1d-7c00608f6edd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a8cf23a2-5c89-449e-9b1d-7c00608f6edd-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 17:46:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 CubeTsuki opened a put credit spread on $ULTA expiring 2024-03-01</title>
+      <link>https://thetagang.com/CubeTsuki/507d2729-3f3f-4e93-8e01-5dd5f1b87171</link>
+      <description>For more details, &lt;a href='https://thetagang.com/CubeTsuki/507d2729-3f3f-4e93-8e01-5dd5f1b87171'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">507d2729-3f3f-4e93-8e01-5dd5f1b87171-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 17:55:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 CubeTsuki closed a put credit spread on $SMCI expiring 2024-03-01</title>
+      <link>https://thetagang.com/CubeTsuki/6755e656-31a6-44e5-a5fa-4d161aabe422</link>
+      <description>For more details, &lt;a href='https://thetagang.com/CubeTsuki/6755e656-31a6-44e5-a5fa-4d161aabe422'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6755e656-31a6-44e5-a5fa-4d161aabe422-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 18:10:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 CubeTsuki opened a put credit spread on $PANW expiring 2024-03-01</title>
+      <link>https://thetagang.com/CubeTsuki/42aabbb8-48c2-4bad-98e1-65252d7bdbe2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/CubeTsuki/42aabbb8-48c2-4bad-98e1-65252d7bdbe2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">42aabbb8-48c2-4bad-98e1-65252d7bdbe2-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 18:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 VegetaPlank opened a put credit spread on $NVDA expiring 2024-03-15</title>
+      <link>https://thetagang.com/VegetaPlank/1128de14-e553-4a45-a2fd-cc50b8090d6d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/VegetaPlank/1128de14-e553-4a45-a2fd-cc50b8090d6d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1128de14-e553-4a45-a2fd-cc50b8090d6d-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 18:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mawpas opened a put credit spread on $NVDA expiring 2024-03-15</title>
+      <link>https://thetagang.com/mawpas/05de22a5-c42f-4012-9f73-a27c9b3839b4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mawpas/05de22a5-c42f-4012-9f73-a27c9b3839b4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">05de22a5-c42f-4012-9f73-a27c9b3839b4-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 19:17:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 joeheecho closed a put credit spread on $ARM expiring 2024-03-15</title>
+      <link>https://thetagang.com/joeheecho/d387a619-c975-43be-98ff-ccb106018ae6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/joeheecho/d387a619-c975-43be-98ff-ccb106018ae6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d387a619-c975-43be-98ff-ccb106018ae6-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 19:21:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ubermensch opened a put credit spread on $SMCI expiring 2024-03-01</title>
+      <link>https://thetagang.com/ubermensch/effaca17-dd03-452d-bece-9a9413af314e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ubermensch/effaca17-dd03-452d-bece-9a9413af314e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">effaca17-dd03-452d-bece-9a9413af314e-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 19:41:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 WagonWheel91 opened a put credit spread on $SOUN expiring 2024-03-08</title>
+      <link>https://thetagang.com/WagonWheel91/5387e901-2f2e-4854-b49f-c7568a7bbc38</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WagonWheel91/5387e901-2f2e-4854-b49f-c7568a7bbc38'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5387e901-2f2e-4854-b49f-c7568a7bbc38-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 19:45:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Adkdrew opened a put credit spread on $ARM expiring 2024-03-15</title>
+      <link>https://thetagang.com/Adkdrew/731a22a8-e1a1-4fbe-808f-c1feb51d293e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Adkdrew/731a22a8-e1a1-4fbe-808f-c1feb51d293e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">731a22a8-e1a1-4fbe-808f-c1feb51d293e-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 20:50:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 pspung closed a put credit spread on $SPX expiring 2024-02-26</title>
+      <link>https://thetagang.com/pspung/d37ce796-60ab-49c1-8c92-b580f4cd7ec8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/pspung/d37ce796-60ab-49c1-8c92-b580f4cd7ec8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d37ce796-60ab-49c1-8c92-b580f4cd7ec8-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 21:15:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Chamiel opened a put credit spread on $GOOG expiring 2024-03-15</title>
+      <link>https://thetagang.com/Chamiel/23cadc09-de3e-438a-8f57-fcea1f18c740</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Chamiel/23cadc09-de3e-438a-8f57-fcea1f18c740'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">23cadc09-de3e-438a-8f57-fcea1f18c740-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 21:35:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Takodachi closed a put credit spread on $NVDA expiring 2024-02-21</title>
+      <link>https://thetagang.com/Takodachi/eb865b90-c9ac-49f0-ade6-a90b3605c29c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Takodachi/eb865b90-c9ac-49f0-ade6-a90b3605c29c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">eb865b90-c9ac-49f0-ade6-a90b3605c29c-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 05:33:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Takodachi opened a put credit spread on $AMD expiring 2024-03-28</title>
+      <link>https://thetagang.com/Takodachi/bbfa90cb-b553-46e6-9eff-5d9e4653c6f1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Takodachi/bbfa90cb-b553-46e6-9eff-5d9e4653c6f1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bbfa90cb-b553-46e6-9eff-5d9e4653c6f1-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 05:40:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rschmiddy opened a put credit spread on $ELF expiring 2024-03-15</title>
+      <link>https://thetagang.com/rschmiddy/901df78e-af42-4f44-a59b-6f0bdea8021a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rschmiddy/901df78e-af42-4f44-a59b-6f0bdea8021a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">901df78e-af42-4f44-a59b-6f0bdea8021a-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 14:50:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rschmiddy opened a put credit spread on $AMD expiring 2024-03-22</title>
+      <link>https://thetagang.com/rschmiddy/39b50613-d1a5-4a38-b581-692dba9bb872</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rschmiddy/39b50613-d1a5-4a38-b581-692dba9bb872'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">39b50613-d1a5-4a38-b581-692dba9bb872-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 14:59:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 GigglestheTapeworm opened a put credit spread on $NVDA expiring 2024-03-15</title>
+      <link>https://thetagang.com/GigglestheTapeworm/43f592f1-6b3d-42e8-8604-cabb92b0c2be</link>
+      <description>For more details, &lt;a href='https://thetagang.com/GigglestheTapeworm/43f592f1-6b3d-42e8-8604-cabb92b0c2be'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">43f592f1-6b3d-42e8-8604-cabb92b0c2be-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 15:28:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jondin opened a put credit spread on $NVDA expiring 2024-04-05</title>
+      <link>https://thetagang.com/jondin/69114616-deb0-46fc-9e5d-838ed2039bbf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jondin/69114616-deb0-46fc-9e5d-838ed2039bbf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">69114616-deb0-46fc-9e5d-838ed2039bbf-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 15:31:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 stugna opened a put credit spread on $DDOG expiring 2024-03-28</title>
+      <link>https://thetagang.com/stugna/dbd09afd-2890-475a-bd64-fca7792f9908</link>
+      <description>For more details, &lt;a href='https://thetagang.com/stugna/dbd09afd-2890-475a-bd64-fca7792f9908'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dbd09afd-2890-475a-bd64-fca7792f9908-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 16:01:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Nala opened a put credit spread on $SMCI expiring 2024-03-08</title>
+      <link>https://thetagang.com/Nala/d691c663-359a-42fb-b9ea-89f00f821e14</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Nala/d691c663-359a-42fb-b9ea-89f00f821e14'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d691c663-359a-42fb-b9ea-89f00f821e14-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 16:41:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TJXStyles opened a put credit spread on $ES expiring 2024-04-26</title>
+      <link>https://thetagang.com/TJXStyles/4d2bd32a-0487-43f2-9434-d5a2fcea3dd0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TJXStyles/4d2bd32a-0487-43f2-9434-d5a2fcea3dd0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4d2bd32a-0487-43f2-9434-d5a2fcea3dd0-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 16:54:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 joonie5k opened a put credit spread on $NVDA expiring 2024-03-15</title>
+      <link>https://thetagang.com/joonie5k/a5e31da5-f9ee-499d-8ea9-9417e4e7225a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/joonie5k/a5e31da5-f9ee-499d-8ea9-9417e4e7225a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a5e31da5-f9ee-499d-8ea9-9417e4e7225a-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 17:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Adkdrew opened a put credit spread on $NVDA expiring 2024-03-15</title>
+      <link>https://thetagang.com/Adkdrew/37d83171-4128-49f9-b9cc-8ee27036d741</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Adkdrew/37d83171-4128-49f9-b9cc-8ee27036d741'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">37d83171-4128-49f9-b9cc-8ee27036d741-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 17:29:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Nala opened a put credit spread on $INTC expiring 2024-03-15</title>
+      <link>https://thetagang.com/Nala/9eab5a0f-72f6-4c0a-87d9-1ed1c62b3dac</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Nala/9eab5a0f-72f6-4c0a-87d9-1ed1c62b3dac'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9eab5a0f-72f6-4c0a-87d9-1ed1c62b3dac-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 20:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 joeheecho opened a put credit spread on $NVDA expiring 2024-03-15</title>
+      <link>https://thetagang.com/joeheecho/ff6d5594-79cf-4a03-8c32-aaae38fbed9f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/joeheecho/ff6d5594-79cf-4a03-8c32-aaae38fbed9f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ff6d5594-79cf-4a03-8c32-aaae38fbed9f-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 20:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 skint opened a put credit spread on $SPX expiring 2024-02-28</title>
+      <link>https://thetagang.com/skint/c557419d-cf19-469c-b289-b4b2397c80f8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/skint/c557419d-cf19-469c-b289-b4b2397c80f8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c557419d-cf19-469c-b289-b4b2397c80f8-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 20:05:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 kjmartyn opened a put credit spread on $NVDA expiring 2024-03-15</title>
+      <link>https://thetagang.com/kjmartyn/2a091216-d9f4-49cd-8e16-74f852da4739</link>
+      <description>For more details, &lt;a href='https://thetagang.com/kjmartyn/2a091216-d9f4-49cd-8e16-74f852da4739'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2a091216-d9f4-49cd-8e16-74f852da4739-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 21:56:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Peder opened a put credit spread on $NVDA expiring 2024-03-22</title>
+      <link>https://thetagang.com/Peder/5ad3a66c-13ee-4c9b-87e2-7e35c56d7c52</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Peder/5ad3a66c-13ee-4c9b-87e2-7e35c56d7c52'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5ad3a66c-13ee-4c9b-87e2-7e35c56d7c52-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 23:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Slomotion closed a put credit spread on $TSLA expiring 2024-03-22</title>
+      <link>https://thetagang.com/Slomotion/1d182b3b-c5e2-4e5e-9912-ee0906bd91fd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Slomotion/1d182b3b-c5e2-4e5e-9912-ee0906bd91fd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1d182b3b-c5e2-4e5e-9912-ee0906bd91fd-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 16:07:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Naruto opened a put credit spread on $GOOGL expiring 2024-04-19</title>
+      <link>https://thetagang.com/Naruto/abb4a8f9-e095-47dc-8b0d-91b90a9b2bb0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Naruto/abb4a8f9-e095-47dc-8b0d-91b90a9b2bb0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">abb4a8f9-e095-47dc-8b0d-91b90a9b2bb0-opening</guid>
+      <pubDate>Wed, 28 Feb 2024 16:14:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Peder closed a put credit spread on $TSLA expiring 2024-03-22</title>
+      <link>https://thetagang.com/Peder/094163b0-9ed3-4139-aa2d-0784c7f0140d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Peder/094163b0-9ed3-4139-aa2d-0784c7f0140d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">094163b0-9ed3-4139-aa2d-0784c7f0140d-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 16:44:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 joonie5k opened a put credit spread on $ELF expiring 2024-03-22</title>
+      <link>https://thetagang.com/joonie5k/0decd202-a78f-4d66-a0d7-7728d0a01b82</link>
+      <description>For more details, &lt;a href='https://thetagang.com/joonie5k/0decd202-a78f-4d66-a0d7-7728d0a01b82'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0decd202-a78f-4d66-a0d7-7728d0a01b82-opening</guid>
+      <pubDate>Wed, 28 Feb 2024 17:16:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 kjmartyn opened a put credit spread on $ELF expiring 2024-03-22</title>
+      <link>https://thetagang.com/kjmartyn/99f13d55-62a8-4082-bde8-dd9ea3e1fa88</link>
+      <description>For more details, &lt;a href='https://thetagang.com/kjmartyn/99f13d55-62a8-4082-bde8-dd9ea3e1fa88'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">99f13d55-62a8-4082-bde8-dd9ea3e1fa88-opening</guid>
+      <pubDate>Wed, 28 Feb 2024 17:20:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jondin opened a put credit spread on $TSLA expiring 2024-03-28</title>
+      <link>https://thetagang.com/jondin/b16adf4f-25f7-462e-be30-d8d7d26ad264</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jondin/b16adf4f-25f7-462e-be30-d8d7d26ad264'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b16adf4f-25f7-462e-be30-d8d7d26ad264-opening</guid>
+      <pubDate>Wed, 28 Feb 2024 18:09:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Jadax opened a put credit spread on $META expiring 2024-04-19</title>
+      <link>https://thetagang.com/Jadax/faad8852-7806-427e-a8b2-cb8272f53eb5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Jadax/faad8852-7806-427e-a8b2-cb8272f53eb5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">faad8852-7806-427e-a8b2-cb8272f53eb5-opening</guid>
+      <pubDate>Wed, 28 Feb 2024 18:16:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 CubeTsuki opened a put credit spread on $NVDA expiring 2024-03-15</title>
+      <link>https://thetagang.com/CubeTsuki/aa282243-fbe4-418f-890d-a1f01aa63d4c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/CubeTsuki/aa282243-fbe4-418f-890d-a1f01aa63d4c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">aa282243-fbe4-418f-890d-a1f01aa63d4c-opening</guid>
+      <pubDate>Wed, 28 Feb 2024 19:14:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 CubeTsuki opened a put credit spread on $ELF expiring 2024-03-15</title>
+      <link>https://thetagang.com/CubeTsuki/b50e6a74-2e81-42e5-b168-e251f4bea6ea</link>
+      <description>For more details, &lt;a href='https://thetagang.com/CubeTsuki/b50e6a74-2e81-42e5-b168-e251f4bea6ea'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b50e6a74-2e81-42e5-b168-e251f4bea6ea-opening</guid>
+      <pubDate>Wed, 28 Feb 2024 19:14:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Alotoflift opened a put credit spread on $BLK expiring 2024-03-15</title>
+      <link>https://thetagang.com/Alotoflift/dc27573a-56e2-412d-8990-e4fa0ac24e31</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Alotoflift/dc27573a-56e2-412d-8990-e4fa0ac24e31'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dc27573a-56e2-412d-8990-e4fa0ac24e31-opening</guid>
+      <pubDate>Wed, 28 Feb 2024 20:01:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Takodachi opened a put credit spread on $NVDA expiring 2024-03-22</title>
+      <link>https://thetagang.com/Takodachi/1d80193f-0643-4046-a020-c0360450b067</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Takodachi/1d80193f-0643-4046-a020-c0360450b067'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1d80193f-0643-4046-a020-c0360450b067-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 02:22:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Chamiel opened a put credit spread on $GOOG expiring 2024-03-15</title>
+      <link>https://thetagang.com/Chamiel/4d4d2f49-4872-4e72-8727-0213d0a00bb3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Chamiel/4d4d2f49-4872-4e72-8727-0213d0a00bb3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4d4d2f49-4872-4e72-8727-0213d0a00bb3-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 06:25:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a put credit spread on $TQQQ expiring 2024-03-28</title>
+      <link>https://thetagang.com/betathang/1b6ae92a-9df7-401d-8981-885ac0406df3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/1b6ae92a-9df7-401d-8981-885ac0406df3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1b6ae92a-9df7-401d-8981-885ac0406df3-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 13:42:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rschmiddy opened a put credit spread on $AMD expiring 2024-03-22</title>
+      <link>https://thetagang.com/rschmiddy/8f5a3857-ea1a-449f-83bd-2b1bed71b45a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rschmiddy/8f5a3857-ea1a-449f-83bd-2b1bed71b45a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8f5a3857-ea1a-449f-83bd-2b1bed71b45a-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 15:10:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rschmiddy opened a put credit spread on $ELF expiring 2024-03-22</title>
+      <link>https://thetagang.com/rschmiddy/f77756c7-fbfb-4777-800a-3bd8cbbb06e4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rschmiddy/f77756c7-fbfb-4777-800a-3bd8cbbb06e4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f77756c7-fbfb-4777-800a-3bd8cbbb06e4-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 15:22:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 WagonWheel91 closed a put credit spread on $BBY expiring 2024-03-01</title>
+      <link>https://thetagang.com/WagonWheel91/60834133-2086-478b-b47e-3f7ed9eb01c5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WagonWheel91/60834133-2086-478b-b47e-3f7ed9eb01c5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">60834133-2086-478b-b47e-3f7ed9eb01c5-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 16:21:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 WagonWheel91 closed a put credit spread on $MSFT expiring 2024-03-08</title>
+      <link>https://thetagang.com/WagonWheel91/900e78b7-5ac6-4c92-996d-e5ca21b477c9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WagonWheel91/900e78b7-5ac6-4c92-996d-e5ca21b477c9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">900e78b7-5ac6-4c92-996d-e5ca21b477c9-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 16:24:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Jadax opened a put credit spread on $ENPH expiring 2024-04-19</title>
+      <link>https://thetagang.com/Jadax/fd139465-5f71-43b3-8132-bbed9e8d1614</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Jadax/fd139465-5f71-43b3-8132-bbed9e8d1614'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fd139465-5f71-43b3-8132-bbed9e8d1614-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 16:25:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 WagonWheel91 opened a put credit spread on $INTC expiring 2024-03-28</title>
+      <link>https://thetagang.com/WagonWheel91/94cb218f-8635-4049-b452-9b366c246341</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WagonWheel91/94cb218f-8635-4049-b452-9b366c246341'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">94cb218f-8635-4049-b452-9b366c246341-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 16:32:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 WagonWheel91 opened a put credit spread on $GOOGL expiring 2024-03-28</title>
+      <link>https://thetagang.com/WagonWheel91/6098ca46-a7d2-469a-919b-d911f0de5cb7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WagonWheel91/6098ca46-a7d2-469a-919b-d911f0de5cb7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6098ca46-a7d2-469a-919b-d911f0de5cb7-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 16:34:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 WagonWheel91 opened a put credit spread on $DIS expiring 2024-03-22</title>
+      <link>https://thetagang.com/WagonWheel91/e59e170f-f9da-4b2e-acb5-8f04e927669e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WagonWheel91/e59e170f-f9da-4b2e-acb5-8f04e927669e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e59e170f-f9da-4b2e-acb5-8f04e927669e-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 16:35:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mawpas opened a put credit spread on $NVDA expiring 2024-03-22</title>
+      <link>https://thetagang.com/mawpas/341dc769-0be5-4a3b-ae61-3e2ac3a86ea4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mawpas/341dc769-0be5-4a3b-ae61-3e2ac3a86ea4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">341dc769-0be5-4a3b-ae61-3e2ac3a86ea4-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 16:37:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Naruto opened a put credit spread on $SNOW expiring 2024-04-19</title>
+      <link>https://thetagang.com/Naruto/91215d64-57bc-40c6-87a3-0c90a35903f8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Naruto/91215d64-57bc-40c6-87a3-0c90a35903f8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">91215d64-57bc-40c6-87a3-0c90a35903f8-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 16:42:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 WagonWheel91 opened a put credit spread on $NVDA expiring 2024-03-08</title>
+      <link>https://thetagang.com/WagonWheel91/c5ed88cf-5051-44a9-9f93-f0f7bf4d6784</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WagonWheel91/c5ed88cf-5051-44a9-9f93-f0f7bf4d6784'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c5ed88cf-5051-44a9-9f93-f0f7bf4d6784-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 17:01:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 WagonWheel91 opened a put credit spread on $WFC expiring 2024-03-08</title>
+      <link>https://thetagang.com/WagonWheel91/f86aa53c-70f4-414f-a92a-74d5b4bc2815</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WagonWheel91/f86aa53c-70f4-414f-a92a-74d5b4bc2815'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f86aa53c-70f4-414f-a92a-74d5b4bc2815-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 17:03:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Alexanderkerm opened a put credit spread on $ELF expiring 2024-03-22</title>
+      <link>https://thetagang.com/Alexanderkerm/4ffea572-d594-4d00-b903-f6611690ac3c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Alexanderkerm/4ffea572-d594-4d00-b903-f6611690ac3c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4ffea572-d594-4d00-b903-f6611690ac3c-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 17:05:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 joonie5k opened a put credit spread on $AMD expiring 2024-03-22</title>
+      <link>https://thetagang.com/joonie5k/7a60285c-161d-4cce-b709-4d8891082d42</link>
+      <description>For more details, &lt;a href='https://thetagang.com/joonie5k/7a60285c-161d-4cce-b709-4d8891082d42'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7a60285c-161d-4cce-b709-4d8891082d42-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 17:34:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 kjmartyn opened a put credit spread on $AMD expiring 2024-03-22</title>
+      <link>https://thetagang.com/kjmartyn/034877d2-ebcd-4f82-a6fd-5045c99e9a49</link>
+      <description>For more details, &lt;a href='https://thetagang.com/kjmartyn/034877d2-ebcd-4f82-a6fd-5045c99e9a49'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">034877d2-ebcd-4f82-a6fd-5045c99e9a49-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 17:37:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 skot opened a put credit spread on $ELF expiring 2024-03-15</title>
+      <link>https://thetagang.com/skot/68f6de9e-5139-4a36-9f71-922937952720</link>
+      <description>For more details, &lt;a href='https://thetagang.com/skot/68f6de9e-5139-4a36-9f71-922937952720'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">68f6de9e-5139-4a36-9f71-922937952720-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 17:52:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 axemaneric opened a put credit spread on $CELH expiring 2024-03-15</title>
+      <link>https://thetagang.com/axemaneric/17e6b564-4ba5-4fae-8edc-841844d08fd0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/axemaneric/17e6b564-4ba5-4fae-8edc-841844d08fd0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">17e6b564-4ba5-4fae-8edc-841844d08fd0-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 17:58:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 maltman1856 opened a put credit spread on $AMD expiring 2024-03-22</title>
+      <link>https://thetagang.com/maltman1856/619ce52a-faf9-4224-a0e9-f4dcd5ad5ed2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/maltman1856/619ce52a-faf9-4224-a0e9-f4dcd5ad5ed2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">619ce52a-faf9-4224-a0e9-f4dcd5ad5ed2-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 18:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 maltman1856 opened a put credit spread on $AMD expiring 2024-03-22</title>
+      <link>https://thetagang.com/maltman1856/fde82170-aee9-4fe0-8971-5c923fd85180</link>
+      <description>For more details, &lt;a href='https://thetagang.com/maltman1856/fde82170-aee9-4fe0-8971-5c923fd85180'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fde82170-aee9-4fe0-8971-5c923fd85180-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 18:01:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Peder opened a put credit spread on $MSFT expiring 2024-03-28</title>
+      <link>https://thetagang.com/Peder/168fa38f-cbde-440b-bff9-f2b8f7f1df6a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Peder/168fa38f-cbde-440b-bff9-f2b8f7f1df6a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">168fa38f-cbde-440b-bff9-f2b8f7f1df6a-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 18:28:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TJXStyles opened a put credit spread on $ES expiring 2024-04-11</title>
+      <link>https://thetagang.com/TJXStyles/ad5dc0ac-61cf-468c-a179-8424c0b4888b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TJXStyles/ad5dc0ac-61cf-468c-a179-8424c0b4888b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ad5dc0ac-61cf-468c-a179-8424c0b4888b-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 00:08:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TJXStyles opened a put credit spread on $ES expiring 2024-04-12</title>
+      <link>https://thetagang.com/TJXStyles/fd53bf9d-30a8-4d1c-a4d9-3efdb1576688</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TJXStyles/fd53bf9d-30a8-4d1c-a4d9-3efdb1576688'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fd53bf9d-30a8-4d1c-a4d9-3efdb1576688-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 00:10:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TJXStyles opened a put credit spread on $ES expiring 2024-04-19</title>
+      <link>https://thetagang.com/TJXStyles/10fe7f8e-6049-4761-9ebb-74a0522ee5a6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TJXStyles/10fe7f8e-6049-4761-9ebb-74a0522ee5a6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">10fe7f8e-6049-4761-9ebb-74a0522ee5a6-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 00:10:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TJXStyles opened a put credit spread on $ES expiring 2024-04-19</title>
+      <link>https://thetagang.com/TJXStyles/898392cf-ef5f-49f9-830f-9530df62817e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TJXStyles/898392cf-ef5f-49f9-830f-9530df62817e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">898392cf-ef5f-49f9-830f-9530df62817e-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 00:12:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TJXStyles opened a put credit spread on $ES expiring 2024-04-26</title>
+      <link>https://thetagang.com/TJXStyles/67707cb5-4c24-4f82-85df-a95c5a1edc2c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TJXStyles/67707cb5-4c24-4f82-85df-a95c5a1edc2c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">67707cb5-4c24-4f82-85df-a95c5a1edc2c-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 00:12:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TJXStyles opened a put credit spread on $ES expiring 2024-04-19</title>
+      <link>https://thetagang.com/TJXStyles/99c103c3-af60-4e52-98f0-27924bb1a025</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TJXStyles/99c103c3-af60-4e52-98f0-27924bb1a025'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">99c103c3-af60-4e52-98f0-27924bb1a025-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 02:51:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TJXStyles opened a put credit spread on $ES expiring 2024-04-19</title>
+      <link>https://thetagang.com/TJXStyles/d3b80259-e625-4579-b524-06c5b683ee37</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TJXStyles/d3b80259-e625-4579-b524-06c5b683ee37'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d3b80259-e625-4579-b524-06c5b683ee37-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 02:54:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rschmiddy opened a put credit spread on $AMD expiring 2024-03-22</title>
+      <link>https://thetagang.com/rschmiddy/c191b6ca-e7a3-4c5f-8953-e7988a7cc8bf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rschmiddy/c191b6ca-e7a3-4c5f-8953-e7988a7cc8bf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c191b6ca-e7a3-4c5f-8953-e7988a7cc8bf-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 14:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rschmiddy opened a put credit spread on $NVDA expiring 2024-03-22</title>
+      <link>https://thetagang.com/rschmiddy/62f78e03-95d8-4403-984f-59888a1deb03</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rschmiddy/62f78e03-95d8-4403-984f-59888a1deb03'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">62f78e03-95d8-4403-984f-59888a1deb03-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 14:52:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 EZmoneySniper closed a put credit spread on $NVDA expiring 2024-03-15</title>
+      <link>https://thetagang.com/EZmoneySniper/74d20ec5-b04f-4a26-ab91-cdae9a75436f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/EZmoneySniper/74d20ec5-b04f-4a26-ab91-cdae9a75436f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">74d20ec5-b04f-4a26-ab91-cdae9a75436f-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 15:13:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 alrightalan closed a put credit spread on $AMD expiring 2024-03-22</title>
+      <link>https://thetagang.com/alrightalan/d6987675-135c-431f-8206-2ea09703e147</link>
+      <description>For more details, &lt;a href='https://thetagang.com/alrightalan/d6987675-135c-431f-8206-2ea09703e147'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d6987675-135c-431f-8206-2ea09703e147-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 15:19:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 DaltonBryer opened a put credit spread on $HOOD expiring 2024-04-12</title>
+      <link>https://thetagang.com/DaltonBryer/ad424744-f22b-4e66-a141-f0c2b4fd7f9d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/DaltonBryer/ad424744-f22b-4e66-a141-f0c2b4fd7f9d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ad424744-f22b-4e66-a141-f0c2b4fd7f9d-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 15:28:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Nala opened a put credit spread on $ARM expiring 2024-03-22</title>
+      <link>https://thetagang.com/Nala/c9462371-b2d9-40be-addd-91f1ed53006f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Nala/c9462371-b2d9-40be-addd-91f1ed53006f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c9462371-b2d9-40be-addd-91f1ed53006f-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 15:31:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rschmiddy opened a put credit spread on $ELF expiring 2024-03-22</title>
+      <link>https://thetagang.com/rschmiddy/7a565095-b1e7-4bd9-a2c1-539a520243b7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rschmiddy/7a565095-b1e7-4bd9-a2c1-539a520243b7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7a565095-b1e7-4bd9-a2c1-539a520243b7-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 16:08:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Alotoflift opened a put credit spread on $CRM expiring 2024-03-22</title>
+      <link>https://thetagang.com/Alotoflift/98b861b0-f08c-438c-ba9a-3c81e81d97a5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Alotoflift/98b861b0-f08c-438c-ba9a-3c81e81d97a5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">98b861b0-f08c-438c-ba9a-3c81e81d97a5-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 16:50:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 skot opened a put credit spread on $AMD expiring 2024-03-22</title>
+      <link>https://thetagang.com/skot/8fbf4803-e4b5-424f-874f-21596876b2bd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/skot/8fbf4803-e4b5-424f-874f-21596876b2bd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8fbf4803-e4b5-424f-874f-21596876b2bd-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 16:59:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 thetacollector closed a put credit spread on $AMD expiring 2024-03-22</title>
+      <link>https://thetagang.com/thetacollector/f4a7374e-b4a2-4138-8847-b000e24fadec</link>
+      <description>For more details, &lt;a href='https://thetagang.com/thetacollector/f4a7374e-b4a2-4138-8847-b000e24fadec'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f4a7374e-b4a2-4138-8847-b000e24fadec-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 17:25:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 admer opened a put credit spread on $NVDA expiring 2024-03-01</title>
+      <link>https://thetagang.com/admer/cfd5ec76-1775-4990-b820-2bcc224a931f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/admer/cfd5ec76-1775-4990-b820-2bcc224a931f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cfd5ec76-1775-4990-b820-2bcc224a931f-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 17:32:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jondin opened a put credit spread on $TSLA expiring 2024-04-12</title>
+      <link>https://thetagang.com/jondin/5eace466-27e5-47af-a861-3f585e17c8b6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jondin/5eace466-27e5-47af-a861-3f585e17c8b6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5eace466-27e5-47af-a861-3f585e17c8b6-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 17:35:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 admer opened a put credit spread on $AMD expiring 2024-03-08</title>
+      <link>https://thetagang.com/admer/95a937c6-063b-47a1-aa59-11401a8f905e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/admer/95a937c6-063b-47a1-aa59-11401a8f905e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">95a937c6-063b-47a1-aa59-11401a8f905e-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 17:36:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Peder closed a put credit spread on $TSLA expiring 2024-03-05</title>
+      <link>https://thetagang.com/Peder/eb3f0a58-058f-4d08-9a9b-34b3ca592e5a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Peder/eb3f0a58-058f-4d08-9a9b-34b3ca592e5a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">eb3f0a58-058f-4d08-9a9b-34b3ca592e5a-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 18:01:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 skint opened a put credit spread on $SPX expiring 2024-03-01</title>
+      <link>https://thetagang.com/skint/c7d2746c-0afc-4e41-99d3-fa9f45a84662</link>
+      <description>For more details, &lt;a href='https://thetagang.com/skint/c7d2746c-0afc-4e41-99d3-fa9f45a84662'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c7d2746c-0afc-4e41-99d3-fa9f45a84662-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 18:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rschmiddy opened a put credit spread on $PANW expiring 2024-03-22</title>
+      <link>https://thetagang.com/rschmiddy/ffa59830-a97e-4357-b1f4-72dd1fda7daa</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rschmiddy/ffa59830-a97e-4357-b1f4-72dd1fda7daa'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ffa59830-a97e-4357-b1f4-72dd1fda7daa-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 18:21:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Alotoflift opened a put credit spread on $AMD expiring 2024-03-22</title>
+      <link>https://thetagang.com/Alotoflift/dcf39808-7a9f-40a5-9ef7-68ed525a0460</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Alotoflift/dcf39808-7a9f-40a5-9ef7-68ed525a0460'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dcf39808-7a9f-40a5-9ef7-68ed525a0460-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 18:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 CubeTsuki opened a put credit spread on $SBUX expiring 2024-03-15</title>
+      <link>https://thetagang.com/CubeTsuki/064ef3f5-99f2-49c8-9f4d-b57b6039312d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/CubeTsuki/064ef3f5-99f2-49c8-9f4d-b57b6039312d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">064ef3f5-99f2-49c8-9f4d-b57b6039312d-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 19:45:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mawpas opened a put credit spread on $NVDA expiring 2024-03-28</title>
+      <link>https://thetagang.com/mawpas/54d6ee02-7c9c-4f5e-a978-873153afa97e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mawpas/54d6ee02-7c9c-4f5e-a978-873153afa97e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">54d6ee02-7c9c-4f5e-a978-873153afa97e-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 19:52:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 CubeTsuki opened a put credit spread on $PANW expiring 2024-03-08</title>
+      <link>https://thetagang.com/CubeTsuki/bf16ca43-91a6-4299-8b29-6070b354771c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/CubeTsuki/bf16ca43-91a6-4299-8b29-6070b354771c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bf16ca43-91a6-4299-8b29-6070b354771c-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 20:05:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 CubeTsuki opened a put credit spread on $ULTA expiring 2024-03-08</title>
+      <link>https://thetagang.com/CubeTsuki/6207a6f7-c18f-4149-9269-f5d26ff371ad</link>
+      <description>For more details, &lt;a href='https://thetagang.com/CubeTsuki/6207a6f7-c18f-4149-9269-f5d26ff371ad'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6207a6f7-c18f-4149-9269-f5d26ff371ad-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 20:15:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Jadax opened a put credit spread on $AMD expiring 2024-04-19</title>
+      <link>https://thetagang.com/Jadax/6fa47ecd-57c2-48e9-89ae-0423ca4bdbfb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Jadax/6fa47ecd-57c2-48e9-89ae-0423ca4bdbfb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6fa47ecd-57c2-48e9-89ae-0423ca4bdbfb-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 20:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Jadax opened a put credit spread on $ARM expiring 2024-04-19</title>
+      <link>https://thetagang.com/Jadax/9ac87e77-c42a-4e6b-b70f-e7d9804f83bd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Jadax/9ac87e77-c42a-4e6b-b70f-e7d9804f83bd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9ac87e77-c42a-4e6b-b70f-e7d9804f83bd-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 20:54:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Jadax opened a put credit spread on $CRM expiring 2024-04-19</title>
+      <link>https://thetagang.com/Jadax/9998a63f-b1fd-46f0-8fff-a7619ab145eb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Jadax/9998a63f-b1fd-46f0-8fff-a7619ab145eb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9998a63f-b1fd-46f0-8fff-a7619ab145eb-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 20:55:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Jadax opened a put credit spread on $NVDA expiring 2024-04-19</title>
+      <link>https://thetagang.com/Jadax/30570861-afa9-404c-9a2b-59489d0bfde8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Jadax/30570861-afa9-404c-9a2b-59489d0bfde8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">30570861-afa9-404c-9a2b-59489d0bfde8-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 20:56:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Jadax opened a put credit spread on $META expiring 2024-04-19</title>
+      <link>https://thetagang.com/Jadax/777390e7-4c21-487c-9d84-d8d9a37cc117</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Jadax/777390e7-4c21-487c-9d84-d8d9a37cc117'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">777390e7-4c21-487c-9d84-d8d9a37cc117-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 20:57:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 nsis88 opened a put credit spread on $META expiring 2024-03-22</title>
+      <link>https://thetagang.com/nsis88/4fb9dd06-1412-43a7-a6ec-8342dc87c222</link>
+      <description>For more details, &lt;a href='https://thetagang.com/nsis88/4fb9dd06-1412-43a7-a6ec-8342dc87c222'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4fb9dd06-1412-43a7-a6ec-8342dc87c222-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 21:03:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 nsis88 opened a put credit spread on $LLY expiring 2024-03-15</title>
+      <link>https://thetagang.com/nsis88/8a4e9c31-14dd-4827-82eb-a976e0e1888b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/nsis88/8a4e9c31-14dd-4827-82eb-a976e0e1888b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8a4e9c31-14dd-4827-82eb-a976e0e1888b-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 21:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mawpas opened a put credit spread on $DPZ expiring 2024-03-15</title>
+      <link>https://thetagang.com/mawpas/dc70867e-0cba-4177-97d8-316110dec0da</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mawpas/dc70867e-0cba-4177-97d8-316110dec0da'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dc70867e-0cba-4177-97d8-316110dec0da-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 21:31:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Alexanderkerm opened a put credit spread on $ELF expiring 2024-03-22</title>
+      <link>https://thetagang.com/Alexanderkerm/41afabfa-4a9c-4cf9-b2cb-6228a2823a67</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Alexanderkerm/41afabfa-4a9c-4cf9-b2cb-6228a2823a67'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">41afabfa-4a9c-4cf9-b2cb-6228a2823a67-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 22:08:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

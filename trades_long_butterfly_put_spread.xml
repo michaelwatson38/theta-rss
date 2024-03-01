@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only long butterfly put spread trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only long butterfly put spread trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 01 Mar 2024 23:53:59 +0000</lastBuildDate>
+    <item>
+      <title>🌅 antithetathetagang opened a long butterfly put spread on $HAS expiring 2023-03-03</title>
+      <link>https://thetagang.com/antithetathetagang/82877761-509d-402c-b3ea-88d04f7fff38</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antithetathetagang/82877761-509d-402c-b3ea-88d04f7fff38'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">82877761-509d-402c-b3ea-88d04f7fff38-opening</guid>
+      <pubDate>Mon, 06 Mar 2023 08:31:08 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

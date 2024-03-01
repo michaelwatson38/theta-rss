@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only long straddle trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only long straddle trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 01 Mar 2024 23:53:59 +0000</lastBuildDate>
+    <item>
+      <title>🌅 WiseManPioter opened a long straddle on $DAL expiring 2022-01-20</title>
+      <link>https://thetagang.com/WiseManPioter/eb53a0b5-7563-47a7-8dd4-26724d81252b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WiseManPioter/eb53a0b5-7563-47a7-8dd4-26724d81252b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">eb53a0b5-7563-47a7-8dd4-26724d81252b-opening</guid>
+      <pubDate>Thu, 13 Jan 2022 16:50:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 WiseManPioter closed a long straddle on $TSM expiring 2022-01-20</title>
+      <link>https://thetagang.com/WiseManPioter/6e02a89e-f848-4a28-b963-2bee31e89a81</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WiseManPioter/6e02a89e-f848-4a28-b963-2bee31e89a81'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6e02a89e-f848-4a28-b963-2bee31e89a81-closing</guid>
+      <pubDate>Thu, 13 Jan 2022 17:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 WiseManPioter opened a long straddle on $C expiring 2022-01-20</title>
+      <link>https://thetagang.com/WiseManPioter/d08439bc-45d3-40c9-be0d-7902d81d7013</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WiseManPioter/d08439bc-45d3-40c9-be0d-7902d81d7013'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d08439bc-45d3-40c9-be0d-7902d81d7013-opening</guid>
+      <pubDate>Thu, 13 Jan 2022 17:19:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 WiseManPioter closed a long straddle on $WFC expiring 2022-01-20</title>
+      <link>https://thetagang.com/WiseManPioter/749682af-6cc0-4997-b051-3f2a60b6a77a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WiseManPioter/749682af-6cc0-4997-b051-3f2a60b6a77a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">749682af-6cc0-4997-b051-3f2a60b6a77a-closing</guid>
+      <pubDate>Fri, 14 Jan 2022 16:08:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ahart75 opened a long straddle on $FCX expiring 2022-03-18</title>
+      <link>https://thetagang.com/ahart75/d65fa606-3892-444a-9b07-5b5c879d7e7c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ahart75/d65fa606-3892-444a-9b07-5b5c879d7e7c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d65fa606-3892-444a-9b07-5b5c879d7e7c-opening</guid>
+      <pubDate>Mon, 31 Jan 2022 19:16:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 WiseManPioter opened a long straddle on $PFE expiring 2022-02-17</title>
+      <link>https://thetagang.com/WiseManPioter/b5f31b3b-c56e-42fa-a067-913b7fc37939</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WiseManPioter/b5f31b3b-c56e-42fa-a067-913b7fc37939'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b5f31b3b-c56e-42fa-a067-913b7fc37939-opening</guid>
+      <pubDate>Tue, 08 Feb 2022 14:20:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Tatonka2000 opened a long straddle on $UBER expiring 2022-02-18</title>
+      <link>https://thetagang.com/Tatonka2000/f17bb60f-d7a3-4d30-b839-bf6c3df9557c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Tatonka2000/f17bb60f-d7a3-4d30-b839-bf6c3df9557c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f17bb60f-d7a3-4d30-b839-bf6c3df9557c-opening</guid>
+      <pubDate>Tue, 08 Feb 2022 18:41:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 artofrawr closed a long straddle on $CVS expiring 2022-02-11</title>
+      <link>https://thetagang.com/artofrawr/71a3a935-3702-4f8b-ae89-c9c9072e45b9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/artofrawr/71a3a935-3702-4f8b-ae89-c9c9072e45b9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">71a3a935-3702-4f8b-ae89-c9c9072e45b9-closing</guid>
+      <pubDate>Wed, 09 Feb 2022 14:47:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 artofrawr opened a long straddle on $DIS expiring 2022-02-11</title>
+      <link>https://thetagang.com/artofrawr/2f902c23-39ce-4d32-928e-5b5c2134d263</link>
+      <description>For more details, &lt;a href='https://thetagang.com/artofrawr/2f902c23-39ce-4d32-928e-5b5c2134d263'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2f902c23-39ce-4d32-928e-5b5c2134d263-opening</guid>
+      <pubDate>Wed, 09 Feb 2022 15:38:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 fabio opened a long straddle on $BLOK expiring 2022-03-18</title>
+      <link>https://thetagang.com/fabio/843bcca5-7e4e-430b-a9cf-e477b0e4275f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/fabio/843bcca5-7e4e-430b-a9cf-e477b0e4275f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">843bcca5-7e4e-430b-a9cf-e477b0e4275f-opening</guid>
+      <pubDate>Wed, 16 Feb 2022 22:54:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 artofrawr closed a long straddle on $DKNG expiring 2022-02-18</title>
+      <link>https://thetagang.com/artofrawr/cf640d21-1322-4399-b949-299480155f7e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/artofrawr/cf640d21-1322-4399-b949-299480155f7e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cf640d21-1322-4399-b949-299480155f7e-closing</guid>
+      <pubDate>Fri, 18 Feb 2022 21:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 fabio closed a long straddle on $HTA expiring 2022-03-18</title>
+      <link>https://thetagang.com/fabio/b043555e-f505-45cb-a17b-ea5023c24ab6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/fabio/b043555e-f505-45cb-a17b-ea5023c24ab6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b043555e-f505-45cb-a17b-ea5023c24ab6-closing</guid>
+      <pubDate>Mon, 28 Feb 2022 16:06:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mwquarry opened a long straddle on $GPS expiring 2022-04-01</title>
+      <link>https://thetagang.com/mwquarry/f3844f25-98ad-48f8-9dd9-d94eb5dd464b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mwquarry/f3844f25-98ad-48f8-9dd9-d94eb5dd464b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f3844f25-98ad-48f8-9dd9-d94eb5dd464b-opening</guid>
+      <pubDate>Wed, 02 Mar 2022 20:25:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 blobbingaway opened a long straddle on $JNJ expiring 2022-04-22</title>
+      <link>https://thetagang.com/blobbingaway/ad01be94-f4a2-46fd-83a5-ccb1a1603bb3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/blobbingaway/ad01be94-f4a2-46fd-83a5-ccb1a1603bb3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ad01be94-f4a2-46fd-83a5-ccb1a1603bb3-opening</guid>
+      <pubDate>Mon, 18 Apr 2022 17:05:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 smartsalt opened a long straddle on $PLTR expiring 2022-09-16</title>
+      <link>https://thetagang.com/smartsalt/41272a0b-b7bc-4d32-913f-e71b9ed6012d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/smartsalt/41272a0b-b7bc-4d32-913f-e71b9ed6012d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">41272a0b-b7bc-4d32-913f-e71b9ed6012d-opening</guid>
+      <pubDate>Sun, 24 Jul 2022 05:57:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TCB47 opened a long straddle on $NTNX expiring 2022-09-02</title>
+      <link>https://thetagang.com/TCB47/8b587971-3d78-4933-ab28-1340bda43922</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/8b587971-3d78-4933-ab28-1340bda43922'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8b587971-3d78-4933-ab28-1340bda43922-opening</guid>
+      <pubDate>Mon, 29 Aug 2022 16:52:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TCB47 opened a long straddle on $DLTH expiring 2022-09-16</title>
+      <link>https://thetagang.com/TCB47/2ac81299-7ba0-4968-8da2-fa1428b46b75</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/2ac81299-7ba0-4968-8da2-fa1428b46b75'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2ac81299-7ba0-4968-8da2-fa1428b46b75-opening</guid>
+      <pubDate>Mon, 29 Aug 2022 17:42:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TCB47 opened a long straddle on $NIO expiring 2022-09-09</title>
+      <link>https://thetagang.com/TCB47/b9c8f6f7-eb67-4b91-baa1-273b19e7fd6c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/b9c8f6f7-eb67-4b91-baa1-273b19e7fd6c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b9c8f6f7-eb67-4b91-baa1-273b19e7fd6c-opening</guid>
+      <pubDate>Mon, 29 Aug 2022 18:19:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Nickels opened a long straddle on $BBBY expiring 2022-09-22</title>
+      <link>https://thetagang.com/Nickels/8f12ab68-48e9-40d0-86c9-203722aaa9bf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Nickels/8f12ab68-48e9-40d0-86c9-203722aaa9bf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8f12ab68-48e9-40d0-86c9-203722aaa9bf-opening</guid>
+      <pubDate>Wed, 31 Aug 2022 13:56:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TCB47 opened a long straddle on $CDMO expiring 2022-09-16</title>
+      <link>https://thetagang.com/TCB47/730e66e7-c4cd-4e80-80b5-59262f12fe9a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/730e66e7-c4cd-4e80-80b5-59262f12fe9a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">730e66e7-c4cd-4e80-80b5-59262f12fe9a-opening</guid>
+      <pubDate>Thu, 01 Sep 2022 18:06:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 0xnordbert opened a long straddle on $ETH expiring 2022-11-24</title>
+      <link>https://thetagang.com/0xnordbert/7e83b10d-8338-48c8-bc59-3a306650ea20</link>
+      <description>For more details, &lt;a href='https://thetagang.com/0xnordbert/7e83b10d-8338-48c8-bc59-3a306650ea20'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7e83b10d-8338-48c8-bc59-3a306650ea20-opening</guid>
+      <pubDate>Wed, 16 Nov 2022 00:53:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 TCB47 closed a long straddle on $UAL expiring 2023-01-20</title>
+      <link>https://thetagang.com/TCB47/e3c567b4-cad4-4fea-8114-5bef5b5e0d1f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/e3c567b4-cad4-4fea-8114-5bef5b5e0d1f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e3c567b4-cad4-4fea-8114-5bef5b5e0d1f-closing</guid>
+      <pubDate>Wed, 18 Jan 2023 16:28:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long straddle on $SNAP expiring 2023-02-03</title>
+      <link>https://thetagang.com/mehmehmeh/e4230c48-30c5-461d-ac93-ace8b2ff451f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/e4230c48-30c5-461d-ac93-ace8b2ff451f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e4230c48-30c5-461d-ac93-ace8b2ff451f-closing</guid>
+      <pubDate>Wed, 01 Feb 2023 14:36:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 antithetathetagang closed a long straddle on $HAS expiring 2023-02-24</title>
+      <link>https://thetagang.com/antithetathetagang/2c9f2c45-0529-4969-9829-4ed0de25be46</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antithetathetagang/2c9f2c45-0529-4969-9829-4ed0de25be46'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2c9f2c45-0529-4969-9829-4ed0de25be46-closing</guid>
+      <pubDate>Thu, 02 Feb 2023 06:13:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long straddle on $ABNB expiring 2023-02-17</title>
+      <link>https://thetagang.com/mehmehmeh/c80774b6-aea0-4fcd-8d86-4d290f0a0c98</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/c80774b6-aea0-4fcd-8d86-4d290f0a0c98'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c80774b6-aea0-4fcd-8d86-4d290f0a0c98-closing</guid>
+      <pubDate>Mon, 13 Feb 2023 20:46:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Drum_Smith closed a long straddle on $TSLA expiring 2023-04-21</title>
+      <link>https://thetagang.com/Drum_Smith/e16bafb0-6dbd-4eb8-ac25-48a534d7e19c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Drum_Smith/e16bafb0-6dbd-4eb8-ac25-48a534d7e19c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e16bafb0-6dbd-4eb8-ac25-48a534d7e19c-closing</guid>
+      <pubDate>Wed, 19 Apr 2023 13:47:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Drum_Smith opened a long straddle on $AMAT expiring 2023-05-19</title>
+      <link>https://thetagang.com/Drum_Smith/c250e3ae-6306-43b1-aaf1-aff284d062e4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Drum_Smith/c250e3ae-6306-43b1-aaf1-aff284d062e4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c250e3ae-6306-43b1-aaf1-aff284d062e4-opening</guid>
+      <pubDate>Wed, 17 May 2023 17:44:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 keivv opened a long straddle on $PLTR expiring 2023-06-30</title>
+      <link>https://thetagang.com/keivv/9125b258-0b37-4cfb-aaee-188367928f7f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/keivv/9125b258-0b37-4cfb-aaee-188367928f7f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9125b258-0b37-4cfb-aaee-188367928f7f-opening</guid>
+      <pubDate>Tue, 06 Jun 2023 03:13:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 keivv opened a long straddle on $SOFI expiring 2023-07-07</title>
+      <link>https://thetagang.com/keivv/5ad29404-6102-4161-9ea5-805df7dba42e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/keivv/5ad29404-6102-4161-9ea5-805df7dba42e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5ad29404-6102-4161-9ea5-805df7dba42e-opening</guid>
+      <pubDate>Tue, 06 Jun 2023 03:15:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 minaventura opened a long straddle on $CCL expiring 2023-06-29</title>
+      <link>https://thetagang.com/minaventura/beb541c2-a7f3-43b5-81df-9349fa452a3c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/minaventura/beb541c2-a7f3-43b5-81df-9349fa452a3c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">beb541c2-a7f3-43b5-81df-9349fa452a3c-opening</guid>
+      <pubDate>Tue, 13 Jun 2023 16:55:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Aces closed a long straddle on $ADBE  expiring 2023-09-15</title>
+      <link>https://thetagang.com/Aces/788d5f51-55fa-4fe2-b5bd-8481050a272b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Aces/788d5f51-55fa-4fe2-b5bd-8481050a272b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">788d5f51-55fa-4fe2-b5bd-8481050a272b-closing</guid>
+      <pubDate>Sat, 09 Sep 2023 19:51:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Aces closed a long straddle on $ADBE expiring 2023-09-15</title>
+      <link>https://thetagang.com/Aces/6e11cb1c-a17b-4686-8804-100205325487</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Aces/6e11cb1c-a17b-4686-8804-100205325487'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6e11cb1c-a17b-4686-8804-100205325487-closing</guid>
+      <pubDate>Sat, 09 Sep 2023 19:52:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ARFFman opened a long straddle on $SBUX expiring 2023-10-20</title>
+      <link>https://thetagang.com/ARFFman/8e56e355-c173-42e9-957d-f6505609374c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/8e56e355-c173-42e9-957d-f6505609374c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8e56e355-c173-42e9-957d-f6505609374c-opening</guid>
+      <pubDate>Mon, 11 Sep 2023 17:38:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a long straddle on $AMC expiring 2023-09-22</title>
+      <link>https://thetagang.com/Burnttoast/7e6b4798-c1b7-4146-82d6-809b12401d22</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/7e6b4798-c1b7-4146-82d6-809b12401d22'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7e6b4798-c1b7-4146-82d6-809b12401d22-opening</guid>
+      <pubDate>Wed, 13 Sep 2023 21:51:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ARFFman opened a long straddle on $AMD expiring 2023-11-17</title>
+      <link>https://thetagang.com/ARFFman/4b98dcf5-a96e-447e-aade-9e0db57f0b4a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/4b98dcf5-a96e-447e-aade-9e0db57f0b4a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4b98dcf5-a96e-447e-aade-9e0db57f0b4a-opening</guid>
+      <pubDate>Thu, 14 Sep 2023 14:10:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 JosephJoestar closed a long straddle on $BABA expiring 2023-11-17</title>
+      <link>https://thetagang.com/JosephJoestar/5b086399-dcdc-4770-9050-36cad0d49c03</link>
+      <description>For more details, &lt;a href='https://thetagang.com/JosephJoestar/5b086399-dcdc-4770-9050-36cad0d49c03'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5b086399-dcdc-4770-9050-36cad0d49c03-closing</guid>
+      <pubDate>Tue, 14 Nov 2023 18:38:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 I_Am_Him opened a long straddle on $SPY expiring 2024-01-16</title>
+      <link>https://thetagang.com/I_Am_Him/0176304d-4ab1-4a45-9e7d-128dcb59409c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/I_Am_Him/0176304d-4ab1-4a45-9e7d-128dcb59409c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0176304d-4ab1-4a45-9e7d-128dcb59409c-opening</guid>
+      <pubDate>Fri, 12 Jan 2024 15:21:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a long straddle on $INTC expiring 2024-01-26</title>
+      <link>https://thetagang.com/eve/304b9b13-542e-4153-bdf0-d2869e286b31</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/304b9b13-542e-4153-bdf0-d2869e286b31'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">304b9b13-542e-4153-bdf0-d2869e286b31-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 18:17:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a long straddle on $AMD expiring 2024-02-02</title>
+      <link>https://thetagang.com/eve/4079cdec-de9b-44be-ad2a-c7e1820017ea</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/4079cdec-de9b-44be-ad2a-c7e1820017ea'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4079cdec-de9b-44be-ad2a-c7e1820017ea-opening</guid>
+      <pubDate>Thu, 18 Jan 2024 21:28:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a long straddle on $CROX expiring 2024-02-16</title>
+      <link>https://thetagang.com/eve/565ed795-7e6f-4d03-87ce-fcf1b0f19bba</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/565ed795-7e6f-4d03-87ce-fcf1b0f19bba'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">565ed795-7e6f-4d03-87ce-fcf1b0f19bba-opening</guid>
+      <pubDate>Thu, 18 Jan 2024 21:28:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 csurfer closed a long straddle on $RIVN expiring 2024-02-23</title>
+      <link>https://thetagang.com/csurfer/5dff8049-8438-4610-a64b-3b7144c7f547</link>
+      <description>For more details, &lt;a href='https://thetagang.com/csurfer/5dff8049-8438-4610-a64b-3b7144c7f547'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5dff8049-8438-4610-a64b-3b7144c7f547-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 00:40:02 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only call debit spread trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only call debit spread trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 01 Mar 2024 23:53:59 +0000</lastBuildDate>
+    <item>
+      <title>🌅 jrue opened a call debit spread on $BYD expiring 2024-03-15</title>
+      <link>https://thetagang.com/jrue/333d823f-54ab-4d27-8ea0-de31d155433c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/333d823f-54ab-4d27-8ea0-de31d155433c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">333d823f-54ab-4d27-8ea0-de31d155433c-opening</guid>
+      <pubDate>Tue, 09 Jan 2024 19:11:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a call debit spread on $TNA expiring 2024-04-19</title>
+      <link>https://thetagang.com/Stizzle/82f58a1e-0e40-43f3-80da-b067e7392859</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/82f58a1e-0e40-43f3-80da-b067e7392859'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">82f58a1e-0e40-43f3-80da-b067e7392859-opening</guid>
+      <pubDate>Tue, 09 Jan 2024 19:56:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a call debit spread on $AAPL expiring 2024-04-19</title>
+      <link>https://thetagang.com/Stizzle/d6a8a772-4b1d-4047-b9ec-f4c46a2d615f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/d6a8a772-4b1d-4047-b9ec-f4c46a2d615f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d6a8a772-4b1d-4047-b9ec-f4c46a2d615f-opening</guid>
+      <pubDate>Tue, 09 Jan 2024 19:57:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $PFE expiring 2024-02-02</title>
+      <link>https://thetagang.com/betathang/5ab41c38-a481-4803-b2cf-33244d858947</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/5ab41c38-a481-4803-b2cf-33244d858947'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5ab41c38-a481-4803-b2cf-33244d858947-opening</guid>
+      <pubDate>Wed, 10 Jan 2024 03:16:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $CPB expiring 2024-02-02</title>
+      <link>https://thetagang.com/betathang/7ff006fa-8587-4700-9324-a2486288f985</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/7ff006fa-8587-4700-9324-a2486288f985'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7ff006fa-8587-4700-9324-a2486288f985-opening</guid>
+      <pubDate>Wed, 10 Jan 2024 04:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a call debit spread on $META expiring 2024-01-12</title>
+      <link>https://thetagang.com/Stizzle/3be10512-c1d2-4702-ae15-b5b27a855f23</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/3be10512-c1d2-4702-ae15-b5b27a855f23'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3be10512-c1d2-4702-ae15-b5b27a855f23-closing</guid>
+      <pubDate>Wed, 10 Jan 2024 15:42:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a call debit spread on $ADBE expiring 2024-01-12</title>
+      <link>https://thetagang.com/Stizzle/2fd2fc99-4dd4-4f17-a1aa-77e7c1e76914</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/2fd2fc99-4dd4-4f17-a1aa-77e7c1e76914'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2fd2fc99-4dd4-4f17-a1aa-77e7c1e76914-closing</guid>
+      <pubDate>Wed, 10 Jan 2024 17:07:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Nala opened a call debit spread on $INTC expiring 2024-02-23</title>
+      <link>https://thetagang.com/Nala/1f3bf578-25dc-4efc-a7b0-befe339be9d4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Nala/1f3bf578-25dc-4efc-a7b0-befe339be9d4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1f3bf578-25dc-4efc-a7b0-befe339be9d4-opening</guid>
+      <pubDate>Wed, 10 Jan 2024 19:37:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $NKE expiring 2024-02-02</title>
+      <link>https://thetagang.com/betathang/44fa2e6e-1d3f-4f8a-b6ca-8cdcd423eb83</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/44fa2e6e-1d3f-4f8a-b6ca-8cdcd423eb83'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">44fa2e6e-1d3f-4f8a-b6ca-8cdcd423eb83-opening</guid>
+      <pubDate>Wed, 10 Jan 2024 22:59:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Milkens opened a call debit spread on $AMD expiring 2024-01-19</title>
+      <link>https://thetagang.com/Milkens/8a898ebd-5285-4310-b2df-c893172df9fd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Milkens/8a898ebd-5285-4310-b2df-c893172df9fd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8a898ebd-5285-4310-b2df-c893172df9fd-opening</guid>
+      <pubDate>Thu, 11 Jan 2024 19:01:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 betathang closed a call debit spread on $NKE expiring 2024-02-02</title>
+      <link>https://thetagang.com/betathang/cb2d29a4-6159-4dd5-b9ab-bcb657179076</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/cb2d29a4-6159-4dd5-b9ab-bcb657179076'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cb2d29a4-6159-4dd5-b9ab-bcb657179076-closing</guid>
+      <pubDate>Fri, 12 Jan 2024 03:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 terrywong2 closed a call debit spread on $ADBE expiring 2024-01-12</title>
+      <link>https://thetagang.com/terrywong2/c1c2d5ff-120d-498d-976b-37fe92006b85</link>
+      <description>For more details, &lt;a href='https://thetagang.com/terrywong2/c1c2d5ff-120d-498d-976b-37fe92006b85'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c1c2d5ff-120d-498d-976b-37fe92006b85-closing</guid>
+      <pubDate>Sat, 13 Jan 2024 07:31:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Suffy874 opened a call debit spread on $VXX expiring 2024-02-16</title>
+      <link>https://thetagang.com/Suffy874/66965895-4ecb-4e21-8333-005f4d3714b0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Suffy874/66965895-4ecb-4e21-8333-005f4d3714b0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">66965895-4ecb-4e21-8333-005f4d3714b0-opening</guid>
+      <pubDate>Sun, 14 Jan 2024 09:08:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $NKE expiring 2024-02-09</title>
+      <link>https://thetagang.com/betathang/f94b13d4-9ce9-495f-b404-60556075ae6a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/f94b13d4-9ce9-495f-b404-60556075ae6a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f94b13d4-9ce9-495f-b404-60556075ae6a-opening</guid>
+      <pubDate>Tue, 16 Jan 2024 21:10:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aaronwang101 opened a call debit spread on $QQQ expiring 2024-03-15</title>
+      <link>https://thetagang.com/aaronwang101/4a8fc13e-507f-4d49-b3de-693111e810d0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aaronwang101/4a8fc13e-507f-4d49-b3de-693111e810d0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4a8fc13e-507f-4d49-b3de-693111e810d0-opening</guid>
+      <pubDate>Thu, 18 Jan 2024 15:52:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a call debit spread on $SJM expiring 2024-04-19</title>
+      <link>https://thetagang.com/jrue/ddbf779d-169f-47a3-a8b2-286e44716251</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/ddbf779d-169f-47a3-a8b2-286e44716251'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ddbf779d-169f-47a3-a8b2-286e44716251-opening</guid>
+      <pubDate>Thu, 18 Jan 2024 19:24:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a call debit spread on $CPB expiring 2024-03-01</title>
+      <link>https://thetagang.com/jrue/1f78eeb7-acab-4ae3-a3bc-78ee64855875</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/1f78eeb7-acab-4ae3-a3bc-78ee64855875'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1f78eeb7-acab-4ae3-a3bc-78ee64855875-opening</guid>
+      <pubDate>Thu, 18 Jan 2024 19:36:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a call debit spread on $USO expiring 2024-03-15</title>
+      <link>https://thetagang.com/jrue/3265307d-aa42-4cc9-a0db-36b77dfa33e5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/3265307d-aa42-4cc9-a0db-36b77dfa33e5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3265307d-aa42-4cc9-a0db-36b77dfa33e5-opening</guid>
+      <pubDate>Thu, 18 Jan 2024 19:57:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 AverageBear opened a call debit spread on $CPB expiring 2024-02-09</title>
+      <link>https://thetagang.com/AverageBear/93e06d22-5a80-4c9f-8909-e0c327a960a9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/AverageBear/93e06d22-5a80-4c9f-8909-e0c327a960a9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">93e06d22-5a80-4c9f-8909-e0c327a960a9-opening</guid>
+      <pubDate>Fri, 19 Jan 2024 03:47:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a call debit spread on $PYPL expiring 2024-01-19</title>
+      <link>https://thetagang.com/Stizzle/f56131c7-039a-439b-ad72-3ddc17505cdf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/f56131c7-039a-439b-ad72-3ddc17505cdf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f56131c7-039a-439b-ad72-3ddc17505cdf-closing</guid>
+      <pubDate>Fri, 19 Jan 2024 16:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a call debit spread on $AMZN expiring 2024-01-26</title>
+      <link>https://thetagang.com/Stizzle/94bd5c82-10b8-483e-b9e0-68c40c3db3a2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/94bd5c82-10b8-483e-b9e0-68c40c3db3a2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">94bd5c82-10b8-483e-b9e0-68c40c3db3a2-opening</guid>
+      <pubDate>Fri, 19 Jan 2024 17:50:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a call debit spread on $OXY expiring 2024-02-16</title>
+      <link>https://thetagang.com/jrue/8b4e4096-fe11-4c97-a498-9402bc3ed959</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/8b4e4096-fe11-4c97-a498-9402bc3ed959'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8b4e4096-fe11-4c97-a498-9402bc3ed959-opening</guid>
+      <pubDate>Fri, 19 Jan 2024 20:39:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 betathang closed a call debit spread on $WFC expiring 2024-02-09</title>
+      <link>https://thetagang.com/betathang/60fcdf08-89cf-4369-9fe3-49843efc079a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/60fcdf08-89cf-4369-9fe3-49843efc079a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">60fcdf08-89cf-4369-9fe3-49843efc079a-closing</guid>
+      <pubDate>Sat, 20 Jan 2024 03:07:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $TSM expiring 2024-02-09</title>
+      <link>https://thetagang.com/betathang/58575f2a-d220-4d1d-b50d-3b84d0dbd5f1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/58575f2a-d220-4d1d-b50d-3b84d0dbd5f1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">58575f2a-d220-4d1d-b50d-3b84d0dbd5f1-opening</guid>
+      <pubDate>Sat, 20 Jan 2024 03:19:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $WFC expiring 2024-02-16</title>
+      <link>https://thetagang.com/betathang/1014f88f-ce60-41f0-b593-8b912e8bb906</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/1014f88f-ce60-41f0-b593-8b912e8bb906'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1014f88f-ce60-41f0-b593-8b912e8bb906-opening</guid>
+      <pubDate>Mon, 22 Jan 2024 22:47:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $TBT expiring 2024-02-16</title>
+      <link>https://thetagang.com/betathang/2e316b17-487f-40cf-99b7-9b074c559a92</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/2e316b17-487f-40cf-99b7-9b074c559a92'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2e316b17-487f-40cf-99b7-9b074c559a92-opening</guid>
+      <pubDate>Mon, 22 Jan 2024 22:53:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 AverageBear opened a call debit spread on $WFC expiring 2024-02-16</title>
+      <link>https://thetagang.com/AverageBear/414f71e0-9f7c-4102-ad90-850ed50f9953</link>
+      <description>For more details, &lt;a href='https://thetagang.com/AverageBear/414f71e0-9f7c-4102-ad90-850ed50f9953'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">414f71e0-9f7c-4102-ad90-850ed50f9953-opening</guid>
+      <pubDate>Mon, 22 Jan 2024 23:07:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 AverageBear opened a call debit spread on $TBT expiring 2024-02-16</title>
+      <link>https://thetagang.com/AverageBear/69d0cc1d-b042-4c75-9c11-a1f3187c9e87</link>
+      <description>For more details, &lt;a href='https://thetagang.com/AverageBear/69d0cc1d-b042-4c75-9c11-a1f3187c9e87'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">69d0cc1d-b042-4c75-9c11-a1f3187c9e87-opening</guid>
+      <pubDate>Mon, 22 Jan 2024 23:08:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rh057 opened a call debit spread on $CHWY expiring 2024-01-26</title>
+      <link>https://thetagang.com/rh057/5a0ef99c-65cb-4242-b0e8-440f39fdc0a0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rh057/5a0ef99c-65cb-4242-b0e8-440f39fdc0a0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5a0ef99c-65cb-4242-b0e8-440f39fdc0a0-opening</guid>
+      <pubDate>Tue, 23 Jan 2024 13:37:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a call debit spread on $TNA expiring 2024-02-16</title>
+      <link>https://thetagang.com/Stizzle/2a2d5afd-cd42-4b74-93bc-f7b286abb1c2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/2a2d5afd-cd42-4b74-93bc-f7b286abb1c2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2a2d5afd-cd42-4b74-93bc-f7b286abb1c2-opening</guid>
+      <pubDate>Tue, 23 Jan 2024 15:07:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a call debit spread on $SNOW expiring 2024-02-16</title>
+      <link>https://thetagang.com/Stizzle/d1b6902a-ae10-4771-a98d-2d6cf5f68aea</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/d1b6902a-ae10-4771-a98d-2d6cf5f68aea'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d1b6902a-ae10-4771-a98d-2d6cf5f68aea-closing</guid>
+      <pubDate>Tue, 23 Jan 2024 15:59:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Mexi opened a call debit spread on $CVNA expiring 2024-01-26</title>
+      <link>https://thetagang.com/Mexi/2e3206b9-0782-433f-b7f8-9c5243d22f56</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Mexi/2e3206b9-0782-433f-b7f8-9c5243d22f56'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2e3206b9-0782-433f-b7f8-9c5243d22f56-opening</guid>
+      <pubDate>Tue, 23 Jan 2024 18:12:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $TBT expiring 2024-02-16</title>
+      <link>https://thetagang.com/betathang/50a36e1d-1c75-426d-a1fe-2f057079abd2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/50a36e1d-1c75-426d-a1fe-2f057079abd2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">50a36e1d-1c75-426d-a1fe-2f057079abd2-opening</guid>
+      <pubDate>Wed, 24 Jan 2024 02:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 AverageBear opened a call debit spread on $PFE expiring 2024-02-16</title>
+      <link>https://thetagang.com/AverageBear/b6858c89-11b3-4a7d-9f03-fa84e6222f91</link>
+      <description>For more details, &lt;a href='https://thetagang.com/AverageBear/b6858c89-11b3-4a7d-9f03-fa84e6222f91'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b6858c89-11b3-4a7d-9f03-fa84e6222f91-opening</guid>
+      <pubDate>Wed, 24 Jan 2024 22:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 AverageBear opened a call debit spread on $TBT expiring 2024-02-16</title>
+      <link>https://thetagang.com/AverageBear/72603395-cef1-413f-b5af-65b653f8dc96</link>
+      <description>For more details, &lt;a href='https://thetagang.com/AverageBear/72603395-cef1-413f-b5af-65b653f8dc96'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">72603395-cef1-413f-b5af-65b653f8dc96-opening</guid>
+      <pubDate>Wed, 24 Jan 2024 22:56:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 AverageBear opened a call debit spread on $TXN expiring 2024-02-16</title>
+      <link>https://thetagang.com/AverageBear/6554676c-184c-47c9-827b-4d6431c5b5be</link>
+      <description>For more details, &lt;a href='https://thetagang.com/AverageBear/6554676c-184c-47c9-827b-4d6431c5b5be'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6554676c-184c-47c9-827b-4d6431c5b5be-opening</guid>
+      <pubDate>Wed, 24 Jan 2024 23:11:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $FXE expiring 2024-02-16</title>
+      <link>https://thetagang.com/betathang/f6a0923f-c4e6-4946-846e-03292d155802</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/f6a0923f-c4e6-4946-846e-03292d155802'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f6a0923f-c4e6-4946-846e-03292d155802-opening</guid>
+      <pubDate>Wed, 24 Jan 2024 23:28:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $USB expiring 2024-02-16</title>
+      <link>https://thetagang.com/betathang/11bfb81e-2373-4b11-af6a-1e30eab198f7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/11bfb81e-2373-4b11-af6a-1e30eab198f7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">11bfb81e-2373-4b11-af6a-1e30eab198f7-opening</guid>
+      <pubDate>Wed, 24 Jan 2024 23:30:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $TXN expiring 2024-02-16</title>
+      <link>https://thetagang.com/betathang/c0d73cc1-39d2-467d-b6ed-63aa7f1d79c3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/c0d73cc1-39d2-467d-b6ed-63aa7f1d79c3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c0d73cc1-39d2-467d-b6ed-63aa7f1d79c3-opening</guid>
+      <pubDate>Wed, 24 Jan 2024 23:33:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $TSM expiring 2024-02-16</title>
+      <link>https://thetagang.com/betathang/8028c8d7-bd9e-43a9-8fdf-748bc2ca8163</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/8028c8d7-bd9e-43a9-8fdf-748bc2ca8163'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8028c8d7-bd9e-43a9-8fdf-748bc2ca8163-opening</guid>
+      <pubDate>Wed, 24 Jan 2024 23:35:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a call debit spread on $RIOT expiring 2024-03-15</title>
+      <link>https://thetagang.com/Burnttoast/4dced4dd-ccc6-49d4-933f-6c500b90dc45</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/4dced4dd-ccc6-49d4-933f-6c500b90dc45'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4dced4dd-ccc6-49d4-933f-6c500b90dc45-opening</guid>
+      <pubDate>Thu, 25 Jan 2024 04:12:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a call debit spread on $PYPL expiring 2024-02-09</title>
+      <link>https://thetagang.com/Stizzle/c0f5260b-4b52-4372-bc00-a9d27fd3c931</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/c0f5260b-4b52-4372-bc00-a9d27fd3c931'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c0f5260b-4b52-4372-bc00-a9d27fd3c931-opening</guid>
+      <pubDate>Thu, 25 Jan 2024 17:05:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 betathang closed a call debit spread on $PG expiring 2024-02-16</title>
+      <link>https://thetagang.com/betathang/4dc1aa77-12eb-4546-bcd4-b0c4903e9c25</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/4dc1aa77-12eb-4546-bcd4-b0c4903e9c25'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4dc1aa77-12eb-4546-bcd4-b0c4903e9c25-closing</guid>
+      <pubDate>Fri, 26 Jan 2024 01:38:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $WFC expiring 2024-02-16</title>
+      <link>https://thetagang.com/betathang/a2b8ad07-0bb2-4f48-9efe-2325ff54ebb8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/a2b8ad07-0bb2-4f48-9efe-2325ff54ebb8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a2b8ad07-0bb2-4f48-9efe-2325ff54ebb8-opening</guid>
+      <pubDate>Fri, 26 Jan 2024 01:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $GILD expiring 2024-02-16</title>
+      <link>https://thetagang.com/betathang/e6a60ccd-74a9-4c01-bb6e-964def84830d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/e6a60ccd-74a9-4c01-bb6e-964def84830d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e6a60ccd-74a9-4c01-bb6e-964def84830d-opening</guid>
+      <pubDate>Fri, 26 Jan 2024 01:48:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 AverageBear closed a call debit spread on $PG expiring 2024-02-16</title>
+      <link>https://thetagang.com/AverageBear/0eccddb8-9c6e-4b7c-9da9-901cf356b75c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/AverageBear/0eccddb8-9c6e-4b7c-9da9-901cf356b75c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0eccddb8-9c6e-4b7c-9da9-901cf356b75c-closing</guid>
+      <pubDate>Fri, 26 Jan 2024 02:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 AverageBear opened a call debit spread on $WFC expiring 2024-02-16</title>
+      <link>https://thetagang.com/AverageBear/f4fc67ac-0883-4b4b-9e02-423070bf7a52</link>
+      <description>For more details, &lt;a href='https://thetagang.com/AverageBear/f4fc67ac-0883-4b4b-9e02-423070bf7a52'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f4fc67ac-0883-4b4b-9e02-423070bf7a52-opening</guid>
+      <pubDate>Fri, 26 Jan 2024 02:11:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a call debit spread on $NVDA expiring 2024-01-26</title>
+      <link>https://thetagang.com/Burnttoast/dc4f9b40-4394-4d88-b3c6-8c240e7cdb96</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/dc4f9b40-4394-4d88-b3c6-8c240e7cdb96'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dc4f9b40-4394-4d88-b3c6-8c240e7cdb96-opening</guid>
+      <pubDate>Fri, 26 Jan 2024 04:10:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a call debit spread on $AMZN expiring 2024-02-16</title>
+      <link>https://thetagang.com/Stizzle/f4b475ef-0903-439b-97a5-7d8bfc9c3606</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/f4b475ef-0903-439b-97a5-7d8bfc9c3606'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f4b475ef-0903-439b-97a5-7d8bfc9c3606-opening</guid>
+      <pubDate>Fri, 26 Jan 2024 16:56:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a call debit spread on $PYPL expiring 2024-03-15</title>
+      <link>https://thetagang.com/Burnttoast/3f4d6123-41c4-4836-83a2-c5e3bd92e9d8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/3f4d6123-41c4-4836-83a2-c5e3bd92e9d8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3f4d6123-41c4-4836-83a2-c5e3bd92e9d8-opening</guid>
+      <pubDate>Fri, 26 Jan 2024 21:22:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $FAST expiring 2024-02-16</title>
+      <link>https://thetagang.com/betathang/8dc4f628-da6a-4b2f-a766-3303501fb219</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/8dc4f628-da6a-4b2f-a766-3303501fb219'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8dc4f628-da6a-4b2f-a766-3303501fb219-opening</guid>
+      <pubDate>Sat, 27 Jan 2024 01:19:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $SCHW expiring 2024-02-16</title>
+      <link>https://thetagang.com/betathang/3ee5e987-1e33-4f13-816e-0f03452e9cdd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/3ee5e987-1e33-4f13-816e-0f03452e9cdd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3ee5e987-1e33-4f13-816e-0f03452e9cdd-opening</guid>
+      <pubDate>Sat, 27 Jan 2024 01:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 luisbg opened a call debit spread on $MSFT expiring 2024-02-02</title>
+      <link>https://thetagang.com/luisbg/57ce5055-9c2c-4d25-a0d4-b4c2699b5cf2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/luisbg/57ce5055-9c2c-4d25-a0d4-b4c2699b5cf2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">57ce5055-9c2c-4d25-a0d4-b4c2699b5cf2-opening</guid>
+      <pubDate>Mon, 29 Jan 2024 15:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Mexi opened a call debit spread on $RIVN expiring 2024-03-01</title>
+      <link>https://thetagang.com/Mexi/26d36171-8a0a-44a3-b7b2-2de8c0962bad</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Mexi/26d36171-8a0a-44a3-b7b2-2de8c0962bad'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">26d36171-8a0a-44a3-b7b2-2de8c0962bad-opening</guid>
+      <pubDate>Mon, 29 Jan 2024 19:38:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 betathang closed a call debit spread on $NKE expiring 2024-02-23</title>
+      <link>https://thetagang.com/betathang/cb4ae70c-f959-4975-8ab4-e86d51ef00a6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/cb4ae70c-f959-4975-8ab4-e86d51ef00a6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cb4ae70c-f959-4975-8ab4-e86d51ef00a6-closing</guid>
+      <pubDate>Tue, 30 Jan 2024 01:13:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 betathang opened a call debit spread on $AXP expiring 2024-02-23</title>
+      <link>https://thetagang.com/betathang/274906f0-9257-4bcc-9296-5e5f90e816c8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/betathang/274906f0-9257-4bcc-9296-5e5f90e816c8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">274906f0-9257-4bcc-9296-5e5f90e816c8-opening</guid>
+      <pubDate>Tue, 30 Jan 2024 01:25:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a call debit spread on $ENPH expiring 2024-02-02</title>
+      <link>https://thetagang.com/Stizzle/9f87d3f7-8ad2-4f56-a529-c20cdb1f2849</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/9f87d3f7-8ad2-4f56-a529-c20cdb1f2849'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9f87d3f7-8ad2-4f56-a529-c20cdb1f2849-opening</guid>
+      <pubDate>Tue, 30 Jan 2024 14:51:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a call debit spread on $TSLA expiring 2024-02-02</title>
+      <link>https://thetagang.com/Stizzle/ad305fd3-f9cc-4093-b312-f7ddac6c9278</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/ad305fd3-f9cc-4093-b312-f7ddac6c9278'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ad305fd3-f9cc-4093-b312-f7ddac6c9278-closing</guid>
+      <pubDate>Tue, 30 Jan 2024 14:52:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Burnttoast closed a call debit spread on $SBUX expiring 2024-03-08</title>
+      <link>https://thetagang.com/Burnttoast/ee0ede98-e373-4cef-8095-f2a6a7a64118</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/ee0ede98-e373-4cef-8095-f2a6a7a64118'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ee0ede98-e373-4cef-8095-f2a6a7a64118-closing</guid>
+      <pubDate>Wed, 31 Jan 2024 16:50:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a call debit spread on $AXP expiring 2024-02-16</title>
+      <link>https://thetagang.com/jrue/aecbc632-70ee-48fe-be90-742b45badccb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/aecbc632-70ee-48fe-be90-742b45badccb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">aecbc632-70ee-48fe-be90-742b45badccb-opening</guid>
+      <pubDate>Wed, 31 Jan 2024 17:31:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a call debit spread on $MMM expiring 2024-04-19</title>
+      <link>https://thetagang.com/Burnttoast/7201035e-6b9e-440c-b53d-c980bbc38e96</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/7201035e-6b9e-440c-b53d-c980bbc38e96'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7201035e-6b9e-440c-b53d-c980bbc38e96-opening</guid>
+      <pubDate>Wed, 31 Jan 2024 20:18:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Nala opened a call debit spread on $INTC expiring 2024-03-15</title>
+      <link>https://thetagang.com/Nala/62b072e8-b079-4632-925a-7ebacefb1f32</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Nala/62b072e8-b079-4632-925a-7ebacefb1f32'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">62b072e8-b079-4632-925a-7ebacefb1f32-opening</guid>
+      <pubDate>Thu, 01 Feb 2024 19:46:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 dicuixuan closed a call debit spread on $AAPL expiring 2024-02-16</title>
+      <link>https://thetagang.com/dicuixuan/4d02cc7f-28f7-4d03-a2d8-edd80d295a72</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dicuixuan/4d02cc7f-28f7-4d03-a2d8-edd80d295a72'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4d02cc7f-28f7-4d03-a2d8-edd80d295a72-closing</guid>
+      <pubDate>Thu, 01 Feb 2024 20:29:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a call debit spread on $ENPH expiring 2024-04-19</title>
+      <link>https://thetagang.com/Burnttoast/66a7b782-7182-456e-a087-b3d59556a312</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/66a7b782-7182-456e-a087-b3d59556a312'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">66a7b782-7182-456e-a087-b3d59556a312-opening</guid>
+      <pubDate>Fri, 02 Feb 2024 17:59:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a call debit spread on $TSLA expiring 2024-02-09</title>
+      <link>https://thetagang.com/Stizzle/45385608-e4f5-44e9-b0cf-8abbf532de9f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/45385608-e4f5-44e9-b0cf-8abbf532de9f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">45385608-e4f5-44e9-b0cf-8abbf532de9f-opening</guid>
+      <pubDate>Tue, 06 Feb 2024 15:02:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a call debit spread on $PINS expiring 2024-02-16</title>
+      <link>https://thetagang.com/Stizzle/1d5237b6-659b-44ea-9952-9ecf7d52b3c1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/1d5237b6-659b-44ea-9952-9ecf7d52b3c1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1d5237b6-659b-44ea-9952-9ecf7d52b3c1-opening</guid>
+      <pubDate>Tue, 06 Feb 2024 15:03:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 africantrader closed a call debit spread on $TSLA expiring 2024-01-26</title>
+      <link>https://thetagang.com/africantrader/dfd3c6b9-c6ea-4d53-826a-a57bb53214ee</link>
+      <description>For more details, &lt;a href='https://thetagang.com/africantrader/dfd3c6b9-c6ea-4d53-826a-a57bb53214ee'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dfd3c6b9-c6ea-4d53-826a-a57bb53214ee-closing</guid>
+      <pubDate>Wed, 07 Feb 2024 22:51:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a call debit spread on $UNP expiring 2024-02-23</title>
+      <link>https://thetagang.com/jrue/35cdb122-ce49-4b99-91b7-6fe20a2274c5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/35cdb122-ce49-4b99-91b7-6fe20a2274c5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">35cdb122-ce49-4b99-91b7-6fe20a2274c5-opening</guid>
+      <pubDate>Thu, 08 Feb 2024 20:22:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a call debit spread on $CVS expiring 2024-03-01</title>
+      <link>https://thetagang.com/jrue/ffb1c7b0-d6eb-43d7-a208-50019e7fd491</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/ffb1c7b0-d6eb-43d7-a208-50019e7fd491'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ffb1c7b0-d6eb-43d7-a208-50019e7fd491-opening</guid>
+      <pubDate>Thu, 08 Feb 2024 20:29:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Nala closed a call debit spread on $INTC expiring 2024-03-15</title>
+      <link>https://thetagang.com/Nala/10abc339-3ff6-4db3-928c-e2c1788720db</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Nala/10abc339-3ff6-4db3-928c-e2c1788720db'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">10abc339-3ff6-4db3-928c-e2c1788720db-closing</guid>
+      <pubDate>Fri, 09 Feb 2024 16:12:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dom747 opened a call debit spread on $ARM expiring 2024-03-01</title>
+      <link>https://thetagang.com/dom747/fa07a928-5aea-4316-abb6-16cb4f2651fb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/fa07a928-5aea-4316-abb6-16cb4f2651fb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fa07a928-5aea-4316-abb6-16cb4f2651fb-opening</guid>
+      <pubDate>Fri, 09 Feb 2024 18:43:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a call debit spread on $GOOGL expiring 2024-03-15</title>
+      <link>https://thetagang.com/jrue/b10230aa-b4fd-433e-864f-cbcaa1a7d669</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/b10230aa-b4fd-433e-864f-cbcaa1a7d669'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b10230aa-b4fd-433e-864f-cbcaa1a7d669-opening</guid>
+      <pubDate>Fri, 09 Feb 2024 19:50:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dom747 opened a call debit spread on $ANET expiring 2024-02-16</title>
+      <link>https://thetagang.com/dom747/87130bf8-de6d-48ac-9219-ed6f2afcca70</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/87130bf8-de6d-48ac-9219-ed6f2afcca70'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">87130bf8-de6d-48ac-9219-ed6f2afcca70-opening</guid>
+      <pubDate>Fri, 09 Feb 2024 20:06:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a call debit spread on $TSLA expiring 2024-02-23</title>
+      <link>https://thetagang.com/Stizzle/ef02e4c5-4716-40ac-84ed-33b07eb13802</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/ef02e4c5-4716-40ac-84ed-33b07eb13802'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ef02e4c5-4716-40ac-84ed-33b07eb13802-opening</guid>
+      <pubDate>Mon, 12 Feb 2024 15:10:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a call debit spread on $TSLA expiring 2024-04-19</title>
+      <link>https://thetagang.com/Burnttoast/e28b0bbe-764c-46ef-aac3-cc8d96da959b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/e28b0bbe-764c-46ef-aac3-cc8d96da959b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e28b0bbe-764c-46ef-aac3-cc8d96da959b-opening</guid>
+      <pubDate>Mon, 12 Feb 2024 19:41:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a call debit spread on $XLE expiring 2024-03-08</title>
+      <link>https://thetagang.com/jrue/ee2160e6-1604-40de-982a-cb3a40dfcdd1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/ee2160e6-1604-40de-982a-cb3a40dfcdd1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ee2160e6-1604-40de-982a-cb3a40dfcdd1-opening</guid>
+      <pubDate>Thu, 15 Feb 2024 17:18:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a call debit spread on $SPX expiring 2024-02-16</title>
+      <link>https://thetagang.com/jrue/9605e727-e37d-4226-a5fd-8478cfa7fe3d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/9605e727-e37d-4226-a5fd-8478cfa7fe3d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9605e727-e37d-4226-a5fd-8478cfa7fe3d-closing</guid>
+      <pubDate>Fri, 16 Feb 2024 20:58:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a call debit spread on $AAPL expiring 2024-04-19</title>
+      <link>https://thetagang.com/Burnttoast/3fa24409-ae1c-4df2-92af-12d557138ca2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/3fa24409-ae1c-4df2-92af-12d557138ca2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3fa24409-ae1c-4df2-92af-12d557138ca2-opening</guid>
+      <pubDate>Tue, 20 Feb 2024 16:51:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 I_Am_Him opened a call debit spread on $NVDA expiring 2024-02-23</title>
+      <link>https://thetagang.com/I_Am_Him/9b941f04-9bba-4e42-a0f4-1484d2e3419c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/I_Am_Him/9b941f04-9bba-4e42-a0f4-1484d2e3419c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9b941f04-9bba-4e42-a0f4-1484d2e3419c-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 20:25:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a call debit spread on $SMCI expiring 2024-03-15</title>
+      <link>https://thetagang.com/Akane/35c48cb9-1718-4463-8d83-74d2bbc8df29</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/35c48cb9-1718-4463-8d83-74d2bbc8df29'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">35c48cb9-1718-4463-8d83-74d2bbc8df29-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 23:34:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a call debit spread on $NVDA expiring 2024-02-23</title>
+      <link>https://thetagang.com/Akane/689ce3f3-af68-4f10-ad6d-19d44b35d03e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/689ce3f3-af68-4f10-ad6d-19d44b35d03e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">689ce3f3-af68-4f10-ad6d-19d44b35d03e-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 23:36:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a call debit spread on $NVDA expiring 2024-02-23</title>
+      <link>https://thetagang.com/Akane/66467b85-4f98-460c-86bf-0d9f697d3cea</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/66467b85-4f98-460c-86bf-0d9f697d3cea'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">66467b85-4f98-460c-86bf-0d9f697d3cea-opening</guid>
+      <pubDate>Wed, 21 Feb 2024 23:39:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a call debit spread on $PANW expiring 2024-04-19</title>
+      <link>https://thetagang.com/Burnttoast/e5173b90-9406-4d04-a043-ae5600ebf3f8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/e5173b90-9406-4d04-a043-ae5600ebf3f8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e5173b90-9406-4d04-a043-ae5600ebf3f8-opening</guid>
+      <pubDate>Thu, 22 Feb 2024 17:38:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a call debit spread on $CRWD expiring 2024-02-23</title>
+      <link>https://thetagang.com/Stizzle/d46e16ec-2d09-43f0-8ce6-dd5a8db1a33a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/d46e16ec-2d09-43f0-8ce6-dd5a8db1a33a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d46e16ec-2d09-43f0-8ce6-dd5a8db1a33a-opening</guid>
+      <pubDate>Thu, 22 Feb 2024 18:16:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 waustin555 closed a call debit spread on $CELH expiring 2024-02-01</title>
+      <link>https://thetagang.com/waustin555/16d7d5e9-092d-417f-92bd-5ca2435958cd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/waustin555/16d7d5e9-092d-417f-92bd-5ca2435958cd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">16d7d5e9-092d-417f-92bd-5ca2435958cd-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 18:41:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a call debit spread on $DIS expiring 2024-02-23</title>
+      <link>https://thetagang.com/Stizzle/3826eab0-e390-4f78-aba3-769e2807681d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/3826eab0-e390-4f78-aba3-769e2807681d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3826eab0-e390-4f78-aba3-769e2807681d-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 19:28:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a call debit spread on $SQ expiring 2024-03-08</title>
+      <link>https://thetagang.com/Akane/f1468adc-1d1e-4296-b942-5634e1d21e31</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/f1468adc-1d1e-4296-b942-5634e1d21e31'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f1468adc-1d1e-4296-b942-5634e1d21e31-opening</guid>
+      <pubDate>Thu, 22 Feb 2024 20:58:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 blobbingaway opened a call debit spread on $WMT expiring 2024-03-08</title>
+      <link>https://thetagang.com/blobbingaway/5b8c6549-cca1-4905-bad8-7ce189a2b618</link>
+      <description>For more details, &lt;a href='https://thetagang.com/blobbingaway/5b8c6549-cca1-4905-bad8-7ce189a2b618'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5b8c6549-cca1-4905-bad8-7ce189a2b618-opening</guid>
+      <pubDate>Fri, 23 Feb 2024 20:16:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 BigWang closed a call debit spread on $NDX expiring 2024-02-23</title>
+      <link>https://thetagang.com/BigWang/9878354b-f022-48cc-a0e9-6b94a5ac457d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/BigWang/9878354b-f022-48cc-a0e9-6b94a5ac457d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9878354b-f022-48cc-a0e9-6b94a5ac457d-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 02:03:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Burnttoast closed a call debit spread on $XOM expiring 2024-04-19</title>
+      <link>https://thetagang.com/Burnttoast/e3be866e-ea0a-4f9e-9828-6f521093ee21</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/e3be866e-ea0a-4f9e-9828-6f521093ee21'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e3be866e-ea0a-4f9e-9828-6f521093ee21-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 15:32:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dom747 opened a call debit spread on $HOOD expiring 2024-04-19</title>
+      <link>https://thetagang.com/dom747/14d0d55f-bc74-42cc-9598-1c0aab9f9285</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/14d0d55f-bc74-42cc-9598-1c0aab9f9285'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">14d0d55f-bc74-42cc-9598-1c0aab9f9285-opening</guid>
+      <pubDate>Mon, 26 Feb 2024 18:47:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 pspung closed a call debit spread on $SPX expiring 2024-02-26</title>
+      <link>https://thetagang.com/pspung/f58f8302-5dc2-4f3a-a319-0a70366072b4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/pspung/f58f8302-5dc2-4f3a-a319-0a70366072b4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f58f8302-5dc2-4f3a-a319-0a70366072b4-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 21:21:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a call debit spread on $ROKU expiring 2024-04-19</title>
+      <link>https://thetagang.com/Burnttoast/cf7c6126-8bd6-48e7-b8ed-79a422617cbd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/cf7c6126-8bd6-48e7-b8ed-79a422617cbd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cf7c6126-8bd6-48e7-b8ed-79a422617cbd-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 16:29:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a call debit spread on $CAR expiring 2024-04-19</title>
+      <link>https://thetagang.com/Burnttoast/156e75ef-3f3e-4611-977c-1101de7a5c47</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/156e75ef-3f3e-4611-977c-1101de7a5c47'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">156e75ef-3f3e-4611-977c-1101de7a5c47-opening</guid>
+      <pubDate>Tue, 27 Feb 2024 17:16:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 dom747 closed a call debit spread on $AI expiring 2024-03-01</title>
+      <link>https://thetagang.com/dom747/e27b19e8-03f8-41bf-9022-26d9bcf1f823</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/e27b19e8-03f8-41bf-9022-26d9bcf1f823'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e27b19e8-03f8-41bf-9022-26d9bcf1f823-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 15:29:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a call debit spread on $CVS expiring 2024-03-28</title>
+      <link>https://thetagang.com/jrue/07e483f6-0e2a-45df-9d2e-44e7b438bf8f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/07e483f6-0e2a-45df-9d2e-44e7b438bf8f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">07e483f6-0e2a-45df-9d2e-44e7b438bf8f-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 18:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a call debit spread on $SOUN expiring 2024-03-15</title>
+      <link>https://thetagang.com/Akane/bd8faf94-a270-418e-a546-e2839cf880a3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/bd8faf94-a270-418e-a546-e2839cf880a3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bd8faf94-a270-418e-a546-e2839cf880a3-opening</guid>
+      <pubDate>Thu, 29 Feb 2024 20:49:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mehmehmeh opened a call debit spread on $MDGL expiring 2024-04-19</title>
+      <link>https://thetagang.com/mehmehmeh/9c563d8c-ffa7-4464-8f63-b3a191e1d4b9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/9c563d8c-ffa7-4464-8f63-b3a191e1d4b9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9c563d8c-ffa7-4464-8f63-b3a191e1d4b9-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 15:33:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 bzun opened a call debit spread on $XSP expiring 2024-03-01</title>
+      <link>https://thetagang.com/bzun/49e05940-bbf0-4131-ab2c-c07d2363cbb4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bzun/49e05940-bbf0-4131-ab2c-c07d2363cbb4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">49e05940-bbf0-4131-ab2c-c07d2363cbb4-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 15:33:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a call debit spread on $XLE expiring 2024-03-28</title>
+      <link>https://thetagang.com/jrue/12bce834-4f77-4443-ba41-40cd5264b6b6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/12bce834-4f77-4443-ba41-40cd5264b6b6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">12bce834-4f77-4443-ba41-40cd5264b6b6-opening</guid>
+      <pubDate>Fri, 01 Mar 2024 20:10:19 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

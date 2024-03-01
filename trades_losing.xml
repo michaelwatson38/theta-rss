@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Losing trades only</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Losing trades only</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 01 Mar 2024 23:53:58 +0000</lastBuildDate>
+    <item>
+      <title>🏁 alexhugo closed a long put on $SPX expiring 2024-02-12</title>
+      <link>https://thetagang.com/alexhugo/da5e4812-fe72-40c7-bf11-eaef6c348fe9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/alexhugo/da5e4812-fe72-40c7-bf11-eaef6c348fe9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">da5e4812-fe72-40c7-bf11-eaef6c348fe9-closing</guid>
+      <pubDate>Tue, 13 Feb 2024 18:38:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Mexi closed a long call on $SPY expiring 2024-02-14</title>
+      <link>https://thetagang.com/Mexi/429c7d8b-fec3-4347-aec3-6175c7100d23</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Mexi/429c7d8b-fec3-4347-aec3-6175c7100d23'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">429c7d8b-fec3-4347-aec3-6175c7100d23-closing</guid>
+      <pubDate>Tue, 13 Feb 2024 19:26:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ThetAggie closed a cash secured put on $AAPL expiring 2024-03-15</title>
+      <link>https://thetagang.com/ThetAggie/6ee553ab-9fc8-4bad-aab2-688adb4fd0ff</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ThetAggie/6ee553ab-9fc8-4bad-aab2-688adb4fd0ff'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6ee553ab-9fc8-4bad-aab2-688adb4fd0ff-closing</guid>
+      <pubDate>Tue, 13 Feb 2024 20:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ninetoe closed a long call on $QQQ expiring 2024-02-13</title>
+      <link>https://thetagang.com/Ninetoe/8f315e53-90ed-4c57-9c41-42a393af10a8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/8f315e53-90ed-4c57-9c41-42a393af10a8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8f315e53-90ed-4c57-9c41-42a393af10a8-closing</guid>
+      <pubDate>Tue, 13 Feb 2024 23:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ninetoe closed a long put on $QQQ expiring 2024-02-13</title>
+      <link>https://thetagang.com/Ninetoe/1e021364-868d-4493-b67d-386e91f1b815</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/1e021364-868d-4493-b67d-386e91f1b815'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1e021364-868d-4493-b67d-386e91f1b815-closing</guid>
+      <pubDate>Tue, 13 Feb 2024 23:51:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ninetoe closed a long call on $QQQ expiring 2024-02-13</title>
+      <link>https://thetagang.com/Ninetoe/9260b6a9-04b4-455f-9524-1585ff922df3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/9260b6a9-04b4-455f-9524-1585ff922df3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9260b6a9-04b4-455f-9524-1585ff922df3-closing</guid>
+      <pubDate>Tue, 13 Feb 2024 23:55:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 tinnystrong closed a long put on $NVDA expiring 2024-02-16</title>
+      <link>https://thetagang.com/tinnystrong/0579eb1a-34fb-4a2a-841d-dbaf688fc69b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/0579eb1a-34fb-4a2a-841d-dbaf688fc69b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0579eb1a-34fb-4a2a-841d-dbaf688fc69b-closing</guid>
+      <pubDate>Wed, 14 Feb 2024 03:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 sleepynate closed a long put on $SPX expiring 2024-02-14</title>
+      <link>https://thetagang.com/sleepynate/c2bd4ebd-fdfb-4fb6-87ea-42dc9af593d9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sleepynate/c2bd4ebd-fdfb-4fb6-87ea-42dc9af593d9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c2bd4ebd-fdfb-4fb6-87ea-42dc9af593d9-closing</guid>
+      <pubDate>Wed, 14 Feb 2024 15:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 BxrgnBxndt closed a covered call on $BROS expiring 2024-02-23</title>
+      <link>https://thetagang.com/BxrgnBxndt/9a9d58c0-e5af-4179-8423-2c1d7398e6d5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/BxrgnBxndt/9a9d58c0-e5af-4179-8423-2c1d7398e6d5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9a9d58c0-e5af-4179-8423-2c1d7398e6d5-closing</guid>
+      <pubDate>Wed, 14 Feb 2024 16:28:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ninetoe closed a long put on $QQQ expiring 2024-02-14</title>
+      <link>https://thetagang.com/Ninetoe/4449f8a0-df72-49db-bea5-8636817151f7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/4449f8a0-df72-49db-bea5-8636817151f7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4449f8a0-df72-49db-bea5-8636817151f7-closing</guid>
+      <pubDate>Wed, 14 Feb 2024 21:04:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ninetoe closed a long put on $/ES expiring 2024-02-14</title>
+      <link>https://thetagang.com/Ninetoe/defb2316-4314-44ef-9ff2-a42781cb4674</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/defb2316-4314-44ef-9ff2-a42781cb4674'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">defb2316-4314-44ef-9ff2-a42781cb4674-closing</guid>
+      <pubDate>Wed, 14 Feb 2024 21:04:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 tinnystrong closed a long put on $SHOP expiring 2024-03-15</title>
+      <link>https://thetagang.com/tinnystrong/757af4d7-7cd9-492d-b45b-4531c8e1cbd0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/757af4d7-7cd9-492d-b45b-4531c8e1cbd0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">757af4d7-7cd9-492d-b45b-4531c8e1cbd0-closing</guid>
+      <pubDate>Thu, 15 Feb 2024 04:35:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Mr_integrity closed a cash secured put on $NET expiring 2024-03-15</title>
+      <link>https://thetagang.com/Mr_integrity/29ed979a-013e-4629-987c-95096e875bfd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Mr_integrity/29ed979a-013e-4629-987c-95096e875bfd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">29ed979a-013e-4629-987c-95096e875bfd-closing</guid>
+      <pubDate>Thu, 15 Feb 2024 15:24:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Thetagoon closed a cash secured put on $LUV expiring 2024-02-16</title>
+      <link>https://thetagang.com/Thetagoon/a9e686c1-3375-484d-8093-9a383e1b051c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Thetagoon/a9e686c1-3375-484d-8093-9a383e1b051c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a9e686c1-3375-484d-8093-9a383e1b051c-closing</guid>
+      <pubDate>Thu, 15 Feb 2024 18:45:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 GHMZZ closed a put credit spread on $AMD expiring 2024-04-19</title>
+      <link>https://thetagang.com/GHMZZ/c4093350-f7b8-4e39-a7d0-10f354c464a3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/GHMZZ/c4093350-f7b8-4e39-a7d0-10f354c464a3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c4093350-f7b8-4e39-a7d0-10f354c464a3-closing</guid>
+      <pubDate>Thu, 15 Feb 2024 20:37:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long call on $SMCI expiring 2024-02-16</title>
+      <link>https://thetagang.com/mehmehmeh/fee1b564-ca32-46cd-8e6c-907b311495b9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/fee1b564-ca32-46cd-8e6c-907b311495b9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fee1b564-ca32-46cd-8e6c-907b311495b9-closing</guid>
+      <pubDate>Fri, 16 Feb 2024 14:42:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long call on $AAPL expiring 2024-02-16</title>
+      <link>https://thetagang.com/mehmehmeh/f993aae6-9a25-480c-bf5c-17005f40ba99</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/f993aae6-9a25-480c-bf5c-17005f40ba99'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f993aae6-9a25-480c-bf5c-17005f40ba99-closing</guid>
+      <pubDate>Fri, 16 Feb 2024 14:43:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 simofin closed a long call on $SMCI expiring 2024-02-23</title>
+      <link>https://thetagang.com/simofin/96d3c6ef-35f0-4153-a68c-26d444451ff6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/simofin/96d3c6ef-35f0-4153-a68c-26d444451ff6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">96d3c6ef-35f0-4153-a68c-26d444451ff6-closing</guid>
+      <pubDate>Fri, 16 Feb 2024 18:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 simofin closed a long call on $SMCI expiring 2024-03-15</title>
+      <link>https://thetagang.com/simofin/36ba3c8d-7808-4147-9128-1f3c5799970f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/simofin/36ba3c8d-7808-4147-9128-1f3c5799970f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">36ba3c8d-7808-4147-9128-1f3c5799970f-closing</guid>
+      <pubDate>Fri, 16 Feb 2024 18:31:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 simofin closed a long call on $SMCI expiring 2024-03-15</title>
+      <link>https://thetagang.com/simofin/cb35a036-70b9-4add-ba36-188f84ca9fc4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/simofin/cb35a036-70b9-4add-ba36-188f84ca9fc4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cb35a036-70b9-4add-ba36-188f84ca9fc4-closing</guid>
+      <pubDate>Fri, 16 Feb 2024 18:31:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 simofin closed a long call on $SMCI expiring 2024-02-16</title>
+      <link>https://thetagang.com/simofin/bae56ca2-0b22-4d53-9e43-0a26c1b50fc8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/simofin/bae56ca2-0b22-4d53-9e43-0a26c1b50fc8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bae56ca2-0b22-4d53-9e43-0a26c1b50fc8-closing</guid>
+      <pubDate>Fri, 16 Feb 2024 20:37:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 vp closed a long call on $TSLA expiring 2024-03-01</title>
+      <link>https://thetagang.com/vp/0493fd53-76cf-4e44-a5bb-e553b1803949</link>
+      <description>For more details, &lt;a href='https://thetagang.com/vp/0493fd53-76cf-4e44-a5bb-e553b1803949'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0493fd53-76cf-4e44-a5bb-e553b1803949-closing</guid>
+      <pubDate>Fri, 16 Feb 2024 21:30:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 sleepynate closed a long put on $SPX expiring 2024-02-16</title>
+      <link>https://thetagang.com/sleepynate/58891fab-1406-4b83-8382-c07a32cb0475</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sleepynate/58891fab-1406-4b83-8382-c07a32cb0475'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">58891fab-1406-4b83-8382-c07a32cb0475-closing</guid>
+      <pubDate>Fri, 16 Feb 2024 21:38:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 paltman closed a cash secured put on $TSLA expiring 2024-02-16</title>
+      <link>https://thetagang.com/paltman/6d583b72-0849-41bd-9aca-33d647e5f29f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/paltman/6d583b72-0849-41bd-9aca-33d647e5f29f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6d583b72-0849-41bd-9aca-33d647e5f29f-closing</guid>
+      <pubDate>Sat, 17 Feb 2024 15:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Chamiel closed a call credit spread on $MSFT expiring 2024-02-16</title>
+      <link>https://thetagang.com/Chamiel/f94a70c6-4401-4a25-a68d-f28259bb02e4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Chamiel/f94a70c6-4401-4a25-a68d-f28259bb02e4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f94a70c6-4401-4a25-a68d-f28259bb02e4-closing</guid>
+      <pubDate>Sun, 18 Feb 2024 01:52:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Chamiel closed a call credit spread on $MSFT expiring 2024-02-16</title>
+      <link>https://thetagang.com/Chamiel/aedda0ad-88bd-4e9b-995b-23a04aee576c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Chamiel/aedda0ad-88bd-4e9b-995b-23a04aee576c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">aedda0ad-88bd-4e9b-995b-23a04aee576c-closing</guid>
+      <pubDate>Sun, 18 Feb 2024 01:52:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Chamiel closed a long call on $TSLA expiring 2024-02-09</title>
+      <link>https://thetagang.com/Chamiel/ddb2becf-4572-484f-bea0-2d8eb2597ba3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Chamiel/ddb2becf-4572-484f-bea0-2d8eb2597ba3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ddb2becf-4572-484f-bea0-2d8eb2597ba3-closing</guid>
+      <pubDate>Sun, 18 Feb 2024 01:59:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 peachlicense closed a long call on $TSLA expiring 2024-03-08</title>
+      <link>https://thetagang.com/peachlicense/9cafb6b8-0734-48e6-9bb1-6f387a4f3a3b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/peachlicense/9cafb6b8-0734-48e6-9bb1-6f387a4f3a3b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9cafb6b8-0734-48e6-9bb1-6f387a4f3a3b-closing</guid>
+      <pubDate>Tue, 20 Feb 2024 14:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 vp closed a long put on $SMCI expiring 2024-02-23</title>
+      <link>https://thetagang.com/vp/8e0ab3f9-eb4d-4b1e-a78e-8740784c1c01</link>
+      <description>For more details, &lt;a href='https://thetagang.com/vp/8e0ab3f9-eb4d-4b1e-a78e-8740784c1c01'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8e0ab3f9-eb4d-4b1e-a78e-8740784c1c01-closing</guid>
+      <pubDate>Tue, 20 Feb 2024 17:09:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ordainedpuma closed a long put on $XIU.TO expiring 2024-03-28</title>
+      <link>https://thetagang.com/Ordainedpuma/90375a28-b5f8-4087-9865-a7ec84303bcb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ordainedpuma/90375a28-b5f8-4087-9865-a7ec84303bcb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">90375a28-b5f8-4087-9865-a7ec84303bcb-closing</guid>
+      <pubDate>Tue, 20 Feb 2024 20:02:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 simofin closed a long put on $SMCI expiring 2024-03-15</title>
+      <link>https://thetagang.com/simofin/7bf89fb3-9167-4939-9741-aad7da93ffe9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/simofin/7bf89fb3-9167-4939-9741-aad7da93ffe9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7bf89fb3-9167-4939-9741-aad7da93ffe9-closing</guid>
+      <pubDate>Tue, 20 Feb 2024 21:22:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 I_Am_Him closed a put credit spread on $SPX expiring 2024-02-21</title>
+      <link>https://thetagang.com/I_Am_Him/c02a1007-e490-48ba-8ffa-0ed4668be36b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/I_Am_Him/c02a1007-e490-48ba-8ffa-0ed4668be36b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c02a1007-e490-48ba-8ffa-0ed4668be36b-closing</guid>
+      <pubDate>Wed, 21 Feb 2024 20:24:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 sleepynate closed a butterfly call debit spread on $SPX expiring 2024-02-21</title>
+      <link>https://thetagang.com/sleepynate/69e96e34-d550-4166-93be-6b10502c809b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sleepynate/69e96e34-d550-4166-93be-6b10502c809b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">69e96e34-d550-4166-93be-6b10502c809b-closing</guid>
+      <pubDate>Wed, 21 Feb 2024 20:57:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Baedrian closed a long call on $AMD expiring 2024-02-09</title>
+      <link>https://thetagang.com/Baedrian/70e8108e-5463-4f99-bac1-94db6f83511f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Baedrian/70e8108e-5463-4f99-bac1-94db6f83511f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">70e8108e-5463-4f99-bac1-94db6f83511f-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 00:17:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 internetvirgo closed a long call on $NVD expiring 2024-03-15</title>
+      <link>https://thetagang.com/internetvirgo/90e99b49-0470-4195-96d5-bb2e06570532</link>
+      <description>For more details, &lt;a href='https://thetagang.com/internetvirgo/90e99b49-0470-4195-96d5-bb2e06570532'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">90e99b49-0470-4195-96d5-bb2e06570532-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 03:20:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 tinnystrong closed a long call on $QQQ expiring 2024-02-23</title>
+      <link>https://thetagang.com/tinnystrong/887a8b55-828e-425d-9c37-a20895ea791a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/887a8b55-828e-425d-9c37-a20895ea791a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">887a8b55-828e-425d-9c37-a20895ea791a-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 04:03:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 KeeNP closed a long put on $FXI expiring 2024-02-09</title>
+      <link>https://thetagang.com/KeeNP/d0462713-84f1-4797-860a-a97a666ed1ff</link>
+      <description>For more details, &lt;a href='https://thetagang.com/KeeNP/d0462713-84f1-4797-860a-a97a666ed1ff'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d0462713-84f1-4797-860a-a97a666ed1ff-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 09:32:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 KeeNP closed a long put on $KLIP expiring 2024-02-16</title>
+      <link>https://thetagang.com/KeeNP/30278cb4-76d2-4b43-8b6b-28f86ab96f7b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/KeeNP/30278cb4-76d2-4b43-8b6b-28f86ab96f7b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">30278cb4-76d2-4b43-8b6b-28f86ab96f7b-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 09:34:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Expresso_bean closed a long put on $SOXL expiring 2024-02-23</title>
+      <link>https://thetagang.com/Expresso_bean/39b9f0c5-b07d-41aa-8fab-54a494053f9e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Expresso_bean/39b9f0c5-b07d-41aa-8fab-54a494053f9e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">39b9f0c5-b07d-41aa-8fab-54a494053f9e-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 14:33:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Blizzard closed a short naked call on $BABA expiring 2024-03-08</title>
+      <link>https://thetagang.com/Blizzard/4f8040cc-aa6e-496c-adf2-360e63fab945</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Blizzard/4f8040cc-aa6e-496c-adf2-360e63fab945'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4f8040cc-aa6e-496c-adf2-360e63fab945-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 15:31:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Blizzard closed a cash secured put on $NVDA expiring 2024-03-22</title>
+      <link>https://thetagang.com/Blizzard/22701452-e36c-4642-9d5d-7dfd1b0ae521</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Blizzard/22701452-e36c-4642-9d5d-7dfd1b0ae521'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">22701452-e36c-4642-9d5d-7dfd1b0ae521-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 15:40:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 simofin closed a long put on $NVDA expiring 2024-02-23</title>
+      <link>https://thetagang.com/simofin/42b9df44-00e2-4dba-ac07-61f017d507b4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/simofin/42b9df44-00e2-4dba-ac07-61f017d507b4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">42b9df44-00e2-4dba-ac07-61f017d507b4-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 15:53:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Baedrian closed a long put on $RIVN expiring 2024-03-01</title>
+      <link>https://thetagang.com/Baedrian/e38382a6-f0b8-4a03-98c3-fb1e4beae12b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Baedrian/e38382a6-f0b8-4a03-98c3-fb1e4beae12b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e38382a6-f0b8-4a03-98c3-fb1e4beae12b-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 16:01:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Baedrian closed a long call on $RIVN expiring 2024-03-15</title>
+      <link>https://thetagang.com/Baedrian/639ce910-838a-405e-9179-1ba2d62dded6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Baedrian/639ce910-838a-405e-9179-1ba2d62dded6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">639ce910-838a-405e-9179-1ba2d62dded6-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 16:03:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Baedrian closed a long call on $NVDA expiring 2024-02-23</title>
+      <link>https://thetagang.com/Baedrian/388a89e9-10b7-4f54-b6e9-dd54beae232e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Baedrian/388a89e9-10b7-4f54-b6e9-dd54beae232e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">388a89e9-10b7-4f54-b6e9-dd54beae232e-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 16:08:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a call debit spread on $DIS expiring 2024-02-23</title>
+      <link>https://thetagang.com/Stizzle/3826eab0-e390-4f78-aba3-769e2807681d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/3826eab0-e390-4f78-aba3-769e2807681d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3826eab0-e390-4f78-aba3-769e2807681d-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 19:28:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 vp closed a long put on $MRNA expiring 2024-03-22</title>
+      <link>https://thetagang.com/vp/88b62968-5af8-42e5-97d6-3542a6ec33e4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/vp/88b62968-5af8-42e5-97d6-3542a6ec33e4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">88b62968-5af8-42e5-97d6-3542a6ec33e4-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 20:05:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 vp closed a long call on $INTC expiring 2024-03-15</title>
+      <link>https://thetagang.com/vp/6785448f-4909-4707-b48e-375e3fba599a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/vp/6785448f-4909-4707-b48e-375e3fba599a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6785448f-4909-4707-b48e-375e3fba599a-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 20:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 sleepynate closed a butterfly call debit spread on $SPX expiring 2024-02-22</title>
+      <link>https://thetagang.com/sleepynate/c7a9b12e-a727-43bd-82ed-a98be491ed87</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sleepynate/c7a9b12e-a727-43bd-82ed-a98be491ed87'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c7a9b12e-a727-43bd-82ed-a98be491ed87-closing</guid>
+      <pubDate>Thu, 22 Feb 2024 21:03:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 simofin closed a long call on $SMCI expiring 2024-03-08</title>
+      <link>https://thetagang.com/simofin/2fb482c3-cb6f-4833-b9af-dea299b31082</link>
+      <description>For more details, &lt;a href='https://thetagang.com/simofin/2fb482c3-cb6f-4833-b9af-dea299b31082'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2fb482c3-cb6f-4833-b9af-dea299b31082-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 15:41:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 sleepynate closed a butterfly call debit spread on $SPX expiring 2024-02-23</title>
+      <link>https://thetagang.com/sleepynate/d2f53404-507d-48ee-9eed-c9a9ca17a7e7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sleepynate/d2f53404-507d-48ee-9eed-c9a9ca17a7e7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d2f53404-507d-48ee-9eed-c9a9ca17a7e7-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 16:15:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 tgangkgang closed a long put on $SMCI expiring 2025-01-17</title>
+      <link>https://thetagang.com/tgangkgang/ecd7e1e3-ebe4-4e0e-9adb-07d78f6307b6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tgangkgang/ecd7e1e3-ebe4-4e0e-9adb-07d78f6307b6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ecd7e1e3-ebe4-4e0e-9adb-07d78f6307b6-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 19:56:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 sleepynate closed a call credit spread on $XSP expiring 2024-02-23</title>
+      <link>https://thetagang.com/sleepynate/f20e9307-0fa4-4489-a106-5de22374503a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sleepynate/f20e9307-0fa4-4489-a106-5de22374503a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f20e9307-0fa4-4489-a106-5de22374503a-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 20:53:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 sleepynate closed a long put on $SPX expiring 2024-02-23</title>
+      <link>https://thetagang.com/sleepynate/5c47a147-af49-4af7-8959-6506e677f092</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sleepynate/5c47a147-af49-4af7-8959-6506e677f092'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5c47a147-af49-4af7-8959-6506e677f092-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 21:36:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 vp closed a long call on $SPY expiring 2024-02-23</title>
+      <link>https://thetagang.com/vp/985ea803-1185-40d6-a8bb-b47b40c2532b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/vp/985ea803-1185-40d6-a8bb-b47b40c2532b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">985ea803-1185-40d6-a8bb-b47b40c2532b-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 21:58:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 vp closed a long call on $TGT expiring 2024-02-23</title>
+      <link>https://thetagang.com/vp/e140336d-824c-41ba-a007-a13f8b999cab</link>
+      <description>For more details, &lt;a href='https://thetagang.com/vp/e140336d-824c-41ba-a007-a13f8b999cab'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e140336d-824c-41ba-a007-a13f8b999cab-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 22:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 eve closed a long strangle on $SPY expiring 2024-02-21</title>
+      <link>https://thetagang.com/eve/2852fa91-8ec1-43eb-a092-df11e5bbc93f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/2852fa91-8ec1-43eb-a092-df11e5bbc93f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2852fa91-8ec1-43eb-a092-df11e5bbc93f-closing</guid>
+      <pubDate>Fri, 23 Feb 2024 23:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 pspung closed a put credit spread on $SPX expiring 2024-02-23</title>
+      <link>https://thetagang.com/pspung/c72ddcbf-4009-4932-a900-ba5f269c3c8c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/pspung/c72ddcbf-4009-4932-a900-ba5f269c3c8c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c72ddcbf-4009-4932-a900-ba5f269c3c8c-closing</guid>
+      <pubDate>Sat, 24 Feb 2024 02:46:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 tinnystrong closed a long call on $AMD expiring 2024-02-23</title>
+      <link>https://thetagang.com/tinnystrong/19f56be2-f3f5-4832-b7f1-36b987cf859a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/19f56be2-f3f5-4832-b7f1-36b987cf859a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">19f56be2-f3f5-4832-b7f1-36b987cf859a-closing</guid>
+      <pubDate>Sat, 24 Feb 2024 22:43:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 tinnystrong closed a long call on $AMD expiring 2024-02-23</title>
+      <link>https://thetagang.com/tinnystrong/4495fa32-5525-43c3-ba74-fdf4fc35b4b9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/4495fa32-5525-43c3-ba74-fdf4fc35b4b9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4495fa32-5525-43c3-ba74-fdf4fc35b4b9-closing</guid>
+      <pubDate>Sat, 24 Feb 2024 22:44:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 tinnystrong closed a long call on $NVDA expiring 2024-02-23</title>
+      <link>https://thetagang.com/tinnystrong/e2931292-5454-4eec-a53f-3446a9a6a1ce</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tinnystrong/e2931292-5454-4eec-a53f-3446a9a6a1ce'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e2931292-5454-4eec-a53f-3446a9a6a1ce-closing</guid>
+      <pubDate>Sat, 24 Feb 2024 22:54:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 bzun closed a short iron butterfly on $SPX expiring 2024-02-23</title>
+      <link>https://thetagang.com/bzun/a26833d0-eda6-4e2f-a293-137e95aaa78f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bzun/a26833d0-eda6-4e2f-a293-137e95aaa78f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a26833d0-eda6-4e2f-a293-137e95aaa78f-closing</guid>
+      <pubDate>Sun, 25 Feb 2024 17:43:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 BigWang closed a call debit spread on $NDX expiring 2024-02-23</title>
+      <link>https://thetagang.com/BigWang/9878354b-f022-48cc-a0e9-6b94a5ac457d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/BigWang/9878354b-f022-48cc-a0e9-6b94a5ac457d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9878354b-f022-48cc-a0e9-6b94a5ac457d-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 02:03:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 pspung closed a put credit spread on $SPX expiring 2024-02-26</title>
+      <link>https://thetagang.com/pspung/d37ce796-60ab-49c1-8c92-b580f4cd7ec8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/pspung/d37ce796-60ab-49c1-8c92-b580f4cd7ec8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d37ce796-60ab-49c1-8c92-b580f4cd7ec8-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 21:15:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 pspung closed a call debit spread on $SPX expiring 2024-02-26</title>
+      <link>https://thetagang.com/pspung/f58f8302-5dc2-4f3a-a319-0a70366072b4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/pspung/f58f8302-5dc2-4f3a-a319-0a70366072b4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f58f8302-5dc2-4f3a-a319-0a70366072b4-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 21:21:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 zlyzee closed a long put on $DIA expiring 2024-02-23</title>
+      <link>https://thetagang.com/zlyzee/dc11dc52-993b-4347-8cc4-b169899a8038</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zlyzee/dc11dc52-993b-4347-8cc4-b169899a8038'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dc11dc52-993b-4347-8cc4-b169899a8038-closing</guid>
+      <pubDate>Mon, 26 Feb 2024 23:19:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Takodachi closed a covered call on $RIVN expiring 2024-02-09</title>
+      <link>https://thetagang.com/Takodachi/02cd3ee8-41aa-4c1b-a08f-e1ae9e5eb781</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Takodachi/02cd3ee8-41aa-4c1b-a08f-e1ae9e5eb781'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">02cd3ee8-41aa-4c1b-a08f-e1ae9e5eb781-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 05:19:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Takodachi closed a covered call on $HOOD expiring 2024-02-16</title>
+      <link>https://thetagang.com/Takodachi/7654271a-263e-496b-a433-6d4d0834109d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Takodachi/7654271a-263e-496b-a433-6d4d0834109d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7654271a-263e-496b-a433-6d4d0834109d-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 05:21:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Takodachi closed a covered call on $HOOD expiring 2024-02-16</title>
+      <link>https://thetagang.com/Takodachi/8de600ca-3469-4244-a435-63a3788c0f64</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Takodachi/8de600ca-3469-4244-a435-63a3788c0f64'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8de600ca-3469-4244-a435-63a3788c0f64-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 05:24:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Takodachi closed a call credit spread on $SPY expiring 2024-02-22</title>
+      <link>https://thetagang.com/Takodachi/bd5c2c8b-1e0f-40d5-b501-32e107ef250e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Takodachi/bd5c2c8b-1e0f-40d5-b501-32e107ef250e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bd5c2c8b-1e0f-40d5-b501-32e107ef250e-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 05:35:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a cash secured put on $AMD expiring 2024-01-12</title>
+      <link>https://thetagang.com/koffee/656a9edf-0937-40e6-bf67-68841386f83a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/656a9edf-0937-40e6-bf67-68841386f83a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">656a9edf-0937-40e6-bf67-68841386f83a-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a covered call on $AMD expiring 2024-01-19</title>
+      <link>https://thetagang.com/koffee/994220cc-0f54-4268-af07-e2580ab9e2bd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/994220cc-0f54-4268-af07-e2580ab9e2bd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">994220cc-0f54-4268-af07-e2580ab9e2bd-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:05:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a covered call on $AMD expiring 2024-02-02</title>
+      <link>https://thetagang.com/koffee/2d821bde-ecaf-4625-8b2c-0f9c067524f7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/2d821bde-ecaf-4625-8b2c-0f9c067524f7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2d821bde-ecaf-4625-8b2c-0f9c067524f7-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:06:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a cash secured put on $TSLA expiring 2024-01-12</title>
+      <link>https://thetagang.com/koffee/98668d75-0459-4c3a-84bd-6999aab8c33b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/98668d75-0459-4c3a-84bd-6999aab8c33b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">98668d75-0459-4c3a-84bd-6999aab8c33b-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:17:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a cash secured put on $TSLA expiring 2024-01-19</title>
+      <link>https://thetagang.com/koffee/cd4eb7a1-92d0-445e-8ce3-e207c0659375</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/cd4eb7a1-92d0-445e-8ce3-e207c0659375'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cd4eb7a1-92d0-445e-8ce3-e207c0659375-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:21:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a cash secured put on $TSLA expiring 2024-01-19</title>
+      <link>https://thetagang.com/koffee/8de2dd27-f2da-496f-b06e-fbc241e97a9e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/8de2dd27-f2da-496f-b06e-fbc241e97a9e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8de2dd27-f2da-496f-b06e-fbc241e97a9e-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:22:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a cash secured put on $TSLA expiring 2024-01-26</title>
+      <link>https://thetagang.com/koffee/ba78c7e2-656c-4abc-9240-894eac0d0f44</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/ba78c7e2-656c-4abc-9240-894eac0d0f44'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ba78c7e2-656c-4abc-9240-894eac0d0f44-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:24:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a cash secured put on $TSLA expiring 2024-02-02</title>
+      <link>https://thetagang.com/koffee/7dcb975e-e7ad-4603-a2ea-a371cb505d34</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/7dcb975e-e7ad-4603-a2ea-a371cb505d34'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7dcb975e-e7ad-4603-a2ea-a371cb505d34-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:26:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a cash secured put on $SHOP expiring 2024-01-12</title>
+      <link>https://thetagang.com/koffee/4b15ac73-7a56-418a-9b96-75f0d6b20fbe</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/4b15ac73-7a56-418a-9b96-75f0d6b20fbe'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4b15ac73-7a56-418a-9b96-75f0d6b20fbe-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:42:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a cash secured put on $SHOP expiring 2024-01-19</title>
+      <link>https://thetagang.com/koffee/52675b00-46f5-4074-86dd-9dd0a2510f35</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/52675b00-46f5-4074-86dd-9dd0a2510f35'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">52675b00-46f5-4074-86dd-9dd0a2510f35-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:43:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a cash secured put on $SHOP expiring 2024-02-02</title>
+      <link>https://thetagang.com/koffee/78185948-c33b-4bff-97ca-cc94e2054966</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/78185948-c33b-4bff-97ca-cc94e2054966'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">78185948-c33b-4bff-97ca-cc94e2054966-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:46:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a cash secured put on $SHOP expiring 2024-02-02</title>
+      <link>https://thetagang.com/koffee/c25a6994-ce74-4370-8ea2-a4b5da745d02</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/c25a6994-ce74-4370-8ea2-a4b5da745d02'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c25a6994-ce74-4370-8ea2-a4b5da745d02-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:49:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a cash secured put on $SHOP expiring 2024-02-23</title>
+      <link>https://thetagang.com/koffee/1a1e725f-694c-4646-a63d-fb7c9923995a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/1a1e725f-694c-4646-a63d-fb7c9923995a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1a1e725f-694c-4646-a63d-fb7c9923995a-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 06:52:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a covered call on $TSLA expiring 2024-02-02</title>
+      <link>https://thetagang.com/koffee/73463263-fe96-427c-891f-fbaec92109aa</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/73463263-fe96-427c-891f-fbaec92109aa'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">73463263-fe96-427c-891f-fbaec92109aa-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 07:08:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 koffee closed a cash secured put on $JPM expiring 2024-01-12</title>
+      <link>https://thetagang.com/koffee/13d4c92b-48d2-478f-9a3c-cfe4cdab07af</link>
+      <description>For more details, &lt;a href='https://thetagang.com/koffee/13d4c92b-48d2-478f-9a3c-cfe4cdab07af'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">13d4c92b-48d2-478f-9a3c-cfe4cdab07af-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 07:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ThetAggie closed a cash secured put on $GOOGL expiring 2024-03-22</title>
+      <link>https://thetagang.com/ThetAggie/b70b7ef8-90cb-4e3f-a194-09a970917bd1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ThetAggie/b70b7ef8-90cb-4e3f-a194-09a970917bd1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b70b7ef8-90cb-4e3f-a194-09a970917bd1-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 17:49:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 vp closed a long call on $TOL expiring 2024-04-19</title>
+      <link>https://thetagang.com/vp/c27242e5-1183-4659-b61a-d30197b93237</link>
+      <description>For more details, &lt;a href='https://thetagang.com/vp/c27242e5-1183-4659-b61a-d30197b93237'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c27242e5-1183-4659-b61a-d30197b93237-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 22:13:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 vp closed a long call on $PANW expiring 2024-03-01</title>
+      <link>https://thetagang.com/vp/eab2df2d-8982-4a8e-bc81-00a18dfe4db1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/vp/eab2df2d-8982-4a8e-bc81-00a18dfe4db1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">eab2df2d-8982-4a8e-bc81-00a18dfe4db1-closing</guid>
+      <pubDate>Tue, 27 Feb 2024 22:16:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 danghai closed a long put on $BYND expiring 2024-03-01</title>
+      <link>https://thetagang.com/danghai/8af51150-8f4e-4223-985a-f6dea41f9c34</link>
+      <description>For more details, &lt;a href='https://thetagang.com/danghai/8af51150-8f4e-4223-985a-f6dea41f9c34'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8af51150-8f4e-4223-985a-f6dea41f9c34-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 15:40:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 WagonWheel91 closed a long call on $IOVA expiring 2024-03-08</title>
+      <link>https://thetagang.com/WagonWheel91/f4c20310-3763-4654-80ea-1025cf9b7339</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WagonWheel91/f4c20310-3763-4654-80ea-1025cf9b7339'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f4c20310-3763-4654-80ea-1025cf9b7339-closing</guid>
+      <pubDate>Wed, 28 Feb 2024 21:04:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 dom747 closed a cash secured put on $SNOW expiring 2024-03-01</title>
+      <link>https://thetagang.com/dom747/17261d8b-7d25-4152-a4b3-bba1c7d0e55e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/17261d8b-7d25-4152-a4b3-bba1c7d0e55e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">17261d8b-7d25-4152-a4b3-bba1c7d0e55e-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 15:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 bachatathug closed a long call on $CLSK expiring 2024-03-01</title>
+      <link>https://thetagang.com/bachatathug/d78c1ffb-6977-4741-b605-b2bfc11981ad</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bachatathug/d78c1ffb-6977-4741-b605-b2bfc11981ad'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d78c1ffb-6977-4741-b605-b2bfc11981ad-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 16:44:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Mr_integrity closed a long call on $TSLA expiring 2024-04-19</title>
+      <link>https://thetagang.com/Mr_integrity/b2980b49-858f-4d84-8fb6-71b7e93c5148</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Mr_integrity/b2980b49-858f-4d84-8fb6-71b7e93c5148'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b2980b49-858f-4d84-8fb6-71b7e93c5148-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 17:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Mr_integrity closed a cash secured put on $TSLA expiring 2024-04-19</title>
+      <link>https://thetagang.com/Mr_integrity/dfeef245-bc86-4144-ad77-6e1b92029431</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Mr_integrity/dfeef245-bc86-4144-ad77-6e1b92029431'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dfeef245-bc86-4144-ad77-6e1b92029431-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 17:26:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 bachatathug closed a long call on $SPY expiring 2024-03-04</title>
+      <link>https://thetagang.com/bachatathug/5b635a56-61ba-4ec2-a59c-8dfb1313a2dd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bachatathug/5b635a56-61ba-4ec2-a59c-8dfb1313a2dd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5b635a56-61ba-4ec2-a59c-8dfb1313a2dd-closing</guid>
+      <pubDate>Thu, 29 Feb 2024 23:23:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 vp closed a long call on $PBR expiring 2024-03-19</title>
+      <link>https://thetagang.com/vp/5df281f5-bc4a-4ed7-aa6f-d2642abe4790</link>
+      <description>For more details, &lt;a href='https://thetagang.com/vp/5df281f5-bc4a-4ed7-aa6f-d2642abe4790'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5df281f5-bc4a-4ed7-aa6f-d2642abe4790-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 03:42:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 thetacollector closed a cash secured put on $M expiring 2024-03-01</title>
+      <link>https://thetagang.com/thetacollector/2fb47568-ca23-4865-a440-6c925ac82cb1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/thetacollector/2fb47568-ca23-4865-a440-6c925ac82cb1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2fb47568-ca23-4865-a440-6c925ac82cb1-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 06:15:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ARFFman closed a call credit spread on $AMD expiring 2024-03-01</title>
+      <link>https://thetagang.com/ARFFman/45b0b8b8-90fb-4d5c-9bb8-dc0f59904ee3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/45b0b8b8-90fb-4d5c-9bb8-dc0f59904ee3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">45b0b8b8-90fb-4d5c-9bb8-dc0f59904ee3-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 20:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 KingSwiftVI closed a covered call on $TOST expiring 2024-03-01</title>
+      <link>https://thetagang.com/KingSwiftVI/a1c73144-793c-435b-a168-a293ea7db05a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/KingSwiftVI/a1c73144-793c-435b-a168-a293ea7db05a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a1c73144-793c-435b-a168-a293ea7db05a-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 21:11:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 KingSwiftVI closed a covered call on $INTC expiring 2024-03-01</title>
+      <link>https://thetagang.com/KingSwiftVI/d2465445-dc73-4c92-b4cb-4b6da450cb40</link>
+      <description>For more details, &lt;a href='https://thetagang.com/KingSwiftVI/d2465445-dc73-4c92-b4cb-4b6da450cb40'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d2465445-dc73-4c92-b4cb-4b6da450cb40-closing</guid>
+      <pubDate>Fri, 01 Mar 2024 21:14:21 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
